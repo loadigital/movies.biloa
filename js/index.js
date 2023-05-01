@@ -26,16 +26,16 @@ menu.innerHTML = `
 subMenu.className="content-submenu"
 subMenu.innerHTML = `
     <div class="co-submenu">
-        <li class="link act_recientes"><a href="#">Recientes</a></li>
-        <li class="link act_accion" ><a href="#">Acción</a></li>
-        <li class="link act_animacion" ><a href="#">Animación</a></li>
-        <li class="link act_aventura" ><a href="#">Aventura</a></li>
-        <li class="link act_belicos" ><a href="#">Bélicos</a></li>
-        <li class="link act_comedia" ><a href="#">Comedia</a></li>
-        <li class="link act_documental" ><a href="#">Documental</a></li>
-        <li class="link act_historico" ><a href="#">Histórico</a></li>
-        <li class="link act_romance" ><a href="#">Romance</a></li>
-        <li class="link act_terror" ><a href="#">Terror</a></li>
+        <li class="link act_recientes"><a href="https://loadigital.github.io/movies.biloa/index.html">Recientes</a></li>
+        <li class="link act_accion" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/accion.html">Acción</a></li>
+        <li class="link act_animacion" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/animacion.html">Animación</a></li>
+        <li class="link act_aventura" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/aventura.html">Aventura</a></li>
+        <li class="link act_belicos" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/belicos.html">Bélicos</a></li>
+        <li class="link act_comedia" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/comedia.html">Comedia</a></li>
+        <li class="link act_documental" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/documental.html">Documental</a></li>
+        <li class="link act_historico" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/historico.html">Histórico</a></li>
+        <li class="link act_romance" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/romance.html">Romance</a></li>
+        <li class="link act_terror" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/terror.html">Terror</a></li>
     </div>
        
 
@@ -73,7 +73,7 @@ bX.addEventListener("click", ()=>{document.querySelector(".co-menu-lateral").sty
 
 const bSearch = document.querySelector(".bi-search");
 bSearch.addEventListener("click", function(){
-    window.open('page/search.html' , "_self");
+    window.open('https://loadigital.github.io/movies.biloa/index.html' , "_self");
 })
 
 
