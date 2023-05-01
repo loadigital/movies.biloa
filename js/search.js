@@ -8,15 +8,15 @@ ponleFocus();
 //db
 const contentCards = document.getElementById("co-cards")
 	
-db.forEach(function(numero) {
-    console.log(numero);
+db.forEach(function(data) {
+    console.log(data);
 
     const cards = document.createElement("div");
   
     cards.innerHTML=`
     <div class="cards">
-    <div class="img-cards"><img src="${numero.nombre}" alt=""></div>
-    <div class="title-cards"><p>${numero.title}</p></div>
+    <div class="img-cards"><a href="${data.posterLink}"><img src="${data.imgLink}" alt=""></a></div>
+    <div class="title-cards"><p>${data.title}</p></div>
     </div>
        
 	`
