@@ -3,6 +3,21 @@
 const  db =[
 
   {
+        id:"A459",
+        id_POST:"758323",
+        title:"El exorcista del papa ",
+        genero:"Terror",
+        genres:"Terror, Misterio, Suspense",
+        tipo:"Pelicula",
+        año:"2023",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qcknZEeD71byJ3XSalDDZ5iHpNr.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A459 El exorcista del papa.html",
+        LINK_MOVIES:"http://ober.byethost31.com/v/9GbzvZRBlrQ4YLP",
+        LINK_DESCARGA:"https://loadigital.github.io/ARCHIVO-NO-DISPONIBLE/",
+        TRAILER:"https://www.youtube.com/embed/a-Cx7IE04sA",
+    
+    },
+  {
         id:"A458",
         id_POST:"502356",
         title:"Súper Mario Bros. La película",
