@@ -17,6 +17,21 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/SvJwEiy2Wok",
     
     },
+  {
+        id:"A453",
+        id_POST:"640146",
+        title:"Ant-Man y la Avispa: Quantumanía",
+        genero:"Acción",
+        genres:"Acción, Aventura, Ciencia ficción",
+        tipo:"Pelicula",
+        año:"2023",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jTNYlTEijZ6c8Mn4gvINOeB2HWM.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A453 Ant-Man y la Avispa Quantumanía.html",
+        LINK_MOVIES:"https://infobiloa.github.io/v2.zplayer/fluid.html?id=eyJpZCI6WyIxTEF3SlNWQ3hOdTVzbjFKV2ZCekxncXRIdTY3aFkzVVAiXX0=",
+        LINK_DESCARGA:"https://drive.google.com/u/2/uc?id=1LAwJSVCxNu5sn1JWfBzLgqtHu67hY3UP&export=download",
+        TRAILER:"https://www.youtube.com/embed/BaLJ044I2HI",
+    
+    },
         
     
     
