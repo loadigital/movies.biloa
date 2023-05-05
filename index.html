@@ -24,19 +24,39 @@
 <script src="js/index.js"></script>
 <script>
 //db
-    const contentCards = document.getElementById("co-cards")
+const contentCards = document.getElementById("co-cards")
 
-    db.forEach(function(data) {
+ db.forEach(function(data) {
         console.log(data);
-                const cards = document.createElement("div");
+if(data.tipo === "Pelicula"){
+
+const  API_KEY  =  'api_key=d092eba29fbb5fe6130283f8e1934752' ;
+const  BASE_URL  =  'https://api.themoviedb.org/3' ;
+const  API_URL  =  BASE_URL  +  '/movie/' + data.id_POST + '?' + API_KEY + '&language=es-ES';//CODIGO TMBD
+const  IMG_URL  =  'https://image.tmdb.org/t/p/w500' ;
+
+getMovie(API_URL);
+
+function getMovie(url){
+    fetch(url).then(res => res.json()).then(datos =>{
+        console.log(datos)
+        pintar(datos);
+    });
+};
+
+function pintar(datos){
+
+    const cards = document.createElement("div");
                 cards.innerHTML=`
                 <div class="cards">
-                <div class="img-cards"><a href="${data.posterLink}"><img src="${data.imgLink}" alt=""></a></div>
-                <div class="title-cards"><p>${data.title}</p></div>
+                <div class="img-cards"><a href="${data.posterLink}"><img src="${IMG_URL + datos.poster_path}" alt=""></a></div>
+                <div class="title-cards"><p>${datos.title}</p></div>
                 </div>
                 `
-                contentCards.appendChild(cards)
-            });
+                contentCards.appendChild(cards);
+};
+};
+});
 </script>
 </body>
 </html>
