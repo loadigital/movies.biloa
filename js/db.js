@@ -6,7 +6,7 @@ const  db =[
         id:"A458",
         id_POST:"502356",
         title:"Súper Mario Bros. La película",
-        genero:"Acción",
+        genero:"Animación",
         genres:"Animación, Aventura, Familia, Fantasía, Comedia",
         tipo:"Pelicula",
         año:"2023",
