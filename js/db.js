@@ -3,6 +3,21 @@
 const  db =[
 
   {
+        id:"A435",
+        id_POST:"816904",
+        title:"Momias",
+        genero:"Animación",
+        genres:"Animación, Comedia, Familia, Aventura, Fantasía",
+        tipo:"Pelicula",
+        año:"2023",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/g5vkJAPj4XFlaOXZMYE97LZ7lns.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A435 Momias.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/R5WlRpLwsXjaj9a/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/2/uc?id=1m_xzlSCTChcBBLXpPx35INx0SCABvU-j&export=download",
+        TRAILER:"https://www.youtube.com/embed/xct8u3qXWkc",
+    
+    },
+  {
         id:"A459",
         id_POST:"758323",
         title:"El exorcista del papa ",
