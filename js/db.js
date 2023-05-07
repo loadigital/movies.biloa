@@ -3,6 +3,21 @@
 const  db =[
 
   {
+        id:"A433",
+        id_POST:"638974",
+        title:"Misterio a la vista",
+        genero:"Comedia",
+        genres:"Comedia, Misterio, Acción",
+        tipo:"Pelicula",
+        año:"2023",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3jce1QvM2sma0TKYckNmIKzjhHC.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A433 Misterio a la vista.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/com/v/3lkxwE8ETvinQ8p/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/2/uc?id=1XhwoOXXnHjwg0wQ_Ce0CMDY9-5Niejsx&export=download",
+        TRAILER:"https://www.youtube.com/embed/8ppKGvTbLlw",
+    
+    },
+  {
         id:"A435",
         id_POST:"816904",
         title:"Momias",
