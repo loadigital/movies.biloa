@@ -3,6 +3,21 @@
 const  db =[
 
   {
+        id:"A460",
+        id_POST:"493529",
+        title:"Dungeons & Dragons: Honor entre ladrones",
+        genero:"Aventura",
+        genres:"Aventura, Fantasía, Comedia",
+        tipo:"Pelicula",
+        año:"2023",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/77XBzUUFX5aHI3Jz3ipJTtsDWzk.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A460 Dungeons & Dragons Honor entre ladrones.html",
+        LINK_MOVIES:"http://ober.byethost31.com/v/ufBvzL9WmHIzCGD",
+        LINK_DESCARGA:"http://ober.byethost31.com/stream/720/ZDFoUWNrcDRVWE5VYVV0R2RUVnRRMVJHV2xadmNXRlFkRXR0TDNWNVZHWnJhSFJ4VlhaQ1R6QkdRVWRqWkRGbFJtMTJZWGxHTVhoamVXbEtOMFZ2V2sxS1owOUpieTkzTTFGWFZVOXJTekZTTXpkeFpHaDBWVlZNWTJOV0wyVkRRMHRFV0hKaGJtMXphM2x4WjFwWlVuTkxWVWhTUXpWNGVrZEpVRUp6U1dWS2QyaEdhMVpUYVZreVRuQmpRWEJqV1N0dkx6aGtZUzgzYjNvM2FXeG1lRnBsY0RKSlIyRlBRbTlHWmsxa1RrbExjVzFYZEdGblJsZE1XVU5YTTBNM05GWjRUMEVyYjNsWU1YSkVSRk5ZUkcxbE1uaEtjak5hTDBaSVJVOXJjRWxqYlhveFdXZHVWVGx6YW1FeVNtUldUMXBCVDBsa2MybDNhWGRJSzNKak5XUnhSVTR5VkUxYVNuZFRUMnBFTldSRmVuQldiemN5ZUZGbVVqVlJXblJ4ZVZkWFZuTXJjM2xWWVhodFQzcFpSM05FUTB0T2FrUlljRFIzUm5wRlZqWnRMekJGTkc5WlRHb3hjMnh1V0hFd2JIWkhjRzR2VkhSeFJVWnNNRnBQWTBVcksxWmtVRWRWUkVOdlBRPT0=/__006?t=1683507211",
+        TRAILER:"https://www.youtube.com/embed/Q6nCZDpvA9k",
+    
+    },
+  {
         id:"A433",
         id_POST:"638974",
         title:"Misterio a la vista",
