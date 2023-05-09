@@ -1,4 +1,9 @@
-
+/*
+---© Proyecto B!LOA. All rights reserved
+---Autor:Ober Hernandez
+---Proyecto de aprendizaje
+---info.biloa@gmail.com
+*/
 html, body{
     height: 100%;
     margin: 0;
@@ -133,6 +138,12 @@ header{
 
 }
 /*>>>>>>>>>>>>>>>>menu lateral>>>>>>>>>>>>>>>>>>>>*/
+@media screen and (min-width: 1024px){
+    .co-menu-lateral, .bx{
+        width: 60%;
+        max-width: 300px;
+    }
+}
 nav{
     background: #000000;
 }
@@ -243,7 +254,7 @@ nav{
 
 .include-main{
    width: 100%;
-   margin-top: 110px;
+   margin-top: 105px;
    display: flex;
    flex-direction: row;
    flex-wrap: wrap;
@@ -376,5 +387,7 @@ nav{
     color: #fff;
     
 }
+
+
 
 
