@@ -1,7 +1,28 @@
+/*
+---© Proyecto B!LOA. All rights reserved
+---Autor:Ober Hernandez
+---Proyecto de aprendizaje
+---info.biloa@gmail.com
+*/
 //BASE DE DATOS PELICULAS
 
 const  db =[
 
+  {
+        id:"A462",
+        id_POST:"917300",
+        title:"Crimen imperfecto",
+        genero:"Suspenso",
+        genres:"Suspense, Crimen",
+        tipo:"Pelicula",
+        año:"2022",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/tisFwDMXgqIevuSMftHGILPDJOI.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A462 Crimen imperfecto.html",
+        LINK_MOVIES:"https://mega.nz/embed/cfJ2BQoA#iCPSYE9AQKZvx9fz9BUgExprFe1wToumAvuBLEXXDGg",
+        LINK_DESCARGA:"https://mega.nz/file/cfJ2BQoA#iCPSYE9AQKZvx9fz9BUgExprFe1wToumAvuBLEXXDGg",
+        TRAILER:"https://www.youtube.com/embed/4GOwEJe86U8",
+    
+    },
   {
         id:"A460",
         id_POST:"493529",
