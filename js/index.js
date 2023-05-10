@@ -54,7 +54,7 @@ co_menu_lateral.innerHTML = `
             <div class="bx">
                 <div class="bx-1"><i class="bi-x"></i></div>
                 <div class="co-logo-1"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIcl_Aw2611bC9UWhKHC7O1PKnvUWR3B6oATFG0b4iAVF1S9Klv-FMLde3DQno56WXIINX1BVejaFxfCwucf3eduX80ARWh3QREsHuQ6Npql4MiKCvnX4eVwU5P7rV6oXWx0N74VE_0_LwLDOTZ_HbvsQgDHbLU0blEc5Hu7_7GrbBaN0jUS2f7I2g/s166/LOGO1.png"></div>
-                <div class="co-text-v"><p>Versión: 5.0.1</p></div>
+                <div class="co-text-v"><p>Versión: 5.0.2</p></div>
             </div>
             <div class="bc">
             
