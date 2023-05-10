@@ -63,7 +63,7 @@ const  db =[
         marvel:"Marvel",
         año:"2017",
         imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg",
-        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/ A461 Guardianes de la Galaxia 2.html",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A461 Guardianes de la Galaxia 2.html",
         LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/Q5kFXR8ikWfhIbI/__001",
         LINK_DESCARGA:"https://drive.google.com/u/7/uc?id=1uHma8BJKndNKSKAUpOc7BinVliIoXDn5&export=download",
         TRAILER:"https://www.youtube.com/embed/bLHMFhtYnXw",
