@@ -8,6 +8,21 @@
 
 const  db =[
 
+     {
+        id:"A464",
+        id_POST:"888479",
+        title:"Juego del amor: El tiempo es ahora 2",
+        genero:"Romance",
+        genres:"Romance, Drama",
+        tipo:"Pelicula",
+        año:"2023",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/4Dfm8TQV58ajQKQOBZh9XsCVb1q.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A464 Juego del amor El tiempo es ahora 2.html",
+        LINK_MOVIES:"https://mega.nz/embed/dGIhnbCa#VyfmGgR22NcN5ix-NpROH3pPmSrTHoVJQzCgqRNvv40!1a",
+        LINK_DESCARGA:"https://mega.nz/file/dGIhnbCa#VyfmGgR22NcN5ix-NpROH3pPmSrTHoVJQzCgqRNvv40",
+        TRAILER:"https://www.youtube.com/embed/8y-lAFOzIgY",
+    
+    },
   {
         id:"A463",
         id_POST:"713704",
