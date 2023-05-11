@@ -160,6 +160,22 @@ const  db =[
     
     },
      {
+        id:"A326",
+        id_POST:"880841",
+        title:"Abandoned",
+        genero:"Terror",
+        genres:"Terror, Misterio, Suspense",
+        tipo:"Pelicula",
+        marvel:"N/A",
+        año:"2022",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9L9uR1gtXr9WgZkNTGc7bThO6Dm.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A326 Abandoned.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/4uE6reBpOW0TknO/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/2/uc?id=1vsVHG6Emd5WbIDxrFGxBrjt4ihZA7UZT&export=download",
+        TRAILER:"https://www.youtube.com/embed/vrjvIsE4KB8",
+    
+    },
+     {
         id:"A325",
         id_POST:"785853",
         title:"Busqueda Peligrosa",
