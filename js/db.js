@@ -160,6 +160,22 @@ const  db =[
     
     },
      {
+        id:"A323",
+        id_POST:"616820",
+        title:"Halloween: El final",
+        genero:"Terror",
+        genres:"Terror, Suspense",
+        tipo:"Pelicula",
+        marvel:"N/A",
+        año:"2022",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/licjj6TbWOaT2KhtK66zRhMLRt.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A323 Halloween El final.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/VLKgw0eC1WolMAr/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/2/uc?id=1XcNe__svbHVoliPhiTeMUIlDReKRVN8B&export=download",
+        TRAILER:"https://www.youtube.com/embed/1rFABPFnXEI",
+    
+    },
+     {
         id:"A060",
         id_POST:"76338",
         title:"Thor: el mundo oscuro",
