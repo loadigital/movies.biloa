@@ -160,6 +160,22 @@ const  db =[
     
     },
      {
+        id:"A328",
+        id_POST:"881487",
+        title:"El Visitante (The Visitor)",
+        genero:"Terror",
+        genres:"Terror, Misterio, Suspense",
+        tipo:"Pelicula",
+        marvel:"N/A",
+        año:"2022",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5ckk0dggJYpGhuoZ18VylEXVu1P.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A328 El Visitante (The Visitor).html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/EgLSBPJWdd68tWs/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/2/uc?id=1QERtIEZfWz4xR4Wss0GRSYUopq0P6o0h&export=download",
+        TRAILER:"https://www.youtube.com/embed/5p2PezfYwGM",
+    
+    },
+     {
         id:"A327",
         id_POST:"828613",
         title:"Acerca del destino",
