@@ -171,7 +171,7 @@ const  db =[
         posterLink : "https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A003 Jungle Cruise.html" ,
         LINK_MOVIES : "http://moviesbiloa.byethost16.com/stream/720/rnL4AJOQp704QQk/__001" ,
         LINK_DESCARGA : "https://drive.google.com/u/1/uc?id=1nfGZyeKqC8mG01nsNWt1LDVrGHGE1vSG&export=download" ,
-        TRÁILER : "https://www.youtube.com/embed/Lwp-7NXFu_g" ,
+        TRAILER : "https://www.youtube.com/embed/Lwp-7NXFu_g" ,
     
     } ,   
     
