@@ -160,6 +160,22 @@ const  db =[
     
     },
      {
+        id:"A327",
+        id_POST:"828613",
+        title:"Acerca del destino",
+        genero:"Romance",
+        genres:"Romance, Comedia",
+        tipo:"Pelicula",
+        marvel:"N/A",
+        año:"2022",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/uGpbOp1Lgx32VaMnngFiHvbtzt1.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A327 Acerca del destino.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/weC57l2zOt723pN/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/2/uc?id=1LIogtvdzJzo-DL-o3FNYVK0RWScXqT92&export=download",
+        TRAILER:"https://www.youtube.com/embed/D2YUvq5TEM4",
+    
+    },
+     {
         id:"A326",
         id_POST:"880841",
         title:"Abandoned",
