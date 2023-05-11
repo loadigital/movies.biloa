@@ -160,6 +160,22 @@ const  db =[
     
     },
      {
+        id:"A060",
+        id_POST:"76338",
+        title:"Thor: el mundo oscuro",
+        genero:"Acción",
+        genres:"Acción, Aventura, Fantasía",
+        tipo:"Pelicula",
+        marvel:"Marvel",
+        año:"2013",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A060 Thor el mundo oscuro.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/i3tXas2xYbQuDqJ/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/0/uc?id=1Jm0bLy30IQG6D9WmbD5MO1FEZXUKH9oA&export=download",
+        TRAILER:"https://www.youtube.com/embed/bHKZ2NHLfKw",
+    
+    },
+     {
         id:"A058",
         id_POST:"68721",
         title:"Iron Man 3",
