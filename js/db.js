@@ -160,6 +160,22 @@ const  db =[
     
     },
      {
+        id:"A324",
+        id_POST:"713474",
+        title:"Clownery",
+        genero:"Terror",
+        genres:"Terror",
+        tipo:"Pelicula",
+        marvel:"N/A",
+        año:"2020",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/kEmcr8R2EqdiPBshvKxMPfJEfst.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A324 Clownery.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/M2A0C8foBYhQpwb/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/2/uc?id=1lVuwZHKL9kfK_yB3TAotckw36o4Cz7fI&export=download",
+        TRAILER:"https://www.youtube.com/embed/v6Zht6d7IW8",
+    
+    },
+     {
         id:"A323",
         id_POST:"616820",
         title:"Halloween: El final",
