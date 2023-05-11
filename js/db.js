@@ -160,6 +160,22 @@ const  db =[
     
     },
      {
+        id:"A057",
+        id_POST:"767377",
+        title:"Dhamaka",
+        genero:"Suspenso",
+        genres:"Suspense, Drama, Crimen",
+        tipo:"Pelicula",
+        marvel:"N/A",
+        año:"2011",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/sWjCiyjheEXDluWi1uAVKtdpkYd.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A057 Dhamaka.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/pMw98dVd0M9lptw/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/1/uc?id=1j8YXp4CgHuphVGJmB75VkcN5YndC4D2d&export=download",
+        TRAILER:"https://www.youtube.com/embed/FYZjdjRjuKM",
+    
+    },
+     {
         id:"A050",
         id_POST:"271110",
         title:"Capitán América: Civil War",
