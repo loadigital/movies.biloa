@@ -160,6 +160,22 @@ const  db =[
     
     },
      {
+        id:"A058",
+        id_POST:"68721",
+        title:"Iron Man 3",
+        genero:"Acción",
+        genres:"Acción, Aventura, Ciencia ficción",
+        tipo:"Pelicula",
+        marvel:"Marvel",
+        año:"2013",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A058 Iron Man 3.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/YLhTqaSEjptVfkY/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/1/uc?id=18_Jon_eJHLR-BZ_CM64c47LGE4cWntL3&export=download",
+        TRAILER:"https://www.youtube.com/embed/MPwsK6CI4dQ",
+    
+    },
+     {
         id:"A057",
         id_POST:"767377",
         title:"Dhamaka",
