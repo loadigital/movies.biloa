@@ -160,6 +160,22 @@ const  db =[
     
     },
      {
+        id:"A329",
+        id_POST:"1032454",
+        title:"Navidad sin Filtro",
+        genero:"Comedia",
+        genres:"Comedia, Drama, Familia",
+        tipo:"Pelicula",
+        marvel:"N/A",
+        año:"2022",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9joxY36uPuFkPYl3sDcFtOCmxOQ.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A329 Navidad sin Filtro.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/namwvPRNDpzmJt/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/2/uc?id=1b1D2a90rTy80EH9ydNoxpO20KexQuTdw&export=download",
+        TRAILER:"https://www.youtube.com/embed/7KxjY4cxQ-A",
+    
+    },
+     {
         id:"A328",
         id_POST:"881487",
         title:"El Visitante (The Visitor)",
