@@ -242,9 +242,9 @@ const  db =[
      {
         id : "A003" ,
         id_POST : "451048" ,
-        titulo : "Jungle Cruise" ,
+        title : "Jungle Cruise" ,
         genero : "Acción" ,
-        géneros : "Acción, Aventura, Fantasía" ,
+        genres: "Acción, Aventura, Fantasía" ,
         tipo : "Pelicula" ,
         año : "2021" ,
         imgLink : "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/HPEXPFY5B2TWyC1mKoUtz4fNsB.jpg" ,
@@ -253,7 +253,6 @@ const  db =[
         LINK_DESCARGA : "https://drive.google.com/u/1/uc?id=1nfGZyeKqC8mG01nsNWt1LDVrGHGE1vSG&export=download" ,
         TRAILER : "https://www.youtube.com/embed/Lwp-7NXFu_g" ,
     
-    } ,   
-    
+    } ,
     
 ] 
