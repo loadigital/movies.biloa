@@ -160,7 +160,7 @@ const  db =[
     
     },
      {
-        identificación : "A003" ,
+        id : "A003" ,
         id_POST : "451048" ,
         titulo : "Jungle Cruise" ,
         genero : "Acción" ,
