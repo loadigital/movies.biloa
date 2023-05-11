@@ -160,6 +160,22 @@ const  db =[
     
     },
      {
+        id:"A325",
+        id_POST:"785853",
+        title:"Busqueda Peligrosa",
+        genero:"Acción",
+        genres:"Acción, Bélica",
+        tipo:"Pelicula",
+        marvel:"N/A",
+        año:"2021",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/weLMa0MTOSGIzLQZMD9YZegQk4.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A325 Busqueda Peligrosa.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/KPz0O4ijmkuNP7h/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/2/uc?id=1rFqOmnMOuehcYmGn4NX4MuqluJKKW6GM&export=download",
+        TRAILER:"https://www.youtube.com/embed/SHA4CodS4YA",
+    
+    },
+     {
         id:"A324",
         id_POST:"713474",
         title:"Clownery",
