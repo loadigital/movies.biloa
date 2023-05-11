@@ -160,6 +160,22 @@ const  db =[
     
     },
      {
+        id:"A331",
+        id_POST:"1013860",
+        title:"R.I.P.D 2: La rebelión de los condenados",
+        genero:"Acción",
+        genres:"Acción, Comedia, Fantasía, Crimen",
+        tipo:"Pelicula",
+        marvel:"N/A",
+        año:"2022",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/oJJWjiMKExSi241NpKUqVIxWfH6.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A331 R.I.P.D 2 La rebelión de los condenados.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/01qwe95IUHz3w3f/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/2/uc?id=1dMpC0tbgRgXfgWlgQf9XI99MMLIAYN4A&export=download",
+        TRAILER:"https://www.youtube.com/embed/L_REOJnLLNI",
+    
+    },
+     {
         id:"A330",
         id_POST:"807356",
         title:"El extraño",
