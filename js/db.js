@@ -159,7 +159,21 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/BaLJ044I2HI",
     
     },
-        
+     {
+        identificación : "A003" ,
+        id_POST : "451048" ,
+        titulo : "Jungle Cruise" ,
+        genero : "Acción" ,
+        géneros : "Acción, Aventura, Fantasía" ,
+        tipo : "Pelicula" ,
+        año : "2021" ,
+        imgLink : "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/HPEXPFY5B2TWyC1mKoUtz4fNsB.jpg" ,
+        posterLink : "https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A003 Jungle Cruise.html" ,
+        LINK_MOVIES : "http://moviesbiloa.byethost16.com/stream/720/rnL4AJOQp704QQk/__001" ,
+        LINK_DESCARGA : "https://drive.google.com/u/1/uc?id=1nfGZyeKqC8mG01nsNWt1LDVrGHGE1vSG&export=download" ,
+        TRÁILER : "https://www.youtube.com/embed/Lwp-7NXFu_g" ,
+    
+    } ,   
     
     
 ] 
