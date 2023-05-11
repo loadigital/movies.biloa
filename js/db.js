@@ -160,6 +160,22 @@ const  db =[
     
     },
      {
+        id:"A330",
+        id_POST:"807356",
+        title:"El extraño",
+        genero:"Terror",
+        genres:"Misterio, Suspense, Terror",
+        tipo:"Pelicula",
+        marvel:"N/A",
+        año:"2022",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8YBv6WJoGIRHZ0yJ8FAaISsMPbu.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A330 El extraño.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/S73kuDvXOPVP3l7/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/2/uc?id=1aGS8kj0O_z4pz8iUwS5zr-8Rw0W61gmu&export=download",
+        TRAILER:"https://www.youtube.com/embed/8ZRMBLq81i8",
+    
+    },
+     {
         id:"A329",
         id_POST:"1032454",
         title:"Navidad sin Filtro",
