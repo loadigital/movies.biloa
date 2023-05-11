@@ -160,6 +160,22 @@ const  db =[
     
     },
      {
+        id:"A050",
+        id_POST:"271110",
+        title:"Capitán América: Civil War",
+        genero:"Acción",
+        genres:"Aventura, Acción, Ciencia ficción",
+        tipo:"Pelicula",
+        marvel:"Marvel",
+        año:"2016",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jPPy7tCfglppQo6J9nGwU6UmJ8X.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A050 Capitán América Civil War.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/wYT6oUO68Dh81Bo/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/1/uc?id=1xVHggyZtBUQKRunOROuQQJfv44mV1goS&export=download",
+        TRAILER:"https://www.youtube.com/embed/-ByYxIjmLsI",
+    
+    },
+     {
         id : "A003" ,
         id_POST : "451048" ,
         titulo : "Jungle Cruise" ,
