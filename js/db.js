@@ -319,6 +319,22 @@ const  db =[
     
     },
      {
+        id:"A260",
+        id_POST:"762504",
+        title:"¡Nop!",
+        genero:"Terror",
+        genres:"Terror, Misterio, Ciencia ficción",
+        tipo:"Pelicula",
+        marvel:"N/A",
+        año:"2022",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/k2VcJW03s9tQEIy4PlQS576CXDX.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A260 ¡Nop!.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/HhdwYxy443z7otV/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/3/uc?id=1hOs8T2pGPNx46mJdcB52P_XtrA0lpCce&export=download",
+        TRAILER:"https://www.youtube.com/embed/PFFV33DKR6Q",
+    
+    },
+     {
         id:"A060",
         id_POST:"76338",
         title:"Thor: el mundo oscuro",
