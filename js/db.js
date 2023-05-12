@@ -383,6 +383,21 @@ const  db =[
     
     },
      {
+        id : "A009" ,
+        id_POST : "617653" ,
+        title : "JEl último duelo" ,
+        genero : "Acción" ,
+        genres: "Acción, Drama, Historia" ,
+        tipo : "Pelicula" ,
+        año : "2021" ,
+        imgLink : "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/pA2zkZnfNR5v8hc07ekQGxgJg1r.jpg" ,
+        posterLink : "https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A009 El último duelo.html" ,
+        LINK_MOVIES : "http://moviesbiloa.byethost16.com/stream/720/9iyvvJgaSUjflSo/__001" ,
+        LINK_DESCARGA : "https://drive.google.com/u/3/uc?id=1x_ZbTRurHyEjTjS0OwPQ_R3gBgq39104&export=download" ,
+        TRAILER : "https://www.youtube.com/embed/CAumuCU21Xk" ,
+    
+    } ,
+     {
         id : "A003" ,
         id_POST : "451048" ,
         title : "Jungle Cruise" ,
