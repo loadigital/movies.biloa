@@ -9,6 +9,21 @@
 const  db =[
 
      {
+        id:"A465",
+        id_POST:"763148",
+        title:"Se terminó el tiempo",
+        genero:"Romance",
+        genres:"Romance, Drama",
+        tipo:"Pelicula",
+        año:"2021",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/uESOe0IyKEZaIy0D3WZA3qZRELv.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A465 se termino el tiempo.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/8xhBQTrzIqERE6Y/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/9/uc?id=18GSgesEZnVqhBEhQaxmUFtCaVtHJjN9N&export=download",
+        TRAILER:"https://www.youtube.com/embed/8y-lAFOzIgY",
+    
+    },
+    {
         id:"A464",
         id_POST:"888479",
         title:"Juego del amor: El tiempo es ahora 2",
@@ -20,7 +35,7 @@ const  db =[
         posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A464 Juego del amor El tiempo es ahora 2.html",
         LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/eRkJI1KNsZHO07x/__001",
         LINK_DESCARGA:"https://drive.google.com/u/0/uc?id=1I7FL3_6YT8C-cPU6Oufs8Zp8F45fYVdM&export=download",
-        TRAILER:"https://www.youtube.com/embed/8y-lAFOzIgY",
+        TRAILER:"https://www.youtube.com/embed/lWtiIeQMZ_k",
     
     },
   {
