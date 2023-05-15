@@ -8,7 +8,7 @@
 
 const  db =[
 
-     {
+    {
         id:"A465",
         id_POST:"763148",
         title:"Se terminó el tiempo",
@@ -38,7 +38,7 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/lWtiIeQMZ_k",
     
     },
-  {
+    {
         id:"A463",
         id_POST:"713704",
         title:"Posesión infernal: El despertar",
@@ -52,8 +52,8 @@ const  db =[
         LINK_DESCARGA:"https://mega.nz/file/VCojWJRY#-h3mPxdYSqgH208-vGKi2OsgH1atKd8zFhkenTxcKro",
         TRAILER:"https://www.youtube.com/embed/_ZCw9V09kt4",
     
-    },  
-  {
+    },
+    {
         id:"A462",
         id_POST:"917300",
         title:"Crimen imperfecto",
@@ -68,7 +68,7 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/4GOwEJe86U8",
     
     },
-     {
+    {
         id:"A461",
         id_POST:"283995",
         title:"Guardianes de la Galaxia vol. 2",
@@ -84,7 +84,8 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/bLHMFhtYnXw",
     
     },
-  {
+    
+    {
         id:"A460",
         id_POST:"493529",
         title:"Dungeons & Dragons: Honor entre ladrones",
@@ -99,7 +100,7 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/Q6nCZDpvA9k",
     
     },
-  {
+    {
         id:"A433",
         id_POST:"638974",
         title:"Misterio a la vista",
@@ -114,7 +115,7 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/8ppKGvTbLlw",
     
     },
-  {
+    {
         id:"A435",
         id_POST:"816904",
         title:"Momias",
@@ -129,7 +130,7 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/xct8u3qXWkc",
     
     },
-  {
+    {
         id:"A459",
         id_POST:"758323",
         title:"El exorcista del papa ",
@@ -144,37 +145,37 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/a-Cx7IE04sA",
     
     },
-  {
-        id:"A458",
-        id_POST:"502356",
-        title:"Súper Mario Bros. La película",
-        genero:"Animación",
-        genres:"Animación, Aventura, Familia, Fantasía, Comedia",
-        tipo:"Pelicula",
-        año:"2023",
-        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
-        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A458 Súper Mario Bros.html",
-        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/4cm6UGTNvC1G1TS/__001",
-        LINK_DESCARGA:"https://drive.google.com/u/2/uc?id=1jzOoZiN4e8KQaU-NmUQ7VIV12VwRWGGC&export=download",
-        TRAILER:"https://www.youtube.com/embed/SvJwEiy2Wok",
+    {
+        id : "A458" ,
+        id_POST : "502356" ,
+        title : "Súper Mario Bros. La película" ,
+        género : "Animación" ,
+        géneros : "Animación, Aventura, Familia, Fantasía, Comedia" ,
+        tipo : "Pelicula" ,
+        año : "2023" ,
+        imgLink : "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" ,
+        posterLink : "https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A458 Súper Mario Bros.html" ,
+        LINK_MOVIES : "http://moviesbiloa.byethost16.com/stream/720/4cm6UGTNvC1G1TS/__001" ,
+        LINK_DESCARGA : "https://drive.google.com/u/2/uc?id=1jzOoZiN4e8KQaU-NmUQ7VIV12VwRGGGC&export=download" ,
+        TRAILER : "https://www.youtube.com/embed/SvJwEiy2Wok" ,
     
-    },
+    } ,
   {
-        id:"A453",
-        id_POST:"640146",
-        title:"Ant-Man y la Avispa: Quantumanía",
-        genero:"Acción",
-        genres:"Acción, Aventura, Ciencia ficción",
-        tipo:"Pelicula",
-        año:"2023",
-        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jTNYlTEijZ6c8Mn4gvINOeB2HWM.jpg",
-        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A453 Ant-Man y la Avispa Quantumanía.html",
-        LINK_MOVIES:"http://moviesbiloa.byethost16.com/v/ZunU95Dsmj5PzAv",
-        LINK_DESCARGA:"https://drive.google.com/u/2/uc?id=1LAwJSVCxNu5sn1JWfBzLgqtHu67hY3UP&export=download",
-        TRAILER:"https://www.youtube.com/embed/BaLJ044I2HI",
+        id :"A453" ,
+        id_POST : "640146" ,
+        titulo : "Ant-Man y la Avispa: Quantumanía" ,
+        genero : "Acción" ,
+        géneros : "Acción, Aventura, Ciencia ficción" ,
+        tipo : "Pelicula" ,
+        año : "2023" ,
+        imgLink : "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jTNYlTEijZ6c8Mn4gvINOeB2HWM.jpg" ,
+        posterLink : "https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A453 Ant-Man y la Avispa Quantumanía.html" ,
+        LINK_MOVIES : "http://moviesbiloa.byethost16.com/stream/720/ZunU95Dsmj5PzAv/__001" ,
+        LINK_DESCARGA : "https://drive.google.com/u/2/uc?id=1LAwJSVCxNu5sn1JWfBzLgqtHu67hY3UP&export=download" ,
+        TRAILER : "https://www.youtube.com/embed/BaLJ044I2HI" ,
     
-    },
-     {
+    } ,
+    {
         id:"A331",
         id_POST:"1013860",
         title:"R.I.P.D 2: La rebelión de los condenados",
@@ -190,7 +191,7 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/L_REOJnLLNI",
     
     },
-     {
+    {
         id:"A330",
         id_POST:"807356",
         title:"El extraño",
@@ -206,7 +207,7 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/8ZRMBLq81i8",
     
     },
-     {
+    {
         id:"A329",
         id_POST:"1032454",
         title:"Navidad sin Filtro",
@@ -217,12 +218,12 @@ const  db =[
         año:"2022",
         imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9joxY36uPuFkPYl3sDcFtOCmxOQ.jpg",
         posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A329 Navidad sin Filtro.html",
-        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/namwvPRNDpzmJt/__001",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/JnamwvPRNDpzmJt/__001",
         LINK_DESCARGA:"https://drive.google.com/u/2/uc?id=1b1D2a90rTy80EH9ydNoxpO20KexQuTdw&export=download",
         TRAILER:"https://www.youtube.com/embed/7KxjY4cxQ-A",
     
     },
-     {
+    {
         id:"A328",
         id_POST:"881487",
         title:"El Visitante (The Visitor)",
@@ -238,7 +239,7 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/5p2PezfYwGM",
     
     },
-     {
+    {
         id:"A327",
         id_POST:"828613",
         title:"Acerca del destino",
@@ -254,7 +255,7 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/D2YUvq5TEM4",
     
     },
-     {
+    {
         id:"A326",
         id_POST:"880841",
         title:"Abandoned",
@@ -270,7 +271,7 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/vrjvIsE4KB8",
     
     },
-     {
+    {
         id:"A325",
         id_POST:"785853",
         title:"Busqueda Peligrosa",
@@ -286,7 +287,7 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/SHA4CodS4YA",
     
     },
-     {
+    {
         id:"A324",
         id_POST:"713474",
         title:"Clownery",
@@ -302,7 +303,7 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/v6Zht6d7IW8",
     
     },
-     {
+    {
         id:"A323",
         id_POST:"616820",
         title:"Halloween: El final",
@@ -318,7 +319,7 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/1rFABPFnXEI",
     
     },
-     {
+    {
         id:"A260",
         id_POST:"762504",
         title:"¡Nop!",
@@ -334,7 +335,7 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/PFFV33DKR6Q",
     
     },
-     {
+    {
         id:"A060",
         id_POST:"76338",
         title:"Thor: el mundo oscuro",
@@ -350,7 +351,7 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/bHKZ2NHLfKw",
     
     },
-     {
+    {
         id:"A058",
         id_POST:"68721",
         title:"Iron Man 3",
@@ -366,7 +367,7 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/MPwsK6CI4dQ",
     
     },
-     {
+    {
         id:"A057",
         id_POST:"767377",
         title:"Dhamaka",
@@ -382,7 +383,7 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/FYZjdjRjuKM",
     
     },
-     {
+    {
         id:"A050",
         id_POST:"271110",
         title:"Capitán América: Civil War",
@@ -398,10 +399,10 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/-ByYxIjmLsI",
     
     },
-     {
+    {
         id : "A009" ,
         id_POST : "617653" ,
-        title : "JEl último duelo" ,
+        title : "El último duelo" ,
         genero : "Acción" ,
         genres: "Acción, Drama, Historia" ,
         tipo : "Pelicula" ,
@@ -413,7 +414,7 @@ const  db =[
         TRAILER : "https://www.youtube.com/embed/CAumuCU21Xk" ,
     
     } ,
-     {
+    {
         id : "A003" ,
         id_POST : "451048" ,
         title : "Jungle Cruise" ,
@@ -428,5 +429,7 @@ const  db =[
         TRAILER : "https://www.youtube.com/embed/Lwp-7NXFu_g" ,
     
     } ,
+            
+    
     
 ] 
