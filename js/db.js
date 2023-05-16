@@ -336,6 +336,22 @@ const  db =[
     
     },
     {
+        id:"A259",
+        id_POST:"756999",
+        title:"Black Phone",
+        genero:"Terror",
+        genres:"Terror, Suspense",
+        tipo:"Pelicula",
+        marvel:"N/A",
+        año:"2022",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/y4l0lGNg2IKKIU8Fd2w0niNoMSI.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A259 Black Phone.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/A1Bv1iv1TgMbxNZ/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/4/uc?id=1S2RuKWiZ4V50PDiBVToIn-N40RB9pqkw&export=download",
+        TRAILER:"https://www.youtube.com/embed/XhcEnHDKHco",
+    
+    },
+    {
         id:"A060",
         id_POST:"76338",
         title:"Thor: el mundo oscuro",
