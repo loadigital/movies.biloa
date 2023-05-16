@@ -320,6 +320,22 @@ const  db =[
     
     },
     {
+        id:"A307",
+        id_POST:"1024530",
+        title:"Grimcutty: Asesino implacable",
+        genero:"Terror",
+        genres:"Terror",
+        tipo:"Pelicula",
+        marvel:"N/A",
+        año:"2022",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ncK8aTyzkWJ3oFKmYyEHeGphTrA.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A307 Grimcutty Asesino implacable.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/wKqh2dlW4XtWyyQ/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/4/uc?id=1nAmCZZHDs6lTl1x8H1_JA6O0kk_CigtB&export=download",
+        TRAILER:"https://www.youtube.com/embed/lb3FCMpMN4s",
+    
+    },
+    {
         id:"A260",
         id_POST:"762504",
         title:"¡Nop!",
