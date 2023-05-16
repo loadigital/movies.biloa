@@ -38,7 +38,7 @@ const  db =[
         TRAILER:"https://www.youtube.com/embed/lWtiIeQMZ_k",
     
     },
-    {
+     {
         id:"A463",
         id_POST:"713704",
         title:"Posesión infernal: El despertar",
@@ -48,8 +48,8 @@ const  db =[
         año:"2023",
         imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg",
         posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A463 Posesión infernal El despertar.html",
-        LINK_MOVIES:"https://mega.nz/embed/VCojWJRY#-h3mPxdYSqgH208-vGKi2OsgH1atKd8zFhkenTxcKro",
-        LINK_DESCARGA:"https://mega.nz/file/VCojWJRY#-h3mPxdYSqgH208-vGKi2OsgH1atKd8zFhkenTxcKro",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/2X9kKuEsYfynjLX/__001",
+        LINK_DESCARGA:"https://drive.google.com/u/9/uc?id=1auRaLb79SOAXPDNX_lJTRqbtJPN7z0kF&export=download",
         TRAILER:"https://www.youtube.com/embed/_ZCw9V09kt4",
     
     },
