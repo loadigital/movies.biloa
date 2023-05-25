@@ -20,7 +20,8 @@ const  db =[
         posterLink:"../plantillas/posterPeliculas/A467 la madre.html",
         LINK_MOVIES:"http://moviesbiloa.byethost16.com/stream/720/iZF1mUC0N16wZ8O/__001",
         LINK_DESCARGA:"https://drive.google.com/u/9/uc?id=1dOMntpqAoYtqP4EYgvWjTWr6b_GgkRFK&export=download",
-        TRAILER:"https://www.youtube.com/embed/Awmni5mbyWE",
+        TRAILER:"http://moviesbiloa.byethost16.com/stream/720/iZF1mUC0N16wZ8O/__001",
+        LINK_MOVIES1:"https://www.youtube.com/embed/Awmni5mbyWE",
     
     },
     {
