@@ -11,8 +11,7 @@ html, body{
     flex-direction: column;
 }
 body{
-    background: #000000;
-    
+   background: #000000;
 }
 
 /*>>>>>>>>>>>>>>>>Cabecera>>>>>>>>>>>>>>>>>>>>*/
@@ -22,6 +21,7 @@ header{
     position: fixed;
     transition: 0.7s;
     background: #000000;
+    border: solid 0px #fff;
 }
 .content-menu{
     display: flex;
@@ -30,15 +30,16 @@ header{
     justify-content:center;
     align-items: center;  
     margin-top: 10px;
+    border: solid 0px #fff;
 }
 .content-header{
     width: 100%;
-    max-width: 1024px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content:space-around;
     align-items: center;
+    border: solid 0px #fff;
 }
 .co-icon-1{
     width: 10%;
@@ -91,6 +92,7 @@ header{
     justify-content: center;
     align-items: center;
     margin-top: 10px;
+    border: solid 0px  #fff;
 }
 .co-submenu{
     width: 90%;
@@ -98,6 +100,7 @@ header{
     margin-top: 0px;
     overflow: auto; 
     color: #fff;
+    border: solid 0px  #fff;
 }
 .co-submenu .link{
     list-style: none;
@@ -108,13 +111,36 @@ header{
     color: #fff;
     font-family: Arial;
 }
+@media screen and (min-width: 800px){
+  .icon-menu{
+    display: none;
+  }
+  .co-text{
+    display: none;
+  }
+ 
+
+}
+.co-logo-2 img{
+    width: 100%;
+    max-width: 300px;
+}
+
+@media screen and (max-width: 800px){
+    .co-logo-2{
+      display: none;
+    }
+    body{
+        background: #000000;
+      }
+      
+  }
 @media screen and (min-width: 1024px){
     .content-header{
-        width: 100%;
-        max-width: 1024px;
+        width: 82%;
     }
     .co-icon-1{
-        width: 5%;
+        width: 10%;
     }
     .co-icon-2{
         width: 70%;
@@ -125,8 +151,8 @@ header{
         max-width: 160px;
     }
     .co-submenu{
-        width: 90%;
-        max-width: 1024px;
+        width: 80%;
+        
     }
 
    
@@ -227,7 +253,15 @@ nav{
   
     
 }
-.bc .bc-1{
+.bc1{
+    width: 100%;
+    height: 100%;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.bc .bc-1, .bc1 .bc-1{
     width: 60%;
     display: flex;
     flex-direction: row;
@@ -238,17 +272,60 @@ nav{
     margin: 15px 10px;
     
 }
-.bc .bc-1 .icon{
+.bc .bc-1 .icon, .bc1 .bc-1 .icon{
     font-size: 20px;
     color: #d10000;
     margin-right: 30px;
 }
-.bc .bc-1 a{
+.bc .bc-1 a, .bc1 .bc-1 a{
     text-decoration: none;
     color: #fff;
     margin-left: 10px;
     font-size: 14px;
     font-family: Arial;
+}
+
+@media screen and (min-width: 800px){
+    .bc1{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: left;
+        align-items: center;
+        margin-top: 0px;    
+    }
+    .bc1 .bc-1{
+        width: 150px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content:center;
+        align-items: center;
+        border: solid 0px #fff;
+        margin: 8px 3px;
+        padding: 2px 2px;
+    }
+    .bc1 .bc-1 a:hover{
+        background: #fff;
+        border-radius: 3px 3px;
+        color: #000000;
+        
+    }
+    .bc1 .bc-1 .icon{
+        font-size: 20px;
+        color: #d10000;
+        margin-right: 5px;
+    }
+    .bc1 .bc-1 a{
+        
+        margin-left: 3px;
+        padding: 2px 2px;
+        width: 150px;
+        text-align: center;
+       
+    }
+   
+    
 }
 /*>>>>>>>>>>>>>>>>Cards>>>>>>>>>>>>>>>>>>>>*/
 
@@ -261,26 +338,25 @@ nav{
    justify-content: center;
    align-items: center;
 
-   
 }
 
 .co-cards{
     width: 95%;
-    max-width: 1024px;
     display: grid;
-    grid-template-columns: repeat(10, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     margin-left: auto;
 	margin-right: auto;
 	margin-top: auto;
     margin-bottom: 3em;
     grid-gap: 5px;
+    
 }
 
 .cards{
     width: 100%;
-    max-width: 100px;
     display: block;
     color: #fff;
+    margin-bottom: 20px;
 }
 .img-cards{
     width: 100%;
@@ -288,9 +364,10 @@ nav{
 
 .img-cards img{
     width: 100%;
-    height: 160px;
+    height: 370px;
     border-radius: 5px 5px;
 }
+
 .title-cards{
     width: 100%;
     text-align: center;
@@ -298,7 +375,7 @@ nav{
     justify-content: center; 
     align-items: center;
     color: #ffffff;
-    font-size: 10px;
+    font-size: 20px;
     font-family: Arial Narrow; 
     letter-spacing: 0.10em;
     width: 100%;
@@ -318,7 +395,19 @@ nav{
 
 	.co-cards{
 		grid-template-columns: repeat(4,1fr);
+        width: 95%;
 	}
+    .img-cards img{
+        width: 100%;
+        height: 160px;
+    }
+    .title-cards{
+        font-size: 10px;
+    }
+    .cards{
+        margin-bottom: 0px;
+    }
+   
 }
 
 /*>>>>>>>>>>>>>>>>>>>search>>>>>>>>>>>>>>>>>>*/
@@ -387,7 +476,5 @@ nav{
     color: #fff;
     
 }
-
-
 
 
