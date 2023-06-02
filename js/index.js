@@ -14,7 +14,7 @@ menu.innerHTML = `
                 <div class="co-text"><p>Películas</p></div>
                 <div class="bc1">
             
-                <div class="bc-1"><a href="#"><i class="bi-collection-play-fill icon"></i>Películas</a></div>
+                <div class="bc-1"><a href="https://loadigital.github.io/movies.biloa/index.html"><i class="bi-collection-play-fill icon"></i>Películas</a></div>
                <!-- <div class="bc-1"><a href="page/series.html"><i class="bi-tv-fill icon"></i>Series</a></div>-->
                 <div class="bc-1"><a href="go:B000"><i class="bi-tv-fill icon"></i>Series</a></div>
                 <div class="bc-1"><a href="#"><i class="bi-info-circle-fill icon"></i>Información</a></div>
