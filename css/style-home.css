@@ -328,10 +328,17 @@ nav{
     
 }
 /*>>>>>>>>>>>>>>>>Cards>>>>>>>>>>>>>>>>>>>>*/
-
+.anuncios{
+   width: 100%;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+   margin-top: 105px;
+   padding: 5px;
+}
 .include-main{
    width: 100%;
-   margin-top: 105px;
    display: flex;
    flex-direction: row;
    flex-wrap: wrap;
@@ -476,5 +483,7 @@ nav{
     color: #fff;
     
 }
+
+
 
 
