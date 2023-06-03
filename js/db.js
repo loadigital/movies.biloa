@@ -171,7 +171,7 @@ const  db =[
         imgLink : "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" ,
         posterLink : "https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A458 Súper Mario Bros.html" ,
         LINK_MOVIES : "http://moviesbiloa.byethost16.com/stream/720/4cm6UGTNvC1G1TS/__001" ,
-        LINK_DESCARGA : "https://drive.google.com/u/2/uc?id=1jzOoZiN4e8KQaU-NmUQ7VIV12VwRGGGC&export=download" ,
+        LINK_DESCARGA : "https://drive.google.com/u/1/uc?id=1jzOoZiN4e8KQaU-NmUQ7VIV12VwRWGGC&export=download" ,
         TRAILER : "https://www.youtube.com/embed/SvJwEiy2Wok" ,
     
     } ,
