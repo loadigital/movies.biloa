@@ -13,7 +13,18 @@
    
     <header id="include-header"></header>
     <nav id="nav"></nav>
-    
+    <div class="anuncios" id="anuncio-ba">
+        <script type="text/javascript">
+            atOptions = {
+                'key' : '51b15bb786ead3ee88ddd1879659deaf',
+                'format' : 'iframe',
+                'height' : 50,
+                'width' : 320,
+                'params' : {}
+            };
+            document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://recordfunny.com/51b15bb786ead3ee88ddd1879659deaf/invoke.js"></scr' + 'ipt>');
+        </script>
+    </div>
     <div class="include-main" id="include-main">
         <div class="co-cards" id="co-cards"></div>
     </div>
@@ -27,8 +38,8 @@
     //db
 const contentCards = document.getElementById("co-cards")
 
- db.forEach(function(data) {
-        console.log(data);
+db.forEach(function(data) {
+       console.log(data);
 if(data.tipo === "Pelicula"){
 
 const  API_KEY  =  'api_key=d092eba29fbb5fe6130283f8e1934752' ;
@@ -39,26 +50,27 @@ const  IMG_URL  =  'https://image.tmdb.org/t/p/w500' ;
 getMovie(API_URL);
 
 function getMovie(url){
-    fetch(url).then(res => res.json()).then(datos =>{
-        console.log(datos)
-        pintar(datos);
-    });
+   fetch(url).then(res => res.json()).then(datos =>{
+       console.log(datos)
+       pintar(datos);
+   });
 };
 
 function pintar(datos){
 
-    const cards = document.createElement("div");
-                cards.innerHTML=`
-                <div class="cards">
-                <div class="img-cards"><a href="${data.posterLink}"><img src="${IMG_URL + datos.poster_path}" alt=""></a></div>
-                <div class="title-cards"><p>${datos.title}</p></div>
-                </div>
-                `
-                contentCards.appendChild(cards);
+   const cards = document.createElement("div");
+               cards.innerHTML=`
+               <div class="cards">
+               <div class="img-cards"><a href="${data.posterLink}"><img src="${IMG_URL + datos.poster_path}" alt=""></a></div>
+               <div class="title-cards"><p>${datos.title}</p></div>
+               </div>
+               `
+               contentCards.appendChild(cards);
 };
 };
 });
 
 </script>
+<script type='text/javascript' src='//recordfunny.com/90/a6/0f/90a60f7d8df42a528b104be8e2c98785.js'></script>
 </body>
 </html>
