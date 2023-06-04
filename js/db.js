@@ -21,7 +21,8 @@ const  db =[
         LINK_MOVIES:"http://moviesbiloa.byethost16.com/v/iZF1mUC0N16wZ8O",
         LINK_DESCARGA:"https://drive.google.com/u/9/uc?id=1dOMntpqAoYtqP4EYgvWjTWr6b_GgkRFK&export=download",
         TRAILER:"https://www.youtube.com/embed/Awmni5mbyWE",
-        GB_PESO: "3.5 GB"
+        GB_PESO: "3.5 GB",
+        SERV_DESC:"GOOGLE DRIVE",
     
     },
     {
