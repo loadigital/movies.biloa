@@ -26,6 +26,24 @@ const  db =[
     
     },
     {
+        id:"A466",
+        id_POST:"1102776",
+        title:"Alias",
+        genero:"Acción",
+        genres:"Suspense, Acción, Crimen",
+        tipo:"Pelicula",
+        año:"2023",
+        imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rLwhPkLkJ8GVPSBGVfCYm97f1Py.jpg",
+        posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A466 Alias.html",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/v/lj9tRHWwkHxRlYb",
+        POSTER_DESCARGA:"https://infobiloa.github.io/BD.BILOA.COM/posterDescarga/A466 Alias.html",
+        LINK_DESCARGA:"https://drive.google.com/u/2/uc?id=1J-CW7-zuLL6EIDDxaNPH8PmXHJJO42K-&export=download",
+        TRAILER:"https://www.youtube.com/embed/aa2mMOFLRzc",
+        GB_PESO: "1.6 GB",
+        SERV_DESC:"GOOGLE DRIVE",
+    
+    },
+    {
         id:"A465",
         id_POST:"763148",
         title:"Se terminó el tiempo",
