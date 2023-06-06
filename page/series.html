@@ -32,15 +32,27 @@
         .act_recientes{border-bottom: solid 2px #ff0303;}
     </style>
     
-<script src="../js/db_1.js"></script>
+
 <script src="../js/index-series.js" type="module"></script>
 <script>
     //db
 const contentCards = document.getElementById("co-cards")
-
-db.forEach(function(data) {
+document.addEventListener('DOMContentLoaded', () => {
+    fetchData();
+});
+const fetchData = async () => {
+    try{
+        const res = await fetch('https://loadigital.github.io/movies.biloa/js/api_db_1.json');
+        const data = await res.json();
+        movies(data);
+    }catch (error) {
+        console.log(error);
+    };
+};
+const movies = data =>{
+data.forEach(function(data) {
        console.log(data);
-if(data.tipo === "Pelicula"){
+if(data.tipo === "Serie"){
 
 const  API_KEY  =  'api_key=d092eba29fbb5fe6130283f8e1934752' ;
 const  BASE_URL  =  'https://api.themoviedb.org/3' ;
@@ -69,8 +81,8 @@ function pintar(datos){
 };
 };
 });
-
+};
 </script>
-<script type='text/javascript' src='//recordfunny.com/90/a6/0f/90a60f7d8df42a528b104be8e2c98785.js'></script>
+
 </body>
 </html>
