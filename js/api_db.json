@@ -16,6 +16,36 @@
         "GB_PESO": "3.5 GB",
         "SERV_DESC":"GOOGLE DRIVE"
     
-    }
+    },
+    {
+        "id ": "A009" ,
+        "id_POST" : "617653" ,
+        "title" : "El último duelo" ,
+        "genero ": "Acción" ,
+        "genres": "Acción, Drama, Historia" ,
+        "tipo" : "Pelicula" ,
+        "año" : "2021" ,
+        "imgLink" : "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/pA2zkZnfNR5v8hc07ekQGxgJg1r.jpg" ,
+        "posterLink" : "https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A009 El último duelo.html" ,
+        "LINK_MOVIES" : "http://moviesbiloa.byethost16.com/stream/720/9iyvvJgaSUjflSo/__001" ,
+        "LINK_DESCARGA" : "https://drive.google.com/u/3/uc?id=1x_ZbTRurHyEjTjS0OwPQ_R3gBgq39104&export=download" ,
+        "TRAILER" : "https://www.youtube.com/embed/CAumuCU21Xk" 
+    
+    } ,
+    {
+        "id" : "A003" ,
+        "id_POST" : "451048" ,
+        "title" : "Jungle Cruise" ,
+        "genero" : "Acción" ,
+        "genres": "Acción, Aventura, Fantasía" ,
+        "tipo" : "Pelicula" ,
+        "año" : "2021" ,
+        "imgLink" : "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/HPEXPFY5B2TWyC1mKoUtz4fNsB.jpg" ,
+        "posterLink" : "https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A003 Jungle Cruise.html" ,
+        "LINK_MOVIES" : "http://moviesbiloa.byethost16.com/stream/720/rnL4AJOQp704QQk/__001" ,
+        "LINK_DESCARGA" : "https://drive.google.com/u/1/uc?id=1nfGZyeKqC8mG01nsNWt1LDVrGHGE1vSG&export=download" ,
+        "TRAILER" : "https://www.youtube.com/embed/Lwp-7NXFu_g" 
+    
+    } 
     
 ]
