@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://loadigital.github.io/movies.biloa/css/style-home.css">
+    <link rel="stylesheet" href="https://loadigital.github.io/movies.biloa/icon/bootstrap-icons.css">
+    <title>Acción</title>
+    
+</head>
+<body>
+   
+    <header id="include-header"></header>
+    <nav id="nav"></nav>
+    <div class="anuncios" id="anuncio-ba">
+        <script type="text/javascript">
+            atOptions = {
+                'key' : '51b15bb786ead3ee88ddd1879659deaf',
+                'format' : 'iframe',
+                'height' : 50,
+                'width' : 320,
+                'params' : {}
+            };
+            document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://recordfunny.com/51b15bb786ead3ee88ddd1879659deaf/invoke.js"></scr' + 'ipt>');
+        </script>
+    </div>
+    <div class="include-main" id="include-main">
+        <div class="co-cards" id="co-cards"></div>
+    </div>
+    <style>
+        .act_accion{border-bottom: solid 2px #ff0303;}
+    </style>
+
+<script src="../../js/index.js"></script>
+<script>
+    //db
+const contentCards = document.getElementById("co-cards")
+document.addEventListener('DOMContentLoaded', () => {
+    fetchData();
+});
+const fetchData = async () => {
+    try{
+        const res = await fetch('https://loadigital.github.io/movies.biloa/js/api_db_1.json');
+        const data = await res.json();
+        movies(data);
+    }catch (error) {
+        console.log(error);
+    };
+};
+const movies = data =>{
+    
+        data.forEach(function(data) {
+            console.log(data);
+                if(data.genero === "Historico"){
+                    const cards = document.createElement("div");
+                    cards.innerHTML=`
+                    <div class="cards">
+                    <div class="img-cards"><a href="${data.posterLink}"><img src="${data.imgLink}" alt=""></a></div>
+                    <div class="title-cards"><p>${data.title}</p></div>
+                    </div>
+                    `
+                    contentCards.appendChild(cards)
+                };
+                });
+            };
+</script>
+</body>
+</html>
