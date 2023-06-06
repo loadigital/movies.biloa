@@ -7,8 +7,21 @@ ponleFocus();
 
 //db
 const contentCards = document.getElementById("co-cards")
+document.addEventListener('DOMContentLoaded', () => {
+    fetchData();
+});
+const fetchData = async () => {
+    try{
+        const res = await fetch('https://loadigital.github.io/movies.biloa/js/api_db.json');
+        const data = await res.json();
+        movies(data);
+    }catch (error) {
+        console.log(error);
+    };
+};
+const movies = data =>{
 	
-db.forEach(function(data) {
+data.forEach(function(data) {
     console.log(data);
 
     const cards = document.createElement("div");
@@ -23,7 +36,7 @@ db.forEach(function(data) {
 
 	contentCards.appendChild(cards)
 });
-
+};
 
 //buscador
 
