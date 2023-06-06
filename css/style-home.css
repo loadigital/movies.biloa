@@ -329,13 +329,18 @@ nav{
 }
 /*>>>>>>>>>>>>>>>>Cards>>>>>>>>>>>>>>>>>>>>*/
 .anuncios{
-   width: 90%;
+   width: 100%;
    display: flex;
    flex-direction: row;
    flex-wrap: wrap;
    justify-content: center;
    margin-top: 105px;
-   padding: 5px;
+   margin-bottom: 7px;
+  
+}
+#atContainer-51b15bb786ead3ee88ddd1879659deaf{
+    width: 90%;
+    
 }
 .include-main{
    width: 100%;
