@@ -98,8 +98,8 @@ const  db =[
         año:"2022",
         imgLink:"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/tisFwDMXgqIevuSMftHGILPDJOI.jpg",
         posterLink:"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A462 Crimen imperfecto.html",
-        LINK_MOVIES:"https://mega.nz/embed/cfJ2BQoA#iCPSYE9AQKZvx9fz9BUgExprFe1wToumAvuBLEXXDGg",
-        LINK_DESCARGA:"https://mega.nz/file/cfJ2BQoA#iCPSYE9AQKZvx9fz9BUgExprFe1wToumAvuBLEXXDGg",
+        LINK_MOVIES:"http://moviesbiloa.byethost16.com/v/kIE07RGBl4d7DZq",
+        LINK_DESCARGA:"https://drive.google.com/u/3/uc?id=1RUiIexkF8oez7U9G47V2tKAda0mkbbJj&export=download",
         TRAILER:"https://www.youtube.com/embed/4GOwEJe86U8",
     
     },
