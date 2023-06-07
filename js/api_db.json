@@ -1,5 +1,22 @@
 [
     {
+        "id":"A469",
+        "id_POST":"868759",
+        "title":"Ghosting",
+        "genero":"Romance",
+        "genres":"Acción, Comedia, Romance",
+        "tipo":"Pelicula",
+        "año":"2023",
+        "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/zSw2JeQ03GivcS4VKJmWK5sYi1F.jpg",
+        "posterLink":"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A469 Ghosting.html",
+        "LINK_MOVIES":"http://moviesbiloa.byethost16.com/v/oqAMuxKUxexd8tC",
+        "POSTER_DESCARGA":"https://infobiloa.github.io/BD.BILOA.COM/posterDescarga/A469 Ghosting.html",
+        "LINK_DESCARGA":"https://drive.google.com/u/2/uc?id=1GuW7wwSMrXGf9R5I0wtxx3PrY6pqQ4lN&export=download",
+        "TRAILER":"https://www.youtube.com/embed/IAdCsNtEuBU",
+        "GB_PESO": "2.95 GB",
+        "SERV_DESC":"GOOGLE DRIVE"
+    },
+    {
         "id":"A468",
         "id_POST":"420808",
         "title":"Peter Pan y Wendy",
