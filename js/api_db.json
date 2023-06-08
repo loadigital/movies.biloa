@@ -68,6 +68,23 @@
         "SERV_DESC":"GOOGLE DRIVE"
     },
     {
+        "id":"A472",
+        "id_POST":"324552",
+        "title":"John Wick 2",
+        "genero":"Acción",
+        "genres":"Acción, Suspense, Crimen",
+        "tipo":"Pelicula",
+        "año":"2017",
+        "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/aSmLqVTFeh9cQkcO8RWzz1gR0ez.jpg",
+        "posterLink":"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A472 John Wick 2.html",
+        "LINK_MOVIES":"http://moviesbiloa.byethost16.com/v/l8kDTGbmMeZtUbV",
+        "POSTER_DESCARGA":"https://infobiloa.github.io/BD.BILOA.COM/posterDescarga/A472 John Wick 2.html",
+        "LINK_DESCARGA":"https://drive.google.com/u/4/uc?id=1QtrtTzyHJuEpBpg0uWtSzx2go-xvSN4D&export=download",
+        "TRAILER":"https://www.youtube.com/embed/jbeRIvRRxdE",
+        "GB_PESO": "2.5 GB",
+        "SERV_DESC":"GOOGLE DRIVE"
+    },
+    {
         "id":"A471",
         "id_POST":"458156",
         "title":"John Wick 3",
