@@ -41,7 +41,7 @@ subMenu.innerHTML = `
     <li class="link act_belicos" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/belicos.html">Bélicos</a></li>
     <li class="link act_comedia" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/comedia.html">Comedia</a></li>
     <li class="link act_documental" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/documental.html">Documental</a></li>
-    <li class="link act_drama" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/documental.html">Drama</a></li>
+    <li class="link act_drama" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/drama.html">Drama</a></li>
     <li class="link act_historico" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/historico.html">Histórico</a></li>
     <li class="link act_marvel" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/marvel.html">Marvel</a></li>
     <li class="link act_romance" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/romance.html">Romance</a></li>
