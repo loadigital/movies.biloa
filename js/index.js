@@ -41,8 +41,11 @@ subMenu.innerHTML = `
     <li class="link act_belicos" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/belicos.html">Bélicos</a></li>
     <li class="link act_comedia" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/comedia.html">Comedia</a></li>
     <li class="link act_documental" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/documental.html">Documental</a></li>
+    <li class="link act_drama" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/documental.html">Drama</a></li>
     <li class="link act_historico" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/historico.html">Histórico</a></li>
+    <li class="link act_marvel" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/marvel.html">Marvel</a></li>
     <li class="link act_romance" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/romance.html">Romance</a></li>
+    <li class="link act_suspenso" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/suspenso.html">Suspenso</a></li>
     <li class="link act_terror" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/terror.html">Terror</a></li>
     </div>
        
@@ -66,11 +69,10 @@ co_menu_lateral.innerHTML = `
             </div>
             <div class="bc">
             
-                <div class="bc-1"><a href="https://loadigital.github.io/movies.biloa/index.html"><i class="bi-collection-play-fill icon"></i>Películas</a></div>
-               <!-- <div class="bc-1"><a href="page/series.html"><i class="bi-tv-fill icon"></i>Series</a></div>-->
-                <div class="bc-1"><a href="go:B000"><i class="bi-tv-fill icon"></i>Series</a></div>
+                <div class="bc-1"><a href="#"><i class="bi-collection-play-fill icon"></i>Películas</a></div>
+                <div class="bc-1"><a href="page/series.html"><i class="bi-tv-fill icon"></i>Series</a></div>
                 <div class="bc-1"><a href="#"><i class="bi-info-circle-fill icon"></i>Información</a></div>
-                 
+                <div class="bc-1"><a target="_blank" href="https://loadigital.github.io/movies.biloa/"><i class="bi-globe icon"></i>Versión Web</a></div>
             </div>
 
 `
@@ -89,4 +91,8 @@ bSearch.addEventListener("click", function(){
 
 const reload = document.querySelector(".bi-arrow-clockwise");
 reload.addEventListener("click", ()=>{location.reload(true);});
+
+
+
+
     
