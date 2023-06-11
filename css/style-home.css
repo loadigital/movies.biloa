@@ -488,6 +488,75 @@ nav{
     color: #fff;
     
 }
+/*>>>>>>>>>>>>>>>>>>>>>>>>por año>>>>>>>>>>>>>>>>>>>>>>>*/
+
+.co-por-año{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.por-año{
+    width: 95%;
+    color: #fff;
+    border: solid 0px #fff;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.co-bo-cerrar{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+.bo-cerrar{
+    width: 90%;
+}
+.bo-cerrar button{
+    border: none;
+    border-radius: 2px 2px;
+}
+.co-co-por-año{
+    width: 100%;
+}
+.año{
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+    margin-bottom: 3em;
+    grid-gap: 1px;
+    border: solid 0px #fff;
+}
+.año-co-bo button{
+    width: 100%;
+    max-width: 100px;
+    border: none;
+    border-radius: 2px 2px;
+}
+@media screen and (max-width: 800px){
+
+	.año{
+		grid-template-columns: repeat(4,1fr);
+        width: 90%;
+	}
+
+    .año-co-bo button{
+        width: 80px;
+    }
+}
+.año-co-bo button:hover, .bo-cerrar button:hover{
+    background-color: #d10000;
+    color: #fff;
+}
+
 
 
 
