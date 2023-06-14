@@ -1,5 +1,25 @@
 [
     {
+        "id":"A420",
+        "id_POST":"776835",
+        "title":"La elefanta del mago",
+        "genero":"Animación",
+        "genres":"Animación, Aventura, Familia, Fantasía",
+        "tipo":"Pelicula",
+        "año":"2023",
+        "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qsIlpIFNavxMZlE0o71LwvUXOTf.jpg",
+        "posterLink":"https://infobiloa.github.io/BD.BILOA.COM/posterPeliculas/A420 La elefanta del mago.html",
+        "LINK_MOVIES":"http://moviesbiloa.byethost16.com/v/9JP4ehvNLkU2sJH",
+        "LINK_MOVIES_1":"https://infobiloa.github.io/BiloaPlayer.v2/plyr.html?id=eyJpZCI6Ii8vcmVkaXJlY3Rvci5nZHJpdmVjZG4ubWUvZHJpdmUvaW5kZXgucGhwP2lkPXBuUmNZYkUxNjZBU2ZFY0xZQkNwZ1FHWGp5NURnSHBMa1hYWldxakhRRFZhQkc4dHhYaUklMkZ1b0prYzd1JTJCRjZxV1ZtanpQbVdHYjElMkZ5Rll0WnhjR0pDbW5LTnBrVnJreGpDWnl6UDMycGNET3FMUjR0JTJCaXlrUTVXV0ZJZHljRWM1Y2RMSURUc3dFSVRxMWhMRm9OSm04M3NKblZjZnYzJTJCUFJtZExtRnV0MGYlMkZXYlpIOVpZbVFwQXRFSGp5azB0bFl6TktobmRidSUyRjNlSnNPTDEyeEFURkslMkZLczQySmhCM3dvcmI0N1ZmTkY2QSUzRCUzRCZyZWY9JnNhbmRib3g9JnQ9MTY4NjcxMzM1MDk2MyZyZWY9JnJlcz03MjAifQ==",
+        "LINK_MOVIES_2":"https://infobiloa.github.io/v2.zplayer/fluid.html?id=eyJpZCI6WyIxWlU1UWdMb2owUERJakY5V2JDeThwUlNxYUkwdl9qenMiXX0=",
+        "POSTER_DESCARGA":"https://infobiloa.github.io/BD.BILOA.COM/posterDescarga/A420 La elefanta del mago.html",
+        "LINK_DESCARGA":"https://drive.google.com/u/1/uc?id=1ZU5QgLoj0PDIjF9WbCy8pRSqaI0v_jzs&export=download",
+        "TRAILER":"https://www.youtube.com/embed/1ODeO-E7lRo",
+        "GB_PESO": "807 MB",
+        "SERV_DESC":"GOOGLE DRIVE"
+    
+    },
+    {
         "id":"A390",
         "id_POST":"672741",
         "title":"Till Death. Hasta que la muerte nos separe",
