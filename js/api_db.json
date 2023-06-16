@@ -1,4 +1,5 @@
 [
+    
     {
         "id":"A420",
         "id_POST":"776835",
@@ -903,7 +904,7 @@
         "TRAILER":"https://www.youtube.com/embed/_ZCw9V09kt4"
     
     },
-   {
+    {
         "id":"A462",
         "id_POST":"917300",
         "title":"Crimen imperfecto",
@@ -922,7 +923,7 @@
         "id":"A461",
         "id_POST":"283995",
         "title":"Guardianes de la Galaxia vol. 2",
-        "genero":"Aventura",
+        "genero":"Marvel",
         "genres":"Aventura, Acción, Ciencia ficción",
         "tipo":"Pelicula",
         "marvel":"Marvel",
@@ -1293,7 +1294,7 @@
         "id":"A060",
         "id_POST":"76338",
         "title":"Thor: el mundo oscuro",
-        "genero":"Acción",
+        "genero":"Marvel",
         "genres":"Acción, Aventura, Fantasía",
         "tipo":"Pelicula",
         "marvel":"Marvel",
@@ -1309,7 +1310,7 @@
         "id":"A058",
         "id_POST":"68721",
         "title":"Iron Man 3",
-        "genero":"Acción",
+        "genero":"Marvel",
         "genres":"Acción, Aventura, Ciencia ficción",
         "tipo":"Pelicula",
         "marvel":"Marvel",
@@ -1341,7 +1342,7 @@
         "id":"A050",
         "id_POST":"271110",
         "title":"Capitán América: Civil War",
-        "genero":"Acción",
+        "genero":"Marvel",
         "genres":"Aventura, Acción, Ciencia ficción",
         "tipo":"Pelicula",
         "marvel":"Marvel",
