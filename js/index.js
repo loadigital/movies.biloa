@@ -91,10 +91,12 @@ const bSearch = document.querySelector(".bi-search");
 bSearch.addEventListener("click", function(){
     window.open('https://loadigital.github.io/movies.biloa/page/search.html' , "_self");
 });
+/*
 const bFilter= document.querySelector(".bi-filter");
 bFilter.addEventListener("click", function(){
     window.open('https://loadigital.github.io/movies.biloa/page/porAño.html' , "_self");
 });
+*/
 
 
 
