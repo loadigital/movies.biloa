@@ -163,6 +163,8 @@ header{
     cursor: pointer;
 
 }
+.ct_item-active{border-bottom: solid 2px #ff0303;}
+
 /*>>>>>>>>>>>>>>>>menu lateral>>>>>>>>>>>>>>>>>>>>*/
 @media screen and (min-width: 1024px){
     .co-menu-lateral, .bx{
