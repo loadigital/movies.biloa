@@ -10,17 +10,23 @@ html, body{
     display: flex;
     flex-direction: column;
 }
-body{
-   background: #000000;
+:root{
+    --color-uno:rgb(34, 37, 75);
+    --color-dos: rgb(55, 59, 105);
+    --color-tres:rgb(189, 0, 0);
 }
-
+body{
+    background: var(--color-dos);
+    font-family: 'Poppins', sans-serif;
+ 
+}
 /*>>>>>>>>>>>>>>>>Cabecera>>>>>>>>>>>>>>>>>>>>*/
 header{
     width: 100%;
-    height: auto;
+    height: 80px;
     position: fixed;
     transition: 0.7s;
-    background: #000000;
+    background: var(--color-uno);
     border: solid 0px #fff;
 }
 .content-menu{
@@ -86,30 +92,40 @@ header{
 
 .content-submenu{
     width: 100%;
+    height: 50px;
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
     align-items: center;
     margin-top: 10px;
     border: solid 0px  #fff;
+    background: var(--color-uno);
+        
 }
 .co-submenu{
     width: 90%;
     display: flex;
+    height: auto;
     margin-top: 0px;
-    overflow: auto; 
+    overflow: auto;
     color: #fff;
     border: solid 0px  #fff;
 }
+
 .co-submenu .link{
     list-style: none;
     margin: 6px;
+    
 }
 .co-submenu .link a{
     text-decoration: none;
     color: #fff;
     font-family: Arial;
+    font-size: 18px;
+}
+.co-genre, .co-version{
+    display: none;
 }
 @media screen and (min-width: 800px){
   .icon-menu{
@@ -118,8 +134,103 @@ header{
   .co-text{
     display: none;
   }
- 
+  .content-submenu{
+    width: 100%;
+    max-width: 240px;
+    position: fixed;
+    height: auto;
+    background: var(--color-uno);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: start;
+  }
+  .co-submenu{
+    width: 100%;
+    height: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: start;
+    overflow-y: scroll;
+    border: solid 0px  #fff;
+    
+  }
+  .link{
+    width: 100%;
+    height: 40px;
+    border: solid 0px  #fff;
+    margin: auto;
+    background: var(--color-dos);
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    border-radius: 3px 3px;
+  }
+  .co-genre{
+    width: 80%;
+    height: auto;
+    display: block;
+    border: solid 0px  #fff;
+    margin-top: 13px;
+    padding: 0;
+    }
 
+    .genre{
+        background: var(--color-dos);
+        width: 100%;
+        font-family: Arial;
+        font-size: 20px;
+        color: var(--color-tres);
+        border-radius: 3px 3px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .co-version{
+        display: flex;
+        width: 100%;
+        max-width: 240px;
+        position: fixed;
+        flex-direction: row;
+        justify-content: center;
+        bottom: 10px;
+        
+    }
+    .co-version .version a{
+        color: #fff;
+        text-decoration: none;
+        font-size: 12px;
+        font-family: sans-serif;
+        letter-spacing: 0.10em;
+    }
+    .co-version .version a:hover{
+     color: var(--color-tres);
+    }
+    
+  .co-submenu::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+.co-submenu::-webkit-scrollbar:vertical {
+    width:10px;
+}
+.co-submenu::-webkit-scrollbar-button:increment,.co-submenu::-webkit-scrollbar-button {
+    display: none;
+} 
+.co-submenu::-webkit-scrollbar:horizontal {
+    height: 10px;
+}
+.co-submenu::-webkit-scrollbar-thumb {
+    background-color:var(--color-dos);
+    border-radius: 20px; 
+}
+.co-submenu::-webkit-scrollbar-track {
+    border-radius: 10px;  
+}
 }
 .co-logo-2 img{
     width: 100%;
@@ -133,6 +244,8 @@ header{
     body{
         background: #000000;
       }
+
+      
       
   }
 @media screen and (min-width: 1024px){
@@ -158,10 +271,9 @@ header{
    
 }
 .bi-search:hover, .bi-filter:hover, .bi-arrow-clockwise:hover, .bi-list:hover,
-.link a:hover, .bc .bc-1 a:hover, .bi-x:hover{
+.bc .bc-1 a:hover, .bi-x:hover{
     color: #bd0000;
     cursor: pointer;
-
 }
 .ct_item-active{border-bottom: solid 2px #ff0303;}
 
@@ -173,14 +285,14 @@ header{
     }
 }
 nav{
-    background: #000000;
+    background: var(--color-uno);
 }
 .co-menu-lateral{
     display: block;
     width: 60%;
     height: 100%;
     position: fixed;
-    background:#000000;
+    background: var(--color-uno);
     left: -100%;
     transition: all 0.4s;
     overflow: auto;
@@ -195,7 +307,7 @@ nav{
     flex-wrap: wrap;
     justify-content: start;
     align-items: center;
-    background: #000000;
+    background: var(--color-uno);
     position: fixed;
     
 }
@@ -250,7 +362,7 @@ nav{
     display: inline-block;
     justify-content: center;
     align-items: center;
-    background: #161616;
+    background: var(--color-dos);
     margin-top: 100px;
   
     
@@ -336,12 +448,14 @@ nav{
    flex-direction: row;
    flex-wrap: wrap;
    justify-content: center;
-   margin-top: 105px;
+   margin-top: 85px;
    margin-bottom: 7px;
+   background: var(--color-dos);
   
 }
 #atContainer-51b15bb786ead3ee88ddd1879659deaf{
     width: 90%;
+    background: var(--color-uno);
     
 }
 .include-main{
@@ -349,17 +463,17 @@ nav{
    display: flex;
    flex-direction: row;
    flex-wrap: wrap;
-   justify-content: center;
+   justify-content:right;
    align-items: center;
-
+   background: var(--color-dos);
 }
 
 .co-cards{
-    width: 95%;
+    width: 80%;
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     margin-left: auto;
-	margin-right: auto;
+	margin-right: 15px;
 	margin-top: auto;
     margin-bottom: 3em;
     grid-gap: 5px;
@@ -406,10 +520,13 @@ nav{
 }
 
 @media screen and (max-width: 800px){
-
+    .anuncios{
+        margin-top: 125px;
+    }
 	.co-cards{
 		grid-template-columns: repeat(4,1fr);
         width: 95%;
+        margin-right: auto;
 	}
     .img-cards img{
         width: 100%;
@@ -490,6 +607,7 @@ nav{
     color: #fff;
     
 }
+
 /*>>>>>>>>>>>>>>>>>>>>>>>>por año>>>>>>>>>>>>>>>>>>>>>>>*/
 
 .co-por-año{
@@ -558,7 +676,6 @@ nav{
     background-color: #d10000;
     color: #fff;
 }
-
 
 
 
