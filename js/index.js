@@ -35,19 +35,19 @@ menu.innerHTML = `
 subMenu.className="content-submenu"
 subMenu.innerHTML = `
     <div class="co-submenu">
-    <li class="link act_recientes"><a href="https://loadigital.github.io/movies.biloa/index.html">Recientes</a></li>
-    <li class="link act_accion" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/accion.html">Acción</a></li>
-    <li class="link act_animacion" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/animacion.html">Animación</a></li>
-    <li class="link act_aventura" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/aventura.html">Aventura</a></li>
-    <li class="link act_belicos" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/belicos.html">Bélicos</a></li>
-    <li class="link act_comedia" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/comedia.html">Comedia</a></li>
-    <li class="link act_documental" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/documental.html">Documental</a></li>
-    <li class="link act_drama" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/drama.html">Drama</a></li>
-    <li class="link act_historico" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/historico.html">Histórico</a></li>
-    <li class="link act_marvel" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/marvel.html">Marvel</a></li>
-    <li class="link act_romance" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/romance.html">Romance</a></li>
-    <li class="link act_suspenso" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/suspenso.html">Suspenso</a></li>
-    <li class="link act_terror" ><a href="https://loadigital.github.io/movies.biloa/page/pagePeliculas/terror.html">Terror</a></li>
+    <li class="link"  data-category="all"><a href="#">Recientes</a></li>
+    <li class="link"  data-category="Acción"><a href="#">Acción</a></li>
+    <li class="link"  data-category="Animación"><a href="#">Animación</a></li>
+    <li class="link"  data-category="Aventura"><a href="#">Aventura</a></li>
+    <li class="link"  data-category="Belico"><a href="#">Bélicos</a></li>
+    <li class="link"  data-category="Comedia"><a href="#">Comedia</a></li>
+    <li class="link"  data-category="Documental"><a href="#">Documental</a></li>
+    <li class="link"  data-category="Drama"><a href="#">Drama</a></li>
+    <li class="link"  data-category="Historico"><a href="#">Histórico</a></li>
+    <li class="link"  data-category="Marvel"><a href="#">Marvel</a></li>
+    <li class="link"  data-category="Romance"><a href="#">Romance</a></li>
+    <li class="link"  data-category="Suspenso"><a href="#">Suspenso</a></li>
+    <li class="link"  data-category="Terror"><a href="#">Terror</a></li>
     </div>
        
 
@@ -74,7 +74,6 @@ co_menu_lateral.innerHTML = `
                 <div class="bc-1"><a href="https://loadigital.github.io/movies.biloa/series B000.html"><i class="bi-tv-fill icon"></i>Series</a></div>
                 <div class="bc-1"><a href="#"><i class="bi-info-circle-fill icon"></i>Información</a></div>
                 <div class="bc-1"><a href="https://loadigital.github.io/descargar-Biloa/"><i class="bi-android2 icon"></i>Descargar App</a></div>
-                
             </div>
 
 `
@@ -95,10 +94,38 @@ bFilter.addEventListener("click", function(){
 });
 
 
+
 const reload = document.querySelector(".bi-arrow-clockwise");
 reload.addEventListener("click", ()=>{location.reload(true);});
 
 
+
+//F. categoria
+$(document).ready(function(){
+    $('.link[data-category="all"]').addClass('ct_item-active');
+
+    $('.link').click(function(){
+        var catMovies = $(this).attr('data-category');
+
+        $('.link').removeClass('ct_item-active');
+        $(this).addClass('ct_item-active');
+        
+		$('.category').css('display', 'none');
+		function hideMovies(){
+			$('.category').hide();
+		} setTimeout(hideMovies,400);
+		function showMovies(){
+			$('.category[data-category="'+catMovies+'"]').show();
+			$('.category[data-category="'+catMovies+'"]').css('display', 'block');
+		} setTimeout(showMovies,400);
+	});
+	$('.link[data-category="all"]').click(function(){
+		function showAll(){
+			$('.category').show();
+			$('.category').css('display', 'block');
+		} setTimeout(showAll,400);
+	});
+});
 
 
     
