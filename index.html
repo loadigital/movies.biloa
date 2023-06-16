@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/style-home.css">
     <link rel="stylesheet" href="icon/bootstrap-icons.css">
     <title>Películas</title>
-    
+    <script src="js/jquery.js"></script>
 </head>
 <body>
    
@@ -28,10 +28,7 @@
     <div class="include-main" id="include-main">
         <div class="co-cards" id="co-cards"></div>
     </div>
-    <style>
-        .act_recientes{border-bottom: solid 2px #ff0303;}
-    </style>
-
+   
 <script src="js/index.js"></script>
 <script>
 //db
@@ -71,6 +68,8 @@ function getMovie(url){
 function pintar(datos){
 
     const cards = document.createElement("div");
+                cards.className ="category"
+                cards.dataset.category = data.genero;
                 cards.innerHTML=`
                 <div class="cards">
                 <div class="img-cards"><a href="${data.posterLink}"><img src="${IMG_URL + datos.poster_path}" alt=""></a></div>
