@@ -610,8 +610,10 @@ nav{
 
 /*>>>>>>>>>>>>>>>>>>>>>>>>por año>>>>>>>>>>>>>>>>>>>>>>>*/
 
+
 .co-por-año{
     width: 100%;
+    height: 100%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -653,7 +655,6 @@ nav{
 	margin-top: auto;
     margin-bottom: 3em;
     grid-gap: 1px;
-    border: solid 0px #fff;
 }
 .año-co-bo button{
     width: 100%;
@@ -677,6 +678,78 @@ nav{
     color: #fff;
 }
 
-
-
+/*/////////////////////MODAL FILTRO AÑO//////////////////////////*/
+.nav-modal-año{
+    width: 100%;
+    max-width: 240px;
+    position: fixed;
+    height: 100%;
+    right: -100%;
+    padding: 7px 7px;
+    transition: all 0.4s;
+}
+.co-modal-año{
+    width: 100%;
+    max-width: 240px;
+    height: auto;
+    background: var(--color-uno);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: solid 0px #fff; 
+    margin-top: 3px;
+}
+.co-modal-año-title{
+    width: 100%;
+    text-align: center;
+    height: auto;
+    border: solid 0px #fff;
+    background: var(--color-dos);
+    padding-block: 7px 7px;
+    border-radius: 3px 3px;
+    color: var(--color-tres);
+    font-size: 18px;
+}
+.modal-año{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 7px 7px;
+}
+.co-año{
+    width: 100%;
+    border: solid 0px #fff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 4px 4px;
+}
+.filtro{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: var(--color-dos);
+    height: auto;
+    border: solid 0px #fff;
+    list-style: none;
+    margin-bottom: 7px;
+    padding-block: 7px 7px;
+    border-radius: 3px 3px;
+    background: var(--color-dos);
+}
+.co-año li a{
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+}
+.act-dos{
+    background: var(--color-tres);
+}
 
