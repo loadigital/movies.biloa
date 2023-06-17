@@ -14,11 +14,11 @@ menu.innerHTML = `
                 <div class="co-text"><p>Películas</p></div>
                 <div class="bc1">
             
-                <div class="bc-1"><a href="https://loadigital.github.io/movies.biloa/index.html"><i class="bi-collection-play-fill icon"></i>Películas</a></div>
-               <!-- <div class="bc-1"><a href="page/series.html"><i class="bi-tv-fill icon"></i>Series</a></div>-->
-                <div class="bc-1"><a href="https://loadigital.github.io/movies.biloa/series B000.html"><i class="bi-tv-fill icon"></i>Series</a></div>
-                <div class="bc-1"><a href="#"><i class="bi-info-circle-fill icon"></i>Información</a></div>
-                <div class="bc-1"><a href="https://loadigital.github.io/descargar-Biloa/"><i class="bi-android2 icon"></i>Descargar App</a></div>
+                <div class="bc-1"><a  href="https://loadigital.github.io/movies.biloa/index.html"><i class="bi-collection-play-fill icon"></i>Películas</a></div>
+               <!-- <div class="bc-1"><a  href="page/series.html"><i class="bi-tv-fill icon"></i>Series</a></div>-->
+                <div class="bc-1"><a  href="https://loadigital.github.io/movies.biloa/series B000.html"><i class="bi-tv-fill icon"></i>Series</a></div>
+                <div class="bc-1"><a  href="#"><i class="bi-info-circle-fill icon"></i>Información</a></div>
+                <div class="bc-1"><a  href="https://loadigital.github.io/descargar-Biloa/"><i class="bi-android2 icon"></i>Descargar App</a></div>
             </div>
             </div>
             
@@ -91,12 +91,11 @@ const bSearch = document.querySelector(".bi-search");
 bSearch.addEventListener("click", function(){
     window.open('https://loadigital.github.io/movies.biloa/page/search.html' , "_self");
 });
-/*
+
 const bFilter= document.querySelector(".bi-filter");
 bFilter.addEventListener("click", function(){
-    window.open('https://loadigital.github.io/movies.biloa/page/porAño.html' , "_self");
+    document.getElementById("nav-modal-año").style.right="0";
 });
-*/
 
 
 
@@ -132,5 +131,38 @@ $(document).ready(function(){
 	});
 });
 
+//F. año
+$(document).ready(function(){
+    $('.co-año .filtro[data-año="all"]').addClass('act-dos');
 
-    
+    $('.filtro').click(function(){
+        var catAño = $(this).attr('data-año');
+
+        $('.filtro').removeClass('act-dos');
+        $(this).addClass('act-dos');
+        
+		$('.category').css('display', 'none');
+		function hideMovies(){
+			$('.category').hide();
+		} setTimeout(hideMovies,400);
+		function showMovies(){
+			$('.category[data-año="'+catAño+'"]').show();
+			$('.category[data-año="'+catAño+'"]').css('display', 'block');
+		} setTimeout(showMovies,400);
+	});
+	$('.filtro[data-año="all"]').click(function(){
+		function showAll(){
+			$('.category').show();
+			$('.category').css('display', 'block');
+		} setTimeout(showAll,400);
+	});
+});
+
+
+const next = document.querySelectorAll('.next a[data^="next"')
+    next.forEach(next =>{
+        next.addEventListener("click", function(){
+            document.getElementById("nav-modal-año").style.right="-100%";
+            
+        })
+    })
