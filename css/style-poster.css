@@ -8,6 +8,11 @@
     -o-box-sizing: border-box;
 	box-sizing: border-box;
 }
+:root{
+    --color-uno:rgb(34, 37, 75);
+    --color-dos: rgb(55, 59, 105);
+    --color-tres:rgb(189, 0, 0);
+}
 html, body{
     height: 100%;
     margin: 0;
@@ -144,9 +149,7 @@ header{
     border: solid 0px #fff;
     margin-top: 3px;
     transition: 0.7s;
-    margin-bottom: 30px;
 }
-
 
 .co-frame{
     width: 90%;
@@ -224,6 +227,7 @@ header{
     margin-bottom: 3px;
     
 }
+
 .cont-link{
     width: 100%;
     display: block;
@@ -296,15 +300,146 @@ header{
     color: #fff;
     background: #b80c0c;
 }
-.co-modal{transition: 0.7s;top: -100%;background: rgb(0, 0, 0, 0.9);width: 100%;height: 100%;position: fixed;}
-.modal{width: 90%;max-width: 720px;height: auto;border: solid 1px #fff; border-radius: 3px 3px;}
-.modal-title, .modal-button{width: 100%;text-align: center;letter-spacing: 0.14em;font-size: 18px;font-family: Arial;}
+
+.co-modal{display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;transition: 0.7s;left: -100%;background: rgb(0, 0, 0, 0.9);width: 100%;height: 100%;position: fixed;}
+.modal{width: 90%;max-width: 720px;height: auto;border: solid 1px #fff; border-radius: 3px 3px; }
+.modal-title, .modal-button{width: 100%;text-align: center;letter-spacing: 0.14em;font-size: 18px;font-family: Arial;} 
 .modal-title h3{margin-bottom: 30px; margin-top: 20px;}
 .modal-title h3, .modal-title li{color:#fff;}
 .modal-title li{text-align: center;}
 .modal-title img{width: 100%;max-width: 40px;}
-.modal-button button{width: 200px;height: 40px;border:none;margin: 4px;border-radius: 3px 3px;letter-spacing: 0.14em; font-size: 18px;}
-.modal-button button:hover{background: #940000;color:#fff;cursor: pointer;}
+.modal-button button{width: 200px;height: 25px;border:none;margin: 4px;border-radius: 3px 3px;letter-spacing: 0.14em; font-size: 14px;background: var(--color-tres);color:#fff}
+.modal-button button:hover{background: var(--color-dos);color:#000000;cursor: pointer;}
 .modal-anuncios{width: 90%;max-width: 720px;height:100px;display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;margin-top: 20px;}
-.main-modal{width: 100%;display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;}
+.main-modal{overflow-y: scroll;display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;background: rgb(0, 0, 0, 0.9);width: 90%;height: 100%;}
 
+/*//////////////////////////DEPLOY NEXT/////////////*/
+.modal-button-1 button{width: 200px;height: 40px;border:none;margin: 4px;border-radius: 3px 3px;letter-spacing: 0.14em; font-size: 16px;}
+.modal-button-1{width: 100%;text-align: center;letter-spacing: 0.14em;font-size: 18px;font-family: Arial;}
+.modal-button-1 button:hover{background: var(--color-uno);color:#ffffff;cursor: pointer;}
+.deploy--{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: auto;
+    border: 0px solid #ffff;
+    display: block;
+    margin-bottom: 3px;
+    
+    
+}
+.cont-deploy{
+    width: 100%;
+    display: block;
+    height: 0;
+    overflow: hidden;
+    transition: all 0.3s;
+    border-radius: 5px 5px;
+
+}
+.bi-chevron-down{
+    
+  border-radius: 2px 2px;
+  margin: 0;
+  text-align: center;
+    color: #000000;
+    
+    
+}
+
+.main-modal::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+.main-modal::-webkit-scrollbar:vertical {
+    width:10px;
+}
+.main-modal::-webkit-scrollbar-button:increment,.main-modal::-webkit-scrollbar-button {
+    display: none;
+} 
+.main-modal::-webkit-scrollbar:horizontal {
+    height: 10px;
+}
+.main-modal::-webkit-scrollbar-thumb {
+    background-color:var(--color-dos);
+    border-radius: 20px; 
+}
+.main-modal::-webkit-scrollbar-track {
+    border-radius: 10px;  
+}
+
+@media screen and (max-width: 800px){
+    .main-modal{
+        width: 100%;
+    }
+}
+
+/*//////////////////////////RECOMENDADOS/////////////*/
+
+.main-recomendados{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 0px solid #ffff;
+}
+
+.co-movies{
+    width: 80%;
+   
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+    margin-bottom: 3em;
+    grid-gap: 5px;
+    border: 0px solid #ffff;
+}
+
+.movies{
+    width: 100%;
+    display: block;
+    color: #fff;
+    margin-bottom: 20px;
+    padding: 3px 3px;
+    background: var(--color-dos);
+}
+
+.movies img{
+    width: 100%;
+    height: 370px;
+    border-radius: 5px 5px;
+}
+.mas-p{
+    width: 100%;
+    max-width: 720px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: #fff;
+    margin-top: 10px;
+    font-family: Verdana;
+    border: 0px solid #ffff;
+    margin-bottom: 7px;
+    text-align: center;
+}
+.mas-p h3{
+    border-bottom: solid 1px var(--color-tres);
+    width: 200px;
+}
+@media screen and (max-width: 800px){
+    .movies img{
+        width: 100%;
+        height: 160px;
+        
+    } 
+    .co-movies{
+        width: 95%;
+        
+      
+    }
+}
