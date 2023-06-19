@@ -1,5 +1,36 @@
 [
   {
+    "id":"A060",
+    "id_POST":"76338",
+    "title":"Thor: el mundo oscuro",
+    "genero":"Marvel",
+    "genres":"Acción, Aventura, Fantasía",
+    "tipo":"Pelicula",
+    "año":"2022",
+    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg",
+    "posterLink": {
+                    "link_web":"https://biloamo.github.io/mo/web/peliculas/A060 Thor el mundo oscuro.web.html",
+                    "link_app":"https://biloamo.github.io/mo/app/peliculas/A060 Thor el mundo oscuro.app.html",
+                    "POSTER_DESCARGA":"https://biloamo.github.io/mo/descarga/A060 Thor el mundo oscuro.html",
+                    "LINK_DESCARGA":"https://drive.google.com/u/7/uc?id=1Jm0bLy30IQG6D9WmbD5MO1FEZXUKH9oA&export=download"
+                  },
+    "LINK_MOVIES":{
+                    "link_web":{
+                                 "web_1":"https://biloa.website/biloa/xT2nc0fh4JofgVD"
+                               },
+                    "link_app":{
+                                 "app_1":"https://mo.biloa.website/biloa/YtnEvFXwSLnI2zv",
+                                 "app_2":"",
+                                 "app_3":""
+                               }
+                  }, 
+    
+    "TRAILER":"https://www.youtube.com/embed/Ymawf94_LFM",
+    "GB_PESO": "2.8 GB",
+    "SERV_DESC":"GOOGLE DRIVE"
+        
+},
+  {
         "id":"A414",
         "id_POST":"785084",
         "title":"La ballena",
