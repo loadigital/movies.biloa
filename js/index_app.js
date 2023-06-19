@@ -90,7 +90,7 @@ bX.addEventListener("click", ()=>{document.querySelector(".co-menu-lateral").sty
 
 const bSearch = document.querySelector(".bi-search");
 bSearch.addEventListener("click", function(){
-    window.open('https://loadigital.github.io/movies.biloa/page/search.html' , "_self");
+    window.open('https://loadigital.github.io/movies.biloa/page/search_app.html' , "_self");
 });
 
 const bFilter= document.querySelector(".bi-filter");
