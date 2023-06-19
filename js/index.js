@@ -9,6 +9,7 @@ menu.innerHTML = `
             <div class="co-icon-1">
                 <div class="icon-menu icons-style"><i class="bi-list"></i></div>
                 <div class="co-logo-2"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIcl_Aw2611bC9UWhKHC7O1PKnvUWR3B6oATFG0b4iAVF1S9Klv-FMLde3DQno56WXIINX1BVejaFxfCwucf3eduX80ARWh3QREsHuQ6Npql4MiKCvnX4eVwU5P7rV6oXWx0N74VE_0_LwLDOTZ_HbvsQgDHbLU0blEc5Hu7_7GrbBaN0jUS2f7I2g/s166/LOGO1.png"></div>
+               
             </div>
             <div class="co-icon-2">
                 <div class="co-text"><p>Películas</p></div>
@@ -34,7 +35,7 @@ menu.innerHTML = `
 `
 subMenu.className="content-submenu"
 subMenu.innerHTML = `
-     <div class="co-genre"><div class="genre"><p>Categorias</p></div></div>
+     <!--<div class="co-genre"><div class="genre"><p>Categorias</p></div></div>-->
    
     <div class="co-submenu">
     <li class="link"  data-category="all"><a href="#">Recientes</a></li>
@@ -53,7 +54,7 @@ subMenu.innerHTML = `
 
     </div> 
    
-    <div class="co-version"><div class="version"><a href="#">@B!LOA V.5.0.3</a></div></div>
+    <!--<div class="co-version"><div class="version"><a href="#">@B!LOA V.5.0.3</a></div></div>-->
 `
 includeHeader.appendChild(menu);
 includeHeader.appendChild(subMenu);
