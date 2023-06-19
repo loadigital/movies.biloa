@@ -28,7 +28,7 @@ data.forEach(function(data) {
   
     cards.innerHTML=`
     <div class="cards">
-    <div class="img-cards"><a href="${data.posterLink}"><img src="${data.imgLink}" alt=""></a></div>
+    <div class="img-cards"><a href="${data.posterLink.link_web}"><img src="${data.imgLink}" alt=""></a></div>
     <div class="title-cards"><p>${data.title}</p></div>
     </div>
        
