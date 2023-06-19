@@ -1,5 +1,5 @@
 [
-        {
+  {
         "id":"A414",
         "id_POST":"785084",
         "title":"La ballena",
@@ -11,7 +11,7 @@
         "posterLink": {
                         "link_web":"https://biloamo.github.io/mo/web/peliculas/A414 La ballena.web.html",
                         "link_app":"https://biloamo.github.io/mo/app/peliculas/A414 La ballena.app.html",
-                        "POSTER_DESCARGA":"https://biloamo.github.io/mo/descarga/A414 La ballena.app.html",
+                        "POSTER_DESCARGA":"https://biloamo.github.io/mo/descarga/A414 La ballena.html",
                         "LINK_DESCARGA":"https://drive.google.com/u/5/uc?id=11b2KFHkVZSRHcN00ka1bW-5bPVySYCNe&export=download"
                       },
         "LINK_MOVIES":{
