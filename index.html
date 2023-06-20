@@ -66,11 +66,13 @@ function getMovie(url){
 };
 
 function pintar(datos){
+    const moonLanding = new Date(datos.release_date);
+    let año = moonLanding.getFullYear();
 
     const cards = document.createElement("div");
                 cards.className ="category"
-                cards.dataset.category = data.genero;
-                cards.dataset.año = data.año;
+                cards.dataset.category = datos.genres[0].name;
+                cards.dataset.año = año;
                 cards.innerHTML=`
                 <div class="cards">
                 <div class="img-cards"><a href="${data.posterLink.link_web}"><img src="${IMG_URL + datos.poster_path}" alt=""></a></div>
