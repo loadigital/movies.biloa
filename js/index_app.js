@@ -42,14 +42,13 @@ subMenu.innerHTML = `
     <li class="link"  data-category="Acción"><a href="#">Acción</a></li>
     <li class="link"  data-category="Animación"><a href="#">Animación</a></li>
     <li class="link"  data-category="Aventura"><a href="#">Aventura</a></li>
-    <li class="link"  data-category="Belico"><a href="#">Bélicos</a></li>
+    <li class="link"  data-category="Bélica"><a href="#">Bélicas</a></li>
     <li class="link"  data-category="Comedia"><a href="#">Comedia</a></li>
     <li class="link"  data-category="Documental"><a href="#">Documental</a></li>
     <li class="link"  data-category="Drama"><a href="#">Drama</a></li>
-    <li class="link"  data-category="Historico"><a href="#">Histórico</a></li>
-    <li class="link"  data-category="Marvel"><a href="#">Marvel</a></li>
+    <li class="link"  data-category="Historia"><a href="#">História</a></li>
     <li class="link"  data-category="Romance"><a href="#">Romance</a></li>
-    <li class="link"  data-category="Suspenso"><a href="#">Suspenso</a></li>
+    <li class="link"  data-category="Suspense"><a href="#">Suspenso</a></li>
     <li class="link"  data-category="Terror"><a href="#">Terror</a></li>
 
     </div> 
