@@ -323,7 +323,18 @@ header{
     border: 0px solid #ffff;  
 }
 
-._pgenres{
+.co-genres_{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.co-genres_ ._pgenres{
+  width: auto;
+  border: 0px solid #ffff; 
+  text-align: center;
+  font-size: 14px;
   margin: 2px;
 }
 .deploy--{
