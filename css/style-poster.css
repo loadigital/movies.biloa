@@ -315,9 +315,17 @@ header{
 .main-modal{overflow-y: scroll;display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;background: rgb(0, 0, 0, 0.9);width: 90%;height: 100%;}
 
 /*//////////////////////////DEPLOY NEXT/////////////*/
-.modal-button-1 button{width: 200px;height: 40px;border:none;margin: 4px;border-radius: 3px 3px;letter-spacing: 0.14em; font-size: 16px;}
+.modal-button-1 button{width: 200px;height: 40px;border:none;margin: 4px;border-radius: 4px 4px;letter-spacing: 0.14em; font-size: 16px;}
 .modal-button-1{width: 100%;text-align: center;letter-spacing: 0.14em;font-size: 18px;font-family: Arial;}
 .modal-button-1 button:hover{background: var(--color-uno);color:#ffffff;cursor: pointer;}
+.general{
+    width: 100%;
+    border: 0px solid #ffff;  
+}
+
+._pgenres{
+  margin: 2px;
+}
 .deploy--{
     width: 100%;
     display: flex;
