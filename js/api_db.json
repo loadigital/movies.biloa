@@ -249,31 +249,7 @@
     "GB_PESO": "2.8 GB",
     "SERV_DESC":"GOOGLE DRIVE"     
 },
-  {
-    "id":"A322",
-    "id_POST":"843932",
-    "title":"La niñera",
-    "tipo":"Pelicula",
-    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dubugvrxYazuwzHuh6NCxauIl1L.jpg",
-    "posterLink": {
-                    "link_web":"https://biloamo.github.io/mo/web/peliculas/A322 La niñera.web.html",
-                    "link_app":"https://biloamo.github.io/mo/app/peliculas/A322 La niñera.app.html",
-                    "POSTER_DESCARGA":"https://biloamo.github.io/mo/descarga/A322 La niñera.html",
-                    "LINK_DESCARGA":"https://drive.google.com/u/0/uc?id=1OvO8rf54Jtwj9ukxhsdj7v_GLN3BUfsj&export=download"
-                  },
-    "LINK_MOVIES":{
-                    "link_web":{
-                                 "web_1":"https://infobiloa.github.io/BiloaPlayer.v2/plyr.html?id=eyJpZCI6Ii8vcmVkaXJlY3Rvci5nZHJpdmVjZG4ubWUvZHJpdmUvaW5kZXgucGhwP2lkPWRGQXZoaW5PT1ByUkY1Y0NuYzl0dHdYdUpBMSUyQmxmdW5SVU02MUhxRDI5Q0Q4R2xmbXh4ZEM3ZyUyRndhUDlGZm9lMnk3MDNVaDI5TDVlYUNmYiUyRmtTOFMwMHZnUlhjTmtuZCUyQjdVM293bkN1YkZWJTJCZndIUEtWSElZNjNjNTF5MEQ1OXZlb2lLMkclMkZNUEZCN2ZUUjVVZW5nekdKMkhZenJReTFvJTJGcDhzS1hsRUpsb1pyZkdwd2lrenhDJTJGSzh6ZkZtMVNOSkRvU3J1R0lCUHBrU1FmaEFzSkRsUEhCam5rdkpjaG1mYzBydmtxb3dLZyUzRCUzRCZyZWY9JnNhbmRib3g9JnQ9MTY4NzU1ODA1ODg5NiZyZWY9JTI2cGxheV9lcnJvcl9maWxlJTNEeWVzJnRyeT0zJnJlcz03MjAifQ=="
-                               },
-                    "link_app":{
-                                 "app_1":"https://infobiloa.github.io/BiloaPlayer/fluid.html?id=eyJpZCI6Ii8vcmVkaXJlY3Rvci5nZHJpdmVjZG4ubWUvZHJpdmUvaW5kZXgucGhwP2lkPWRGQXZoaW5PT1ByUkY1Y0NuYzl0dHdYdUpBMSUyQmxmdW5SVU02MUhxRDI5Q0Q4R2xmbXh4ZEM3ZyUyRndhUDlGZm9lMnk3MDNVaDI5TDVlYUNmYiUyRmtTOFMwMHZnUlhjTmtuZCUyQjdVM293bkN1YkZWJTJCZndIUEtWSElZNjNjNTF5MEQ1OXZlb2lLMkclMkZNUEZCN2ZUUjVVZW5nekdKMkhZenJReTFvJTJGcDhzS1hsRUpsb1pyZkdwd2lrenhDJTJGSzh6ZkZtMVNOSkRvU3J1R0lCUHBrU1FmaEFzSkRsUEhCam5rdkpjaG1mYzBydmtxb3dLZyUzRCUzRCZyZWY9JnNhbmRib3g9JnQ9MTY4NzU1ODA1ODg5NiZyZWY9JTI2cGxheV9lcnJvcl9maWxlJTNEeWVzJnRyeT0zJnJlcz03MjAifQ==",
-                                 "app_2":"",
-                                 "app_3":""
-                               }
-                  }, 
-    "GB_PESO": "806 MB",
-    "SERV_DESC":"GOOGLE DRIVE"     
-},
+  
   {
     "id":"A321",
     "id_POST":"1027385",
@@ -325,32 +301,7 @@
     "SERV_DESC":"GOOGLE DRIVE"
         
 },
-  {
-    "id":"A318",
-    "id_POST":"613607",
-    "title":"Anna 2",
-    "tipo":"Pelicula",
-    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jlqnp8lXTbjqLNrPq9FEJQX0rGt.jpg",
-    "posterLink": {
-                    "link_web":"https://biloamo.github.io/mo/web/peliculas/A318 Anna 2.web.html",
-                    "link_app":"https://biloamo.github.io/mo/app/peliculas/A318 Anna 2.app.html",
-                    "POSTER_DESCARGA":"https://biloamo.github.io/mo/descarga/A318 Anna 2.html",
-                    "LINK_DESCARGA":"https://drive.google.com/u/0/uc?id=1kD9Z0srkaJ1m08u1edA_1hgsf3HreQ10&export=download"
-                  },
-    "LINK_MOVIES":{
-                    "link_web":{
-                                 "web_1":"https://infobiloa.github.io/BiloaPlayer.v2/plyr.html?id=eyJpZCI6Ii8vcmVkaXJlY3Rvci5nZHJpdmVjZG4ubWUvZHJpdmUvaW5kZXgucGhwP2lkPWpreVl6ZG1HRDhjYWp6RDNncEwxdmdHUGZncjBBNlFGaDNXS05NdWF6UlBUYTdzMklKaWJORDdOVHRhR2duOG5yd2YzMkNZNm02YWZCamhoOEw4ZzZZV1pTSWlJdEdTNVROTGFPTWw0WTEwQ2c0SERyN2ppRHlZYTFvR3klMkJUaTNSOUJpJTJGZ1Q2cG5pcHpoekJ0bXFGRm1pdFBpJTJCdlBRVSUyRjQ1dlR0dlY0UjJ6aVAxU1NpRyUyRkhyaHhOcGpXaWxMVVlwb0V0dTNnanYzUmU2UWZHalBDV21jQm16JTJCSDFYdFR4eDFzJTJGeU5BdFdXM3clM0QlM0QmcmVmPSZzYW5kYm94PSZ0PTE2ODc1NTg0MjQ4OTkmcmVmPSZyZXM9NzIwIn0="
-                               },
-                    "link_app":{
-                                 "app_1":"https://infobiloa.github.io/BiloaPlayer/fluid.html?id=eyJpZCI6Ii8vcmVkaXJlY3Rvci5nZHJpdmVjZG4ubWUvZHJpdmUvaW5kZXgucGhwP2lkPWpreVl6ZG1HRDhjYWp6RDNncEwxdmdHUGZncjBBNlFGaDNXS05NdWF6UlBUYTdzMklKaWJORDdOVHRhR2duOG5yd2YzMkNZNm02YWZCamhoOEw4ZzZZV1pTSWlJdEdTNVROTGFPTWw0WTEwQ2c0SERyN2ppRHlZYTFvR3klMkJUaTNSOUJpJTJGZ1Q2cG5pcHpoekJ0bXFGRm1pdFBpJTJCdlBRVSUyRjQ1dlR0dlY0UjJ6aVAxU1NpRyUyRkhyaHhOcGpXaWxMVVlwb0V0dTNnanYzUmU2UWZHalBDV21jQm16JTJCSDFYdFR4eDFzJTJGeU5BdFdXM3clM0QlM0QmcmVmPSZzYW5kYm94PSZ0PTE2ODc1NTg0MjQ4OTkmcmVmPSZyZXM9NzIwIn0=",
-                                 "app_2":"",
-                                 "app_3":""
-                               }
-                  }, 
-    "GB_PESO": "574 MB",
-    "SERV_DESC":"GOOGLE DRIVE"
-        
-},
+  
   {
     "id":"A317",
     "id_POST":"717728",
