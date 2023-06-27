@@ -9,7 +9,7 @@
                     "link_web":"https://biloamo.github.io/mo/web/peliculas/A290 The Batman.web.html",
                     "link_app":"https://biloamo.github.io/mo/app/peliculas/A290 The Batman.app.html",
                     "POSTER_DESCARGA":"https://biloamo.github.io/mo/descarga/A290 The Batman.html",
-                    "LINK_DESCARGA":"https://server42.yuhsia.lol/contents.php?id=QTQrSkNoNjJReDRXMTVJMlVZMU9XUDk2ZmljbDJjYXNBdzNtZGM4OFZ1RWhFcW5iejQxZWlhZzhlejMyZzk4azZKVkVmc0cwU1ViYStoajJtVmdtM1VIVXNSNFdYQzNhRnhaaFA2OTRnU2c9&token=14d58a1ba286f087d9736249ec785314"
+                    "LINK_DESCARGA":"https://drive.google.com/u/0/uc?id=1eGfbXv8nwdzpDTs6WUTzK7ytfcla1gbs&export=download"
                   },
     "LINK_MOVIES":{
                     "link_web":{
@@ -25,7 +25,7 @@
     "SERV_DESC":"GOOGLE DRIVE"     
 },
   {
-    "id":"A187",
+    "id":"A189",
     "id_POST":"117251",
     "title":"Asalto al poder",
     "tipo":"Pelicula",
