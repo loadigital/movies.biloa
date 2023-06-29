@@ -1,5 +1,30 @@
 [
-  
+  {
+    "id":"A033",
+    "id_POST":"508442",
+    "title":"Soul",
+    "tipo":"Pelicula",
+    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
+    "posterLink": {
+                    "link_web":"https://biloamo.github.io/mo/web/peliculas/A033 Soul.web.html",
+                    "link_app":"https://biloamo.github.io/mo/app/peliculas/A033 Soul.app.html",
+                    "POSTER_DESCARGA":"https://biloamo.github.io/mo/descarga/A033 Soul.html",
+                    "LINK_DESCARGA":"https://drive.google.com/u/3/uc?id=1L_kdCsKeGlmLWDSU2TIz8ZXAfkjLIOk1&export=download"
+                  },
+    "LINK_MOVIES":{
+                    "link_web":{
+                                 "web_1":"https://biloa.website/biloa/qnrH6HLBiOoat3N"
+                               },
+                    "link_app":{
+                                 "app_1":"https://mo.biloa.website/biloa/da6Iit2pa2CAFoO",
+                                 "app_2":"",
+                                 "app_3":""
+                               },
+                    "link_trailer_key":"NloXY1WRSQw"
+                  }, 
+    "GB_PESO": "1.8 GB",
+    "SERV_DESC":"GOOGLE DRIVE"     
+},
   {
     "id":"A038",
     "id_POST":"624860",
