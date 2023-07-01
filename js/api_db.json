@@ -157,10 +157,10 @@
 },
   {
     "id":"A063",
-    "id_POST":"1724",
-    "title":"El increíble Hulk",
+    "id_POST":"1927",
+    "title":"Hulk",
     "tipo":"Pelicula",
-    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg",
+    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/scLV1AO6TLi45N7AJanjYR48i78.jpg",
     "posterLink": {
                     "link_web":"https://biloamo.github.io/mo/web/peliculas/A063 El increíble Hulk.web.html",
                     "link_app":"https://biloamo.github.io/mo/app/peliculas/A063 El increíble Hulk.app.html",
@@ -176,7 +176,7 @@
                                  "app_2":"",
                                  "app_3":""
                                },
-                    "link_trailer_key":"hLPmTK8SSq8"
+                    "link_trailer_key":"oVhkWPbNdoM"
                   }, 
     "GB_PESO": "1.4 GB",
     "SERV_DESC":"GOOGLE DRIVE"     
