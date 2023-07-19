@@ -51,32 +51,7 @@
     "GB_PESO": "1.9 GB",
     "SERV_DESC":"GOOGLE DRIVE"     
 },
-  {
-    "id":"A500",
-    "id_POST":"798286",
-    "title":"Beau tiene miedo",
-    "tipo":"Pelicula",
-    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6bvITjsMqTcPYQDqiLEkL1SJ27p.jpg",
-    "posterLink": {
-                    "link_web":"https://biloamo.github.io/mo/page/peliculas/web/A500 Beau tiene miedo.web.html",
-                    "link_app":"https://biloamo.github.io/mo/page/peliculas/app/A500 Beau tiene miedo.app.html",
-                    "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/peliculas/descarga/A500 Beau tiene miedo.html",
-                    "LINK_DESCARGA":"https://drive.google.com/u/6/uc?id=1D6NgTZD_wirCz8emxlfyPJheqx8c3l7s&export=download"
-                  },
-    "LINK_MOVIES":{
-                    "link_web":{
-                                 "web_1":"https://biloa.website/biloa/tOhkixRQsH3rg4g"
-                               },
-                    "link_app":{
-                                 "app_1":"https://mo.biloa.website/biloa/thMh9lmb46K4sku",
-                                 "app_2":"",
-                                 "app_3":""
-                               },
-                    "link_trailer_key":"FMBpGNy-500"
-                  }, 
-    "GB_PESO": "2.1 GB",
-    "SERV_DESC":"GOOGLE DRIVE"     
-},
+  
   {
     "id":"A499",
     "id_POST":"447365",
