@@ -1,5 +1,57 @@
 [
   {
+    "id":"A504",
+    "id_POST":"667538",
+    "title":"Transformers: El despertar de las bestias",
+    "tipo":"Pelicula",
+    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yu24fXpro7jx4XFlgEWwElW1kgW.jpg",
+    "posterLink": {
+                    "link_web":"https://biloamo.github.io/mo/page/peliculas/web/A504 Transformers El despertar de las bestias.web.html",
+                    "link_app":"https://biloamo.github.io/mo/page/peliculas/app/A504 Transformers El despertar de las bestias.app.html",
+                    "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/peliculas/descarga/A504 Transformers El despertar de las bestias.html",
+                    "LINK_DESCARGA":"https://drive.google.com/u/7/uc?id=1_L1U3nKihOS9oS3970GbiCqnmxkTs3qM&export=download"
+                  },
+    "LINK_MOVIES":{
+                    "link_web":{
+                                 "web_1":"https://biloa.website/biloa/AYWJXiUmTaGrNt2"
+                               },
+                    "link_app":{
+                                 "app_1":"https://mo.biloa.website/biloa/DvCrFj8oHMwRoAt",
+                                 "app_2":"",
+                                 "app_3":""
+                               },
+                    "link_trailer_key":"lLVmLJdRZJQ"
+                  }, 
+    "GB_PESO": "2.9 GB",
+    "SERV_DESC":"GOOGLE DRIVE"     
+}, 
+  {
+    "id":"A505",
+    "id_POST":"1114901",
+    "title":"Cuiden a Maya",
+    "tipo":"Pelicula",
+    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rfI5sTEgJ1ozPMnA3BhZDvxnmAD.jpg",
+    "posterLink": {
+                    "link_web":"https://biloamo.github.io/mo/page/peliculas/web/A505 Cuiden a Maya.web.html",
+                    "link_app":"https://biloamo.github.io/mo/page/peliculas/app/A505 Cuiden a Maya.app.html",
+                    "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/peliculas/descarga/A505 Cuiden a Maya.html",
+                    "LINK_DESCARGA":"https://drive.google.com/u/6/uc?id=1Sp4Y5ZUSz9CrwbxdqMsHIvvovrZZE2nO&export=download"
+                  },
+    "LINK_MOVIES":{
+                    "link_web":{
+                                 "web_1":"https://biloa.website/biloa/GQx3hMXc5fRS1Cl"
+                               },
+                    "link_app":{
+                                 "app_1":"https://mo.biloa.website/biloa/dB6dl7ToLvwpirh",
+                                 "app_2":"",
+                                 "app_3":""
+                               },
+                    "link_trailer_key":"beXuaN-Wr-E"
+                  }, 
+    "GB_PESO": "2.1 GB",
+    "SERV_DESC":"GOOGLE DRIVE"     
+},
+  {
     "id":"A502",
     "id_POST":"882569",
     "title":"The Covenant",
