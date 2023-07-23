@@ -1,5 +1,31 @@
 [
   {
+    "id":"A506",
+    "id_POST":"298618",
+    "title":"Flash",
+    "tipo":"Pelicula",
+    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/x9Qc86JEyYkAKsdzjDpS5kbaAB7.jpg",
+    "posterLink": {
+                    "link_web":"https://biloamo.github.io/mo/page/peliculas/web/A506 Flash.web.html",
+                    "link_app":"https://biloamo.github.io/mo/page/peliculas/app/A506 Flash.app.html",
+                    "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/peliculas/descarga/A506 Flash.html",
+                    "LINK_DESCARGA":"https://drive.google.com/u/5/uc?id=1wCUyPTkWj8Jj27yDd_9SI8-A10TM5bRu&export=download"
+                  },
+    "LINK_MOVIES":{
+                    "link_web":{
+                                 "web_1":"https://biloa.website/biloa/L17V7ANL4WTYF8m"
+                               },
+                    "link_app":{
+                                 "app_1":"https://mo.biloa.website/biloa/1mDJElUR8wGgtCg",
+                                 "app_2":"",
+                                 "app_3":""
+                               },
+                    "link_trailer_key":"gun18R-zXVU"
+                  }, 
+    "GB_PESO": "3.8 GB",
+    "SERV_DESC":"GOOGLE DRIVE"     
+},
+  {
     "id":"A382",
     "id_POST":"118340",
     "title":"Guardianes de la galaxia",
