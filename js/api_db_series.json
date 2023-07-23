@@ -1,0 +1,52 @@
+[
+    {
+        "id":"A319",
+        "id_POST":"119051",
+        "title":"Merlina",
+        "tipo":"Series",
+        "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/q6j9Dn3iiXoCjpVitDppNNZXwVq.jpg",
+        "posterLink": {
+                        "link_web":"https://biloamo.github.io/mo/page/series/web/A319 Merlina.web.html",
+                        "link_app":"https://biloamo.github.io/mo/page/series/app/A319 Merlina.app.html",
+                        "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/series/descarga/A319 Merlina.html",
+                        "LINK_DESCARGA":{
+                                          
+                                          "des_1":"https://drive.google.com/u/6/uc?id=1o-ocBcRaugFaxKacw8mmE-U621YZgxqf&export=download",
+                                          "des_2":"",
+                                          "des_3":"",
+                                          "des_4":"",
+                                          "des_5":"",
+                                          "des_6":"",
+                                          "des_7":"",
+                                          "des_8":""
+                                          
+                                        }
+                      },
+        "LINK_MOVIES":{
+                        "link_web":{
+                                     "web_1":"https://biloa.website/biloa/AWqER5VxVnHMiOA",
+                                     "web_2":"",
+                                     "web_3":"",
+                                     "web_4":"",
+                                     "web_5":"",
+                                     "web_6":"",
+                                     "web_7":"",
+                                     "web_8":""
+                                   },
+                        "link_app":{
+                                     "app_1":"https://mo.biloa.website/biloa/res9aOLP31zELQP",
+                                     "app_2":"",
+                                     "app_3":"",
+                                     "app_4":"",
+                                     "app_5":"",
+                                     "app_6":"",
+                                     "app_7":"",
+                                     "app_8":""
+                                   },
+                        "link_trailer_key":"JSRl1Cy-WgU"
+                      }, 
+        "GB_PESO": "0 GB",
+        "SERV_DESC":"GOOGLE DRIVE"     
+    }
+    
+]
