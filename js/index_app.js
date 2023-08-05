@@ -17,9 +17,24 @@ menu.innerHTML = `
             
                 <div class="bc-1"><a  href="https://loadigital.github.io/movies.biloa/app/index.html"><i class="bi-collection-play-fill icon"></i>Películas</a></div>
                <!-- <div class="bc-1"><a  href="https://loadigital.github.io/movies.biloa/app/series.html"><i class="bi-tv-fill icon"></i>Series</a></div>-->
-                <div class="bc-1"><a  href=""><i class="bi-tv-fill icon"></i>Series</a></div>
-                <div class="bc-1"><a  href="#"><i class="bi-info-circle-fill icon"></i>Información</a></div>
-                <div class="bc-1"><a  href="https://loadigital.github.io/descargar-Biloa/"><i class="bi-android2 icon"></i>Descargar App</a></div>
+                <div class="bc-1"><a  href="https://loadigital.github.io/movies.biloa/app/series.html"><i class="bi-tv-fill icon"></i>Series</a></div>
+                <div class="bc-1">
+
+                
+                <ul class="menu" id="menu"><!--menu principal-->
+                <li class="menu__item container-submenu">
+                <a  href="#"> Mas<i class="bi-three-dots-vertical icon"></i></a>
+                <ul class="submenu">
+                <li><a href="https://loadigital.github.io/descargar-Biloa/"><i class="bi-android2 icon"></i>Descargar App</a></li>
+                <li><a href="#"><i class="bi-info-circle-fill icon"></i>Información</a></li>
+                
+                </ul>
+                
+                </li>
+                </ul>
+                
+               </div>
+               
             </div>
             </div>
             
@@ -33,6 +48,7 @@ menu.innerHTML = `
 
 
 `
+
 subMenu.className="content-submenu"
 subMenu.innerHTML = `
      <!--<div class="co-genre"><div class="genre"><p>Categorias</p></div></div>-->
