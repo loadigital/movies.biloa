@@ -128,7 +128,7 @@ header{
     display: none;
 }
 @media screen and (min-width: 800px){
-  .icon-menu{
+ .icon-menu{
     display: none;
   }
   .co-text{
@@ -402,6 +402,54 @@ nav{
     font-family: Arial;
 }
 
+/*---responsive adaptar pc--*/
+
+@media(min-width:800px){
+   
+    .menu, .submenu{
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+    .container-submenu{
+        position: relative;
+        width: 120px;
+        list-style: none;
+        border: solid 0px #ffffff;
+        text-align: center;
+    }
+    
+    .submenu{
+        position: absolute;
+        background: var(--color-uno);
+        width: 200px;
+        overflow: visible;
+        z-index: 1000;
+        opacity: 0;
+        visibility: hidden;
+        border-radius: 3px 3px;
+        display: flex;
+        flex-direction: column;
+        left: 0px;
+        border: solid 0px #ffffff;
+        list-style: none;
+        padding: 1px 1px; 
+    }
+    .submenu li{
+        padding: 10px 10px; 
+    }
+   
+    .container-submenu:hover .submenu{
+        opacity: 1;
+        visibility: visible;
+    }
+  
+    .submenu li:hover{
+        background: #c53939;
+    }
+  
+} 
+
 @media screen and (min-width: 800px){
     .bc1{
         width: 100%;
@@ -412,7 +460,7 @@ nav{
         margin-top: 0px;    
     }
     .bc1 .bc-1{
-        width: 150px;
+        width: 120px;
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
@@ -422,10 +470,10 @@ nav{
         margin: 8px 3px;
         padding: 2px 2px;
     }
-    .bc1 .bc-1 a:hover{
-        background: #fff;
+    .bc1 .bc-1 a:hover, .bc-1 li:hover{
+        background: var(--color-dos);
         border-radius: 3px 3px;
-        color: #000000;
+        color: #ffffff;
         
     }
     .bc1 .bc-1 .icon{
@@ -690,6 +738,7 @@ nav{
     right: -100%;
     padding: 7px 7px;
     transition: all 0.4s;
+    overflow-y: scroll;
 }
 .co-modal-año{
     width: 100%;
@@ -702,6 +751,8 @@ nav{
     justify-content: center;
     border: solid 0px #fff; 
     margin-top: 3px;
+    
+    
 }
 .co-modal-año-title{
     width: 100%;
@@ -714,6 +765,7 @@ nav{
     color: var(--color-tres);
     font-size: 18px;
 }
+
 .modal-año{
     width: 100%;
     display: flex;
@@ -721,6 +773,7 @@ nav{
     flex-wrap: wrap;
     justify-content: center;
     padding: 7px 7px;
+    
 }
 .co-año{
     width: 100%;
@@ -730,6 +783,7 @@ nav{
     flex-wrap: wrap;
     justify-content: center;
     padding: 4px 4px;
+    
 }
 .filtro{
     width: 100%;
@@ -756,3 +810,24 @@ nav{
     background: var(--color-tres);
 }
 
+
+
+.nav-modal-año::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+.nav-modal-año::-webkit-scrollbar:vertical {
+    width:10px;
+}
+.nav-modal-año::-webkit-scrollbar-button:increment,.nav-modal-año::-webkit-scrollbar-button {
+    display: none;
+} 
+.nav-modal-año::-webkit-scrollbar:horizontal {
+    height: 10px;
+}
+.nav-modal-año::-webkit-scrollbar-thumb {
+    background-color:var(--color-dos);
+    border-radius: 20px; 
+}
+.nav-modal-año::-webkit-scrollbar-track {
+    border-radius: 10px;  
+}
