@@ -25,7 +25,7 @@ menu.innerHTML = `
                 <ul class="submenu">
                 <li><a href="https://loadigital.github.io/descargar-Biloa/"><i class="bi-android2 icon"></i>Descargar App</a></li>
                 <li><a href="#"><i class="bi-info-circle-fill icon"></i>Información</a></li>
-                
+                <li><a href="https://wa.me/573212310020?"><i class="bi-whatsapp icon"></i> Whatsapp</a></li>
                 </ul>
                 
                 </li>
@@ -89,8 +89,11 @@ co_menu_lateral.innerHTML = `
             
                 <div class="bc-1"><a href="https://loadigital.github.io/movies.biloa/app/index.html"><i class="bi-collection-play-fill icon"></i>Películas</a></div>
                 <div class="bc-1"><a href="https://loadigital.github.io/movies.biloa/app/series.html"><i class="bi-tv-fill icon"></i>Series</a></div>
+                <hr>
                 <div class="bc-1"><a href="#"><i class="bi-info-circle-fill icon"></i>Información</a></div>
-                <div class="bc-1"><a href="https://loadigital.github.io/descargar-Biloa/"><i class="bi-android2 icon"></i>Descargar App</a></div>
+                <div class="bc-1"><a target="_blank" href="https://loadigital.github.io/descargar-Biloa/"><i class="bi-android2 icon"></i>Descargar App</a></div>
+                <div class="bc-1"><a target="_blank" href="https://wa.me/573212310020?"><i class="bi-whatsapp icon"></i>Whatsapp</a></div>
+                <hr>
             </div>
 
 `
