@@ -25,7 +25,7 @@ menu.innerHTML = `
                 <ul class="submenu">
                 <li><a href="https://loadigital.github.io/descargar-Biloa/"><i class="bi-android2 icon"></i>Descargar App</a></li>
                 <li><a href="#"><i class="bi-info-circle-fill icon"></i>Información</a></li>
-                
+                <li><a href="https://wa.me/573212310020?"><i class="bi-whatsapp icon"></i> Whatsapp</a></li>
                 </ul>
                 
                 </li>
