@@ -1,5 +1,31 @@
 [
   {
+    "id":"A542",
+    "id_POST":"433694",
+    "title":"Sargento Stubby",
+    "tipo":"Pelicula",
+    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xXeXUDBWjzrntL1D9vo1y4jIEdH.jpg",
+    "posterLink": {
+                    "link_web":"https://biloamo.github.io/mo/page/peliculas/web/A542 Sargento Stubby.web.html",
+                    "link_app":"https://biloamo.github.io/mo/page/peliculas/app/A542 Sargento Stubby.app.html",
+                    "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/peliculas/descarga/A542 Sargento Stubby.html",
+                    "LINK_DESCARGA":"https://loadigital.github.io/movies.biloa/archivo no disponible.html"
+                  },
+    "LINK_MOVIES":{
+                    "link_web":{
+                                 "web_1":"https://biloa.website/biloa/fsLn8V9yrs8bjDl"
+                               },
+                    "link_app":{
+                                 "app_1":"https://mo.biloa.website/biloa/4zfyVsbIY2n0Ggp",
+                                 "app_2":"",
+                                 "app_3":""
+                               },
+                    "link_trailer_key":"ng1zl9T1mj0"
+                  }, 
+    "GB_PESO": "0 GB",
+    "SERV_DESC":"NO DISPONIBLE"     
+},
+  {
     "id":"A539",
     "id_POST":"593643",
     "title":"El menú",
