@@ -1,5 +1,83 @@
 [
   {
+    "id":"A541",
+    "id_POST":"296271",
+    "title":"La Conspiración del Diablo",
+    "tipo":"Pelicula",
+    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/p1czkLtquPkiQg3OqubHqNzr6jM.jpg",
+    "posterLink": {
+                    "link_web":"https://biloamo.github.io/mo/page/peliculas/web/A541 La Conspiración del Diablo.web.html",
+                    "link_app":"https://biloamo.github.io/mo/page/peliculas/app/A541 La Conspiración del Diablo.app.html",
+                    "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/peliculas/descarga/A541 La Conspiración del Diablo.html",
+                    "LINK_DESCARGA":"https://drive.google.com/u/4/uc?id=1oKKhU1z7-edyat9Ot0krCr8-gn88HDvN&export=download"
+                  },
+    "LINK_MOVIES":{
+                    "link_web":{
+                                 "web_1":"https://biloa.website/biloa/hCLGpzNkotcmy5U"
+                               },
+                    "link_app":{
+                                 "app_1":"https://mo.biloa.website/biloa/i773WhSilPpwR92",
+                                 "app_2":"",
+                                 "app_3":""
+                               },
+                    "link_trailer_key":"6im3vt5yZoY"
+                  }, 
+    "GB_PESO": "1.7 GB",
+    "SERV_DESC":"GOOGLE DRIVE"     
+},
+  {
+    "id":"A540",
+    "id_POST":"826396",
+    "title":"A Violent Man",
+    "tipo":"Pelicula",
+    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2OMbOz9nyxJJunWBVex9dc5NjU5.jpg",
+    "posterLink": {
+                    "link_web":"https://biloamo.github.io/mo/page/peliculas/web/A540 A Violent Man.web.html",
+                    "link_app":"https://biloamo.github.io/mo/page/peliculas/app/A540 A Violent Man.app.html",
+                    "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/peliculas/descarga/A540 A Violent Man.html",
+                    "LINK_DESCARGA":"https://drive.google.com/u/4/uc?id=1hFCdrUShCM_1WLOpsAQJ6iEGxrPjiNl5&export=download"
+                  },
+    "LINK_MOVIES":{
+                    "link_web":{
+                                 "web_1":"https://biloa.website/biloa/85lrQyfk9cj9ib0"
+                               },
+                    "link_app":{
+                                 "app_1":"https://mo.biloa.website/biloa/W0wUMqWaF3AzRw1",
+                                 "app_2":"",
+                                 "app_3":""
+                               },
+                    "link_trailer_key":"S-eUhR9CnyI"
+                  }, 
+    "GB_PESO": "1.1 GB",
+    "SERV_DESC":"GOOGLE DRIVE"     
+},
+  {
+    "id":"A538",
+    "id_POST":"1163045",
+    "title":"Jagun Jagun: The Warrior",
+    "tipo":"Pelicula",
+    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jTLgX0DgJS8vMCroe4NGgUD04jd.jpg",
+    "posterLink": {
+                    "link_web":"https://biloamo.github.io/mo/page/peliculas/web/A538 Jagun Jagun The Warrior.web.html",
+                    "link_app":"https://biloamo.github.io/mo/page/peliculas/app/A538 Jagun Jagun The Warrior.app.html",
+                    "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/peliculas/descarga/A538 Jagun Jagun The Warrior.html",
+                    "LINK_DESCARGA":"https://drive.google.com/u/4/uc?id=1UEED-CsHr_XVUEGaqqsDC5Z3DD02uRD8&export=download"
+                  },
+    "LINK_MOVIES":{
+                    "link_web":{
+                                 "web_1":"https://biloa.website/biloa/KER0cH40nWOh9W7"
+                               },
+                    "link_app":{
+                                 "app_1":"https://mo.biloa.website/biloa/bFP6uLXjcJGyiX3",
+                                 "app_2":"",
+                                 "app_3":""
+                               },
+                    "link_trailer_key":"InNrl2-tl58"
+                  }, 
+    "GB_PESO": "1.7 GB",
+    "SERV_DESC":"GOOGLE DRIVE"     
+},
+  {
     "id":"A537",
     "id_POST":"993867",
     "title":"Extinción",
