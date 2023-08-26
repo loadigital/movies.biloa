@@ -1,5 +1,31 @@
 [
  {
+    "id":"A459",
+    "id_POST":"758323",
+    "title":"El exorcista del papa",
+    "tipo":"Pelicula",
+    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/4n7HJ322ARRWytwxLKEZi0mIrYE.jpg",
+    "posterLink": {
+                    "link_web":"https://biloamo.github.io/mo/page/peliculas/web/A459 El exorcista del papa.web.html",
+                    "link_app":"https://biloamo.github.io/mo/page/peliculas/app/A459 El exorcista del papa.app.html",
+                    "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/peliculas/descarga/A459 El exorcista del papa.html",
+                    "LINK_DESCARGA":"https://drive.google.com/u/6/uc?id=1Bo3V_NKiAhFmY9FrXgwAG-ipwjFKDXzu&export=download"
+                  },
+    "LINK_MOVIES":{
+                    "link_web":{
+                                 "web_1":"https://biloa.website/biloa/oiEA2wq8qbdEdwb"
+                               },
+                    "link_app":{
+                                 "app_1":"https://mo.biloa.website/biloa/OrAYmnQSLo0ZLPH",
+                                 "app_2":"",
+                                 "app_3":""
+                               },
+                    "link_trailer_key":"a-Cx7IE04sA"
+                  }, 
+    "GB_PESO": "1.7 GB",
+    "SERV_DESC":"GOOGLE DRIVE"     
+},
+ {
     "id":"A547",
     "id_POST":"740952",
     "title":"El río de la ira",
@@ -1897,32 +1923,7 @@
     "GB_PESO": "2.5 GB",
     "SERV_DESC":"GOOGLE DRIVE"     
 },
-  {
-    "id":"A459",
-    "id_POST":"758323",
-    "title":"El exorcista del papa",
-    "tipo":"Pelicula",
-    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/4n7HJ322ARRWytwxLKEZi0mIrYE.jpg",
-    "posterLink": {
-                    "link_web":"https://biloamo.github.io/mo/page/peliculas/web/A459 El exorcista del papa.web.html",
-                    "link_app":"https://biloamo.github.io/mo/page/peliculas/app/A459 El exorcista del papa.app.html",
-                    "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/peliculas/descarga/A459 El exorcista del papa.html",
-                    "LINK_DESCARGA":"https://loadigital.github.io/movies.biloa/archivo no disponible.html"
-                  },
-    "LINK_MOVIES":{
-                    "link_web":{
-                                 "web_1":"https://biloa.website/biloa/oiEA2wq8qbdEdwb"
-                               },
-                    "link_app":{
-                                 "app_1":"https://mo.biloa.website/biloa/OrAYmnQSLo0ZLPH",
-                                 "app_2":"",
-                                 "app_3":""
-                               },
-                    "link_trailer_key":"a-Cx7IE04sA"
-                  }, 
-    "GB_PESO": "0 GB",
-    "SERV_DESC":"NO DISPONIBLE"     
-},
+  
   {
     "id":"A460",
     "id_POST":"493529",
