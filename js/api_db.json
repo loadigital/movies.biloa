@@ -1,6 +1,31 @@
 [
  
-  
+  {
+    "id":"A546",
+    "id_POST":"832502",
+    "title":"El rey mono",
+    "tipo":"Pelicula",
+    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/vJ9MZHG3XQDusXLIbhRAzTlcZ2v.jpg",
+    "posterLink": {
+                    "link_web":"https://biloamo.github.io/mo/page/peliculas/web/A546 El rey mono.web.html",
+                    "link_app":"https://biloamo.github.io/mo/page/peliculas/app/A546 El rey mono.app.html",
+                    "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/peliculas/descarga/A546 El rey mono.html",
+                    "LINK_DESCARGA":"https://drive.google.com/u/5/uc?id=1c1AwT_T0_BTxRlPE5hfClzvkzywiS_CA&export=download"
+                  },
+    "LINK_MOVIES":{
+                    "link_web":{
+                                 "web_1":"https://biloa.website/biloa/ROsYzZS7muuCwCv"
+                               },
+                    "link_app":{
+                                 "app_1":"https://mo.biloa.website/biloa/Ic2PzpIX7CxV8gl",
+                                 "app_2":"",
+                                 "app_3":""
+                               },
+                    "link_trailer_key":"wI2yVWBstfs"
+                  }, 
+    "GB_PESO": "2.4 GB",
+    "SERV_DESC":"GOOGLE DRIVE"     
+},
   {
     "id":"A544",
     "id_POST":"1156756",
