@@ -1,30 +1,5 @@
 [
- {
-    "id":"A548",
-    "id_POST":"615656",
-    "title":"xxxx",
-    "tipo":"Pelicula",
-    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mBgynPDplmo5JTY9VfGqY35OjDu.jpg",
-    "posterLink": {
-                    "link_web":"",
-                    "link_app":"",
-                    "POSTER_DESCARGA":"",
-                    "LINK_DESCARGA":""
-                  },
-    "LINK_MOVIES":{
-                    "link_web":{
-                                 "web_1":""
-                               },
-                    "link_app":{
-                                 "app_1":"",
-                                 "app_2":"",
-                                 "app_3":""
-                               },
-                    "link_trailer_key":""
-                  }, 
-    "GB_PESO": "",
-    "SERV_DESC":""     
-},
+ 
   
   {
     "id":"A544",
