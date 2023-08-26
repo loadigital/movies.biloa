@@ -6,9 +6,9 @@
   "tipo":"Pelicula",
   "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6qR9WbXYIddZcVk6nxFULfHcKmK.jpg",
   "posterLink": {
-                  "link_web":"https://biloamo.github.io/mo/page/peliculas/web/A545 Aguila y Jaguar Los Guerreros Legendarios.web.html",
-                  "link_app":"https://biloamo.github.io/mo/page/peliculas/app/A545 Aguila y Jaguar Los Guerreros Legendarios.app.html",
-                  "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/peliculas/descarga/A545 Aguila y Jaguar Los Guerreros Legendarios.html",
+                  "link_web":"https://biloamo.github.io/mo/page/peliculas/web/A545.web.html",
+                  "link_app":"https://biloamo.github.io/mo/page/peliculas/app/A545.app.html",
+                  "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/peliculas/descarga/A545.html",
                   "LINK_DESCARGA":"https://drive.google.com/u/5/uc?id=16bUwW4bJf_Wi04f0-4Ghgia5R_laAi7E&export=download"
                 },
   "LINK_MOVIES":{
