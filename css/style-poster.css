@@ -359,6 +359,23 @@ header{
     border-radius: 5px 5px;
 
 }
+.cont-deploy--{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 0;
+    overflow: hidden;
+    transition: all 0.3s;
+    border-radius: 5px 5px;
+    border: 0px solid #ffff; 
+}
+
+.cont-deploy-- .modal-button{
+    width: 100%;
+    max-width: 720px;
+}
 .bi-chevron-down{
     
   border-radius: 2px 2px;
