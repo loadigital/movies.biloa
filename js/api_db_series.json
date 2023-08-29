@@ -1,52 +1,20 @@
 [
-   {
-        "id":"A319",
+    {
+        "id":"S001",
         "id_POST":"119051",
         "title":"Merlina",
         "tipo":"Series",
         "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/q6j9Dn3iiXoCjpVitDppNNZXwVq.jpg",
         "posterLink": {
-                        "link_web":"https://biloamo.github.io/mo/page/series/web/A319 Merlina.web.html",
-                        "link_app":"https://biloamo.github.io/mo/page/series/app/A319 Merlina.app.html",
-                        "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/series/descarga/A319 Merlina.html",
-                        "LINK_DESCARGA":{
-                                          
-                                          "des_1":"https://drive.google.com/u/6/uc?id=1o-ocBcRaugFaxKacw8mmE-U621YZgxqf&export=download",
-                                          "des_2":"https://drive.google.com/u/6/uc?id=1LIcn35ijm98m0toWrKHEXdTNbDqBn2Ov&export=download",
-                                          "des_3":"https://drive.google.com/u/6/uc?id=17Ag9jjK_jKVlRwQWhHN1CiPk3gWHEmw5&export=download",
-                                          "des_4":"https://drive.google.com/u/6/uc?id=1vseQWWxI45IOgYz9lGCtuMxPTjwS6oy3&export=download",
-                                          "des_5":"https://drive.google.com/u/6/uc?id=1ePDxv8o9pL3v76tlvNMqpwW-fCC2QICj&export=download",
-                                          "des_6":"https://drive.google.com/u/6/uc?id=127DIMvzIhoQNvBMP-RZFlT9LbzqVCRK9&export=download",
-                                          "des_7":"https://drive.google.com/u/6/uc?id=1oS-tCxSv9bFVw45SNtcrS7PMCcGrY1IE&export=download",
-                                          "des_8":"https://drive.google.com/u/6/uc?id=1ahsq43K3ZbzoUjOBZJdOkNSLMkQxOlwp&export=download"
-                                          
-                                        }
+                        "link_web":"https://biloamo.github.io/mo/page/series/web/S001 Merlina.web.html",
+                        "link_app":"https://biloamo.github.io/mo/page/series/app/S001 Merlina.app.html",
+                        "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/series/descarga/S001 Merlina.html"
+                        
                       },
-        "LINK_MOVIES":{
-                        "link_web":{
-                                     "web_1":"https://biloa.website/biloa/AWqER5VxVnHMiOA",
-                                     "web_2":"https://biloa.website/biloa/Ixo1YzpWGRwc3M4",
-                                     "web_3":"https://biloa.website/biloa/PUXf3001quu5Lhl",
-                                     "web_4":"https://biloa.website/biloa/l547GZugpkLFyPL",
-                                     "web_5":"https://biloa.website/biloa/DUHAtHmRG8nmqOx",
-                                     "web_6":"https://biloa.website/biloa/b0qBvhi1Go6zUbS",
-                                     "web_7":"https://biloa.website/biloa/X3BP42TCHcWhaHD",
-                                     "web_8":"https://biloa.website/biloa/xnbgm9z7yGbjXKD"
-                                   },
-                        "link_app":{
-                                     "app_1":"https://mo.biloa.website/biloa/res9aOLP31zELQP",
-                                     "app_2":"https://mo.biloa.website/biloa/9yYOy18Se0iJgWg",
-                                     "app_3":"https://mo.biloa.website/biloa/cYZ9hu2gDUtNhcz",
-                                     "app_4":"https://mo.biloa.website/biloa/cwecaUcgAXNFfbV",
-                                     "app_5":"https://mo.biloa.website/biloa/s678xWoYgdPEyvp",
-                                     "app_6":"https://mo.biloa.website/biloa/0IuxPynDDN72xIE",
-                                     "app_7":"https://mo.biloa.website/biloa/7AGG9Y5s3Tj4Rfp",
-                                     "app_8":"https://mo.biloa.website/biloa/8lTYXSBKo7zSaII"
-                                   },
-                        "link_trailer_key":"JSRl1Cy-WgU"
-                      }, 
+       "link_trailer_key":"JSRl1Cy-WgU",
         "GB_PESO": "0 GB",
         "SERV_DESC":"GOOGLE DRIVE"     
     }
-    
+
+ 
 ]
