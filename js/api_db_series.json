@@ -1,5 +1,21 @@
 [
     {
+        "id":"S002",
+        "id_POST":"70484",
+        "title":"Britannia",
+        "tipo":"Series",
+        "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/fjdXymXAas9NSehc6GCOHQcEM05.jpg",
+        "posterLink": {
+                        "link_web":"https://biloamo.github.io/mo/page/series/web/S002 Britannia.web.html",
+                        "link_app":"https://biloamo.github.io/mo/page/series/app/S002 Britannia.app.html",
+                        "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/series/descarga/S002 Britannia.html"
+                        
+                      },
+       "link_trailer_key":"xpAqwdjwIJhu9PsO",
+        "GB_PESO": "0 GB",
+        "SERV_DESC":"GOOGLE DRIVE"     
+    },
+    {
         "id":"S001",
         "id_POST":"119051",
         "title":"Merlina",
