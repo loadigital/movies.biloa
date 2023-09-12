@@ -1,5 +1,21 @@
 [
     {
+        "id":"S004",
+        "id_POST":"217945",
+        "title":"Zombiverso",
+        "tipo":"Series",
+        "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/v3FKI0yXr10U5jSUhlCnpaEEc1o.jpg",
+        "posterLink": {
+                        "link_web":"https://biloamo.github.io/mo/page/series/web/S004 Zombiverso.web.html",
+                        "link_app":"https://biloamo.github.io/mo/page/series/app/S004 Zombiverso.app.html",
+                        "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/series/descarga/S004 Zombiverso.html"
+                        
+                      },
+       "link_trailer_key":"IyUr685YXKg",
+        "GB_PESO": "0 GB",
+        "SERV_DESC":"GOOGLE DRIVE"     
+    },
+    {
         "id":"S003",
         "id_POST":"228963",
         "title":"Barrabrava",
