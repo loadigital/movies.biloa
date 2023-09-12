@@ -1,5 +1,30 @@
 [
  {
+    "id":"A573",
+    "id_POST":"206647",
+    "title":"Spectre",
+    "tipo":"Pelicula",
+    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8NCrCV6tR0Uafp8eVYiZbRsvrAv.jpg",
+    "posterLink": {
+                    "link_web":"https://biloamo.github.io/mo/page/peliculas/web/A573 Spectre.web.html",
+                    "link_app":"https://biloamo.github.io/mo/page/peliculas/app/A573 Spectre.app.html",
+                    "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/peliculas/descarga/A573 Spectre.html",
+                    "LINK_DESCARGA":"https://drive.google.com/u/5/uc?id=1EGGewIQp9rPDxb-f25LY7nJepycsWanL&export=download"
+                  },
+    "LINK_MOVIES":{
+                    "link_web":{
+                                 "web_1":"https://biloa.website/biloa/38zv5SgrZN6AGoC"
+                               },
+                    "link_app":{
+                                 "app_1":"https://mo.biloa.website/biloa/HJGq3vrUOJhkx16"
+                                
+                               },
+                    "link_trailer_key":"ycih-sGr9js"
+                  }, 
+    "GB_PESO": "1.2 GB",
+    "SERV_DESC":"GOOGLE DRIVE"     
+},
+ {
     "id":"A571",
     "id_POST":"987750",
     "title":"Inspector araña",
