@@ -1,5 +1,21 @@
 [
     {
+        "id":"S005",
+        "id_POST":"111110",
+        "title":"ONE PIECE",
+        "tipo":"Series",
+        "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/tnHs8aasORkp90Nvg2mAjwKBqik.jpg",
+        "posterLink": {
+                        "link_web":"https://biloamo.github.io/mo/page/series/web/S005 ONE PIECE.web.html",
+                        "link_app":"https://biloamo.github.io/mo/page/series/app/S005 ONE PIECE.app.html",
+                        "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/series/descarga/S005 ONE PIECE.html"
+                        
+                      },
+       "link_trailer_key":"nEWv4qWNSyw",
+        "GB_PESO": "0 GB",
+        "SERV_DESC":"GOOGLE DRIVE"     
+    },
+    {
         "id":"S004",
         "id_POST":"217945",
         "title":"Zombiverso",
