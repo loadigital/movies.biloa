@@ -1,5 +1,30 @@
 [
  {
+    "id":"A588",
+    "id_POST":"565770",
+    "title":"Blue Beetle",
+    "tipo":"Pelicula",
+    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/z5mkvXYNRauSzHdZgxAj6MzrLTY.jpg",
+    "posterLink": {
+                    "link_web":"https://biloamo.github.io/mo/page/peliculas/web/A588 Blue Beetle.web.html",
+                    "link_app":"https://biloamo.github.io/mo/page/peliculas/app/A588 Blue Beetle.app.html",
+                    "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/peliculas/descarga/A588 Blue Beetle.html",
+                    "LINK_DESCARGA":"https://drive.google.com/u/3/uc?id=15tS-HM8kz6PwUtoj768HE95PX0rr6fKt&export=download"
+                  },
+    "LINK_MOVIES":{
+                    "link_web":{
+                                 "web_1":"https://biloa.website/biloa/qnIoK8MwZ2DNC9Y"
+                               },
+                    "link_app":{
+                                 "app_1":"https://mo.biloa.website/biloa/q2dUT1DUPJIliMb"
+                                
+                               },
+                    "link_trailer_key":"eKKg7BIoctU"
+                  }, 
+    "GB_PESO": "1.6 GB",
+    "SERV_DESC":"GOOGLE DRIVE"     
+},
+ {
     "id":"A587",
     "id_POST":"1072074",
     "title":"Disquiet",
