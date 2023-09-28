@@ -1,5 +1,21 @@
 [
     {
+        "id":"S006",
+        "id_POST":"127235",
+        "title":"Invasión",
+        "tipo":"Series",
+        "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/21pYLNyVn0bFkbYyyfzLDe4KVqi.jpg",
+        "posterLink": {
+                        "link_web":"https://biloamo.github.io/mo/page/series/web/S006 Invasión.web.html",
+                        "link_app":"https://biloamo.github.io/mo/page/series/app/S006 Invasión.app.html",
+                        "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/series/descarga/S006 Invasión.html"
+                        
+                      },
+       "link_trailer_key":"GAtL3A33n4c",
+        "GB_PESO": "0 GB",
+        "SERV_DESC":"GOOGLE DRIVE"     
+    },
+    {
         "id":"S005",
         "id_POST":"111110",
         "title":"ONE PIECE",
