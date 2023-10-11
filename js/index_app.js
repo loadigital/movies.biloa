@@ -29,7 +29,7 @@ menu.innerHTML = `
                 <li><a href="#"><i class="bi-info-circle-fill icon"></i>Información</a></li>
 		<li><a href="https://wa.me/573212310020?"><i class="bi-whatsapp icon"></i> Whatsapp</a></li>
                 <li><a target="_blank" href="https://mdstrm.com/live-stream/574463697b9817cf0886fc17?enablejsapi=1&autoplay=true&muted=1&starttime=0"><i class="bi-display icon"></i> Caracol TV</a></li>
-		<li><a target="_blank" href="https://pluto.tv/es/live-tv/latam-channel-guide"><i class="bi-p-circle icon"></i> Pluto TV</a></li>
+		<li><a  href="go:pluto"><i class="bi-p-circle icon"></i> Pluto TV</a></li>
                 </ul>
                 
                 </li>
@@ -96,7 +96,7 @@ co_menu_lateral.innerHTML = `
                 <div class="bc-1"><a href="https://loadigital.github.io/movies.biloa/app/index.html"><i class="bi-collection-play-fill icon"></i>Películas</a></div>
                 <div class="bc-1"><a href="https://loadigital.github.io/movies.biloa/app/series.html"><i class="bi-tv-fill icon"></i>Series</a></div>
 		<div class="bc-1"><a target="_blank" href="https://mdstrm.com/live-stream/574463697b9817cf0886fc17?enablejsapi=1&autoplay=true&muted=1&starttime=0"><i class="bi-display icon"></i>Caracol TV</a></div>
-  		<div class="bc-1"><a target="_blank" href="https://pluto.tv/es/live-tv/latam-channel-guide"><i class="bi-p-circle icon"></i>Pluto TV</a></div>
+  		<div class="bc-1"><a  href="go:pluto"><i class="bi-p-circle icon"></i>Pluto TV</a></div>
                 <hr>
                 <div class="bc-1"><a href="#"><i class="bi-info-circle-fill icon"></i>Información</a></div>
                 <div class="bc-1"><a target="_blank" href="https://loadigital.github.io/descargar-Biloa/"><i class="bi-android2 icon"></i>Descargar App</a></div>
