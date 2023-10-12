@@ -26,7 +26,9 @@ menu.innerHTML = `
                 <li><a href="https://loadigital.github.io/descargar-Biloa/"><i class="bi-android2 icon"></i>Descargar App</a></li>
                 <li><a href="#"><i class="bi-info-circle-fill icon"></i>Información</a></li>
                 <li><a href="https://wa.me/573212310020?"><i class="bi-whatsapp icon"></i> Whatsapp</a></li>
-                </ul>
+                <li><a  href="go:caracol"><i class="bi-display icon"></i> Caracol TV</a></li>
+                <li><a  href="go:pluto-1"><i class="bi-p-circle icon"></i> Pluto TV</a></li>
+		</ul>
                 
                 </li>
                 </ul>
@@ -89,7 +91,9 @@ co_menu_lateral.innerHTML = `
             
                 <div class="bc-1"><a href="https://loadigital.github.io/movies.biloa/app/index.html"><i class="bi-collection-play-fill icon"></i>Películas</a></div>
                 <div class="bc-1"><a href="https://loadigital.github.io/movies.biloa/app/series.html"><i class="bi-tv-fill icon"></i>Series</a></div>
-                <hr>
+                <div class="bc-1"><a  href="go:caracol"><i class="bi-display icon"></i>Caracol TV</a></div>
+                <div class="bc-1"><a  href="go:pluto-1"><i class="bi-p-circle icon"></i>Pluto TV</a></div>
+		<hr>
                 <div class="bc-1"><a href="#"><i class="bi-info-circle-fill icon"></i>Información</a></div>
                 <div class="bc-1"><a target="_blank" href="https://loadigital.github.io/descargar-Biloa/"><i class="bi-android2 icon"></i>Descargar App</a></div>
                 <div class="bc-1"><a target="_blank" href="https://wa.me/573212310020?"><i class="bi-whatsapp icon"></i>Whatsapp</a></div>
