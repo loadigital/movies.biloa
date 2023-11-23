@@ -1,5 +1,7 @@
 const menu = document.createElement("div");
 const subMenu = document.createElement("div");
+const modalCategorias = document.getElementById("modal-categorias");
+const botonCategorias = document.createElement("div");
 const includeHeader= document.getElementById("include-header");
 
 menu.className = "content-menu";
@@ -48,30 +50,52 @@ menu.innerHTML = `
 `
 subMenu.className="content-submenu"
 subMenu.innerHTML = `
-     <!--<div class="co-genre"><div class="genre"><p>Categorias</p></div></div>-->
-   
-    <div class="co-submenu">
-    <li class="link"  data-category="all"><a href="#">Recientes</a></li>
-    <li class="link"  data-category="Acción"><a href="#">Acción</a></li>
-    <li class="link"  data-category="Animación"><a href="#">Animación</a></li>
-    <li class="link"  data-category="Aventura"><a href="#">Aventura</a></li>
-    <li class="link"  data-category="Bélica"><a href="#">Bélicas</a></li>
-    <li class="link"  data-category="Ciencia ficción"><a href="#">Ciencia,ficción</a></li>
-    <li class="link"  data-category="Comedia"><a href="#">Comedia</a></li>
-    <li class="link"  data-category="Documental"><a href="#">Documental</a></li>
-    <li class="link"  data-category="Drama"><a href="#">Drama</a></li>
-    <li class="link"  data-category="Fantasía"><a href="#">Fantasía</a></li>
-    <li class="link"  data-category="Historia"><a href="#">História</a></li>
-    <li class="link"  data-category="Romance"><a href="#">Romance</a></li>
-    <li class="link"  data-category="Suspense"><a href="#">Suspenso</a></li>
-    <li class="link"  data-category="Terror"><a href="#">Terror</a></li>
+<div class="btn-cerrar"><i class="bi-x-circle-fill" id="ox-cerrar"></i></div>
+<div class="co-submenu">
 
-    </div> 
+<li class="link next1"  data-category="all"><a data="next" href="#">Recientes</a></li>
+<li class="link next1"  data-category="Acción"><a data="next" href="#">Acción</a></li>
+<li class="link next1"  data-category="Animación"><a data="next" href="#">Animación</a></li>
+<li class="link next1"  data-category="Aventura"><a data="next" href="#">Aventura</a></li>
+<li class="link next1"  data-category="Bélica"><a data="next" href="#">Bélicas</a></li>
+<li class="link next1"  data-category="Ciencia ficción"><a data="next" href="#">Ciencia,ficción</a></li>
+<li class="link next1"  data-category="Comedia"><a data="next" href="#">Comedia</a></li>
+<li class="link next1"  data-category="Documental"><a data="next" href="#">Documental</a></li>
+<li class="link next1"  data-category="Drama"><a data="next" href="#">Drama</a></li>
+<li class="link next1"  data-category="Fantasía"><a data="next" href="#">Fantasía</a></li>
+<li class="link next1"  data-category="Historia"><a data="next" href="#">História</a></li>
+<li class="link next1"  data-category="Romance"><a data="next" href="#">Romance</a></li>
+<li class="link next1"  data-category="Suspense"><a data="next" href="#">Suspenso</a></li>
+<li class="link next1"  data-category="Terror"><a data="next" href="#">Terror</a></li>
+
+</div> 
    
     <!--<div class="co-version"><div class="version"><a href="#">@B!LOA V.5.0.3</a></div></div>-->
 `
+botonCategorias.className = "co-bo-categorias"
+botonCategorias.innerHTML = `
+<div class="bo-categorias"><a id="boton-categorias" href="#">Categorias <i class="bi-caret-down-fill icon"></i></a></div>
+`
+modalCategorias.appendChild(subMenu);
 includeHeader.appendChild(menu);
-includeHeader.appendChild(subMenu);
+includeHeader.appendChild(botonCategorias);
+
+const btn_categorias = document.getElementById("boton-categorias");
+btn_categorias.addEventListener("click", ()=>{
+    document.getElementById("modal-categorias").style.bottom= "0";
+})
+
+const next1 = document.querySelectorAll('.next1 a[data^="next"')
+    next1.forEach(next =>{
+        next.addEventListener("click", function(){
+            document.getElementById("modal-categorias").style.bottom="-100%";
+            
+        })
+    })
+const ox_cerrar = document.getElementById("ox-cerrar");
+ox_cerrar.addEventListener("click", ()=>{
+    document.getElementById("modal-categorias").style.bottom="-100%";
+})
 
 
 //menu lateral
