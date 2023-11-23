@@ -23,7 +23,7 @@ body{
 /*>>>>>>>>>>>>>>>>Cabecera>>>>>>>>>>>>>>>>>>>>*/
 header{
     width: 100%;
-    height: 90px;
+    height: 100px;
     position: fixed;
     transition: 0.7s;
     background: var(--color-uno);
@@ -90,33 +90,53 @@ header{
     
 }
 
-.content-submenu{
+
+.modal-categorias{
     width: 100%;
-    height: auto;
+    position: fixed;
+    overflow: auto; 
+    height: 100%;
+    background: rgb(0, 0, 0, 0.9);
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
-    align-items: center;
-    margin-top: 10px;
+    transition: all 0.4s;  
+    bottom: -100%;
+    flex-direction: column;
+    margin: 0;
+
+}
+.content-submenu{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     border: solid 0px  #fff;
-    background: var(--color-uno);
-        
+    top: 0px;
+    
 }
 .co-submenu{
-    width: 90%;
-    display: flex;
+    list-style: none;
+    width: 200px;
     height: auto;
-    margin-top: 0px;
-    overflow: auto;
-    color: #fff;
-    border: solid 0px  #fff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
 }
 
 .co-submenu .link{
-    list-style: none;
-    margin: 6px;
-    
+    width: 90%;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
 }
 .co-submenu .link a{
     text-decoration: none;
@@ -127,53 +147,71 @@ header{
 .co-genre, .co-version{
     display: none;
 }
+
+.co-bo-categorias{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border: solid 0px  #fff;
+    
+}
+.co-bo-categorias .bo-categorias{
+    width: 90%;
+    border: solid 0px  #fff;
+    display: flex;
+    justify-content: center;
+
+}
+.bo-categorias a{
+    text-decoration: none;
+    border: solid 1px #fff;
+    color: #fff;
+    padding: 5px;
+    border-radius: 20px 20px;
+    margin-bottom: 20px;
+}
+.bo-categorias .bi-caret-down-fill{
+    color: #bd0000;
+}
+
+.btn-cerrar{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: #fff;
+    font-size: 40px;
+    border: solid 0px  #fff;
+    margin-bottom: 20px;
+}
+.btn-cerrar .bi-x-circle-fill:hover{
+ color: #bd0000;
+ cursor: pointer;
+}
+
+
 @media screen and (min-width: 800px){
+   
+    .btn-cerrar{
+        margin-top: 100px;
+    }
+    .co-submenu{
+        width: 100%;
+        max-width: 250px;
+        margin-bottom: 0px;
+    }
  .icon-menu{
     display: none;
   }
   .co-text{
     display: none;
   }
-  .content-submenu{
-    width: 100%;
- 
-    background: var(--color-uno);
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: center;
-    margin-bottom: 10px;
-    
-  }
-  .co-submenu{
-    width: 90%;
-   
-    display: flex;
-   
-    overflow-y:scroll;
-    border: solid 0px  #fff;
-    margin-bottom: 10px;
-    
-  }
-  .link{
-    width: 100%;
-    min-width: 150px;
-    height: 30px;
-    border: solid 0px  #fff;
-    margin: auto;
-    background: var(--color-dos);
-    align-items: center;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: center;
-    border-radius: 3px 3px;
-    
-  }
-  .co-submenu .link a{
-    font-size: 14px;
-    letter-spacing: 0.10em;
-  }
+
+  
   .co-genre{
     width: 80%;
     height: auto;
@@ -367,7 +405,9 @@ nav{
     align-items: center;
     background: var(--color-dos);
     margin-top: 100px;
+  
 }
+
 .bc hr{
     width: 90%;
     border: 1px solid rgb(34, 37, 75);
@@ -495,22 +535,7 @@ nav{
     
 }
 /*>>>>>>>>>>>>>>>>Cards>>>>>>>>>>>>>>>>>>>>*/
-.anuncios{
-   width: 100%;
-   display: flex;
-   flex-direction: row;
-   flex-wrap: wrap;
-   justify-content: center;
-   margin-top: 140px;
-   margin-bottom: 7px;
-   background: var(--color-dos);
-  
-}
-#atContainer-51b15bb786ead3ee88ddd1879659deaf{
-    width: 90%;
-    background: var(--color-uno);
-    
-}
+
 .include-main{
    width: 100%;
    display: flex;
@@ -527,7 +552,7 @@ nav{
     grid-template-columns: repeat(5, 1fr);
     margin-left: auto;
 	margin-right: auto;
-	margin-top: auto;
+	margin-top: 110px;
     margin-bottom: 3em;
     grid-gap: 5px;
     
