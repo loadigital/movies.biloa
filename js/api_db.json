@@ -1,5 +1,30 @@
 [
  {
+    "id":"A618",
+    "id_POST":"1083862",
+    "title":"Resident Evil: Death Island",
+    "tipo":"Pelicula",
+    "imgLink":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lcCcX1ejZTOc2wZK66ou9zWQCu0.jpg",
+    "posterLink": {
+                    "link_web":"https://biloamo.github.io/mo/page/peliculas/web/A618 Resident Evil Death Island.web.html",
+                    "link_app":"https://biloamo.github.io/mo/page/peliculas/app/A618 Resident Evil Death Island.app.html",
+                    "POSTER_DESCARGA":"https://biloamo.github.io/mo/page/peliculas/descarga/A618 Resident Evil Death Island.html",
+                    "LINK_DESCARGA":"https://drive.google.com/u/2/uc?id=1eSS0P0Vo3tUgbMjtVWOyzOJNQUywgMKi&export=download"
+                  },
+    "LINK_MOVIES":{
+                    "link_web":{
+                                 "web_1":"https://biloa.website/biloa/8r05eIgN1KcAW3P"
+                               },
+                    "link_app":{
+                                 "app_1":"https://mo.biloa.website/biloa/yMlv2K4lu7msmmJ"
+                                
+                               },
+                    "link_trailer_key":"6IHvwrgX15U"
+                  }, 
+    "GB_PESO": "1.6 GB",
+    "SERV_DESC":"GOOGLE DRIVE"     
+},
+ {
     "id":"A613",
     "id_POST":"157353",
     "title":"Transcendence",
