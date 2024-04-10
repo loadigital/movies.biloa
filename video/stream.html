@@ -75,15 +75,7 @@ sharing: {
 videoPlayer.on("ready",function() {
 		jwLogoBar.addLogo(videoPlayer);
 	});
-videoPlayer.addButton(
-                "https://raw.githubusercontent.com/ufilestorage/img/master/download.png",
-                "Download Movie", 
-        
-        function(){
-    window.open(videoPlayer.getPlaylistItem()["file"]+"","_blank").blur();
-	//window.location.href = jwplayer().getPlaylistItem()['file"];
-	}, "download"
-	);
+
 
 </script>
 
