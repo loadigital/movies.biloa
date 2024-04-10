@@ -23,17 +23,17 @@ let getbase=()=>{
 
 
 let iframe=()=> {
-    s('stream').src='stream.html?id='+base;
+    s('stream').src='https://loadigital.github.io/movies.biloa/video/stream.html?id='+base;
 
     var op = document.getElementById("codeframe")
     const div=document.createElement("div")
   
     div.innerHTML =`
     <p>Insertar URL</p>
-    <textarea>stream.html?id=${base}</textarea>
+    <textarea>https://loadigital.github.io/movies.biloa/video/stream.html?id=${base}</textarea>
 
     <p>Código de inserción</p>
-    <textarea><iframe width="560" height="315" scrolling="no" src="stream.html?id=${base}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe></textarea>
+    <textarea><iframe width="560" height="315" scrolling="no" src="https://loadigital.github.io/movies.biloa/video/stream.html?id=${base}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe></textarea>
     
   
     `
