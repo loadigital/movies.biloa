@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embed-video 360p</title>
+    <script type='text/javascript' src='//wombjingle.com/14/1f/d6/141fd659fe1d811ea99a98cbf2adc743.js'></script>
+</head>
+<body>
+
+<iframe id="iframe" src="#" allowfullscreen style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; "> Your browser doesn't support iframes </iframe> 
+    
+<script>
+
+let url = new URLSearchParams(document.location.search);
+let id = url.get("id"); 
+console.log(id)
+document.getElementById("iframe").src = "https://ok.ru/videoembed/" + id + "?autoplay=1";
+</script>
+
+</body>
+</html>
