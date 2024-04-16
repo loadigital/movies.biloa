@@ -1,3 +1,30 @@
+//Vikingos valhalla
+const S016 = {
+    "temporadas":"2",
+    "temporada1":[
+                    "https://biloa.store/ok.stream.html?id=7180477401654",//T1-E1
+                    "https://biloa.store/ok.stream.html?id=7180512397878",//T1-E2
+                    "https://biloa.store/ok.stream.html?id=7180622367286",//T1-E3
+                    "https://biloa.store/ok.stream.html?id=7181829343798",//T1-E4
+                    "https://biloa.store/ok.stream.html?id=7181012765238",//T1-E5
+                    "https://biloa.store/ok.stream.html?id=7181085837878",//T1-E6
+                    "https://biloa.store/ok.stream.html?id=7181108709942",//T1-E7
+                    "https://biloa.store/ok.stream.html?id=7181110544950",//T1-E8
+                    
+                 ],
+     "temporada2":[
+                    "https://biloa.store/ok.stream.html?id=7181642762806",//T2-E1
+                    "https://biloa.store/ok.stream.html?id=7181830064694",//T2-E2
+                    "https://biloa.store/ok.stream.html?id=7181833669174",//T2-E3
+                    "https://biloa.store/ok.stream.html?id=7181834062390",//T2-E4
+                    "https://biloa.store/ok.stream.html?id=7181835569718",//T2-E5
+                    "https://biloa.store/ok.stream.html?id=7183046674998",//T2-E6
+                    "https://biloa.store/ok.stream.html?id=7183048313398",//T2-E7
+                    "https://biloa.store/ok.stream.html?id=7183050148406",//T2-E8
+                  ] 
+                     
+    
+}
 //Que asi sea
 const S015 = {
     "temporadas":"1",
