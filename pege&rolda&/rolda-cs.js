@@ -1,3 +1,17 @@
+//The Peripheral
+const S017 = {
+    "temporadas":"1",
+    "temporada1":[
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7130077661743",//T1-E1
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7470866631256",//T1-E2
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7130849544751",//T1-E3
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7130850200111",//T1-E4
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7130850462255",//T1-E5
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7131006634543",//T1-E6
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7131006831151",//T1-E7
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7131007420975",//T1-E8 
+                 ]  
+}
 //Vikingos valhalla
 const S016 = {
     "temporadas":"2",
