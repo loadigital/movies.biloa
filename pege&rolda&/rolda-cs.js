@@ -1,3 +1,16 @@
+//Tales of the waling dead
+const S019 = {
+    "temporadas":"1",
+    "temporada1":[
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=8571922483934",//T1-E1
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=8571924056798",//T1-E2
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=8571925105374",//T1-E3
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=8571929365214",//T1-E4
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=8571930086110",//T1-E5
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=8572003289822",//T1-E6
+                
+                 ]  
+}
 //Antracita
 const S018 = {
     "temporadas":"1",
