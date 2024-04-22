@@ -190,3 +190,29 @@ const S008 = {
                 "https://mo.biloa.website/biloa/AyYW5KZOHGVqsJP"//T1-E8
                 ]   
 }
+//La rueda del tiempo
+const S007 = {
+    "temporadas":"2",
+    "temporada1":[
+                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497400886",//T1-E1
+                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7196630387254",//T1-E2
+                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7196631894582",//T1-E3
+                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497335350",//T1-E4
+                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497794102",//T1-E5
+                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497073206",//T1-E6
+                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195496942134",//T1-E7
+                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497728566",//T1-E8
+                 ],
+     "temporada2":[
+                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497007670",//T2-E1
+                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497138742",//T2-E2
+                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497466422",//T2-E3
+                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497859638",//T2-E4
+                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497597494",//T2-E5
+                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497269814",//T2-E6
+                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497663030",//T2-E7
+                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497531958",//T2-E8
+                  ] 
+                     
+    
+}
