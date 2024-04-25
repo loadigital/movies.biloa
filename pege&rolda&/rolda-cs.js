@@ -1,3 +1,15 @@
+//The Walking Dead: The Ones Who Live
+const S020 = {
+    "temporadas":"1",
+    "temporada1":[
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7210032695862",//T1-E1
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7210032761398",//T1-E2
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7210032826934",//T1-E3
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7210032892470",//T1-E4
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7210032564790",//T1-E5
+                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7210032630326",//T1-E6
+    ]
+}
 //Tales of the waling dead
 const S019 = {
     "temporadas":"1",
