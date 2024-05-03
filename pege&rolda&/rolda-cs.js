@@ -6,7 +6,7 @@ const S020 = {
                 "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7210032761398",//T1-E2
                 "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7210032826934",//T1-E3
                 "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7210032892470",//T1-E4
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7210032564790",//T1-E5
+                "https://biloa.website/ok.embed.v3/redirect.php?url=7700459031064",//T1-E5
                 "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7210032630326",//T1-E6
     ]
 }
