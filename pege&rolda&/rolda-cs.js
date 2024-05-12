@@ -2,24 +2,25 @@
 const S020 = {
     "temporadas":"1",
     "temporada1":[
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7210032695862",//T1-E1
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7210032761398",//T1-E2
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7210032826934",//T1-E3
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7210032892470",//T1-E4
-                "https://biloa.website/ok.embed.v3/redirect.php?url=7700459031064",//T1-E5
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7210032630326",//T1-E6
-    ]
+                "7210032695862",//T1-E1
+                "7210032761398",//T1-E2
+                "7210032826934",//T1-E3
+                "7210032892470",//T1-E4
+                "7700459031064",//T1-E5
+                "7210032630326",//T1-E6
+    ] 
+    
 }
 //Tales of the waling dead
 const S019 = {
     "temporadas":"1",
     "temporada1":[
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=8571922483934",//T1-E1
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=8571924056798",//T1-E2
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=8571925105374",//T1-E3
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=8571929365214",//T1-E4
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=8571930086110",//T1-E5
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=8572003289822",//T1-E6
+                "8571922483934",//T1-E1
+                "8571924056798",//T1-E2
+                "8571925105374",//T1-E3
+                "8571929365214",//T1-E4
+                "8571930086110",//T1-E5
+                "8572003289822",//T1-E6
                 
                  ]  
 }
@@ -27,52 +28,53 @@ const S019 = {
 const S018 = {
     "temporadas":"1",
     "temporada1":[
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7187406785078",//T1-E1
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7187406981686",//T1-E2
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7187407178294",//T1-E3
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7187423103542",//T1-E4
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7187423496758",//T1-E5
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7187423824438",//T1-E6
+                "7187406785078",//T1-E1
+                "7187406981686",//T1-E2
+                "7187407178294",//T1-E3
+                "7187423103542",//T1-E4
+                "7187423496758",//T1-E5
+                "7187423824438",//T1-E6
                 
-                 ]  
+                 ],
+    
 }
 //The Peripheral
 const S017 = {
     "temporadas":"1",
     "temporada1":[
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7130077661743",//T1-E1
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7187393022518",//T1-E2
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7130849544751",//T1-E3
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7130850200111",//T1-E4
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7130850462255",//T1-E5
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7131006634543",//T1-E6
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7131006831151",//T1-E7
-                "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7131007420975",//T1-E8 
+                "7130077661743",//T1-E1
+                "7187393022518",//T1-E2
+                "7130849544751",//T1-E3
+                "7130850200111",//T1-E4
+                "7130850462255",//T1-E5
+                "7131006634543",//T1-E6
+                "7131006831151",//T1-E7
+                "7131007420975",//T1-E8 
                  ]  
 }
 //Vikingos valhalla
 const S016 = {
     "temporadas":"2",
     "temporada1":[
-                    "https://biloa.store/ok.stream.html?id=7180477401654",//T1-E1
-                    "https://biloa.store/ok.stream.html?id=7180512397878",//T1-E2
-                    "https://biloa.store/ok.stream.html?id=7180622367286",//T1-E3
-                    "https://biloa.store/ok.stream.html?id=7181829343798",//T1-E4
-                    "https://biloa.store/ok.stream.html?id=7181012765238",//T1-E5
-                    "https://biloa.store/ok.stream.html?id=7181085837878",//T1-E6
-                    "https://biloa.store/ok.stream.html?id=7181108709942",//T1-E7
-                    "https://biloa.store/ok.stream.html?id=7181110544950",//T1-E8
+                    "7180477401654",//T1-E1
+                    "7180512397878",//T1-E2
+                    "7180622367286",//T1-E3
+                    "7181829343798",//T1-E4
+                    "7181012765238",//T1-E5
+                    "7181085837878",//T1-E6
+                    "7181108709942",//T1-E7
+                    "7181110544950",//T1-E8
                     
                  ],
      "temporada2":[
-                    "https://biloa.store/ok.stream.html?id=7181642762806",//T2-E1
-                    "https://biloa.store/ok.stream.html?id=7181830064694",//T2-E2
-                    "https://biloa.store/ok.stream.html?id=7181833669174",//T2-E3
-                    "https://biloa.store/ok.stream.html?id=7181834062390",//T2-E4
-                    "https://biloa.store/ok.stream.html?id=7181835569718",//T2-E5
-                    "https://biloa.store/ok.stream.html?id=7183046674998",//T2-E6
-                    "https://biloa.store/ok.stream.html?id=7183048313398",//T2-E7
-                    "https://biloa.store/ok.stream.html?id=7183050148406",//T2-E8
+                    "7181642762806",//T2-E1
+                    "7181830064694",//T2-E2
+                    "7181833669174",//T2-E3
+                    "7181834062390",//T2-E4
+                    "7181835569718",//T2-E5
+                    "7183046674998",//T2-E6
+                    "7183048313398",//T2-E7
+                    "7183050148406",//T2-E8
                   ] 
                      
     
@@ -81,81 +83,81 @@ const S016 = {
 const S015 = {
     "temporadas":"1",
     "temporada1":[
-                "https://biloa.store/ok.stream.html?id=8545418021598",//T1-E1
-                "https://biloa.store/ok.stream.html?id=8545577798366",//T1-E2
-                "https://biloa.store/ok.stream.html?id=8545620069086",//T1-E3
-                "https://biloa.store/ok.stream.html?id=8545853770462",//T1-E4
-                "https://biloa.store/ok.stream.html?id=8545854098142",//T1-E5
-                "https://biloa.store/ok.stream.html?id=8545861962462",//T1-E6
-                "https://biloa.store/ok.stream.html?id=8545862159070",//T1-E7
-                "https://biloa.store/ok.stream.html?id=8545864190686",//T1-E8 
+                "8545418021598",//T1-E1
+                "8545577798366",//T1-E2
+                "8545620069086",//T1-E3
+                "8545853770462",//T1-E4
+                "8545854098142",//T1-E5
+                "8545861962462",//T1-E6
+                "8545862159070",//T1-E7
+                "8545864190686",//T1-E8 
                  ]  
 }
 //Nell recargada
 const S014 = {
     "temporadas":"1",
     "temporada1":[
-                "https://mo.biloa.website/biloa/QNwTkDFfZR7orrv",//T1-E1
-                "https://mo.biloa.website/biloa/8PXhWpoGdwSY5dQ",//T1-E2
-                "https://mo.biloa.website/biloa/Uroa1MNKUPdMiah",//T1-E3
-                "https://mo.biloa.website/biloa/xLcdYzBsifWPOl8",//T1-E4
-                "https://mo.biloa.website/biloa/7DlBPm01fhiwp9l",//T1-E5
-                "https://mo.biloa.website/biloa/85PsohxfeOoGH7K",//T1-E6
-                "https://mo.biloa.website/biloa/Z49hsaE23yESROR",//T1-E7
-                "https://mo.biloa.website/biloa/UxM9rWgp6su6TTn",//T1-E8 
+                "8537363778270",//T1-E1
+                "8537369348830",//T1-E2
+                "8537387698910",//T1-E3
+                "8537407163102",//T1-E4
+                "8537440783070",//T1-E5
+                "8537481546462",//T1-E6
+                "8537481808606",//T1-E7
+                "8537482136286",//T1-E8 
                 ]  
 }
 //Los anillos de poder
 const S013 = {
     "temporadas":"1",
     "temporada1":[
-                "https://mo.biloa.website/biloa/5xsbyEq8vZx1wun",//T1-E1
-                "https://mo.biloa.website/biloa/n39wpqz9PgppFam",//T1-E2
-                "https://mo.biloa.website/biloa/u0RWE5fV6kbXhBp",//T1-E3
-                "https://mo.biloa.website/biloa/cOEYnZDkXoz6VEk",//T1-E4
-                "https://mo.biloa.website/biloa/oKbvqPhAssVqWeG",//T1-E5
-                "https://mo.biloa.website/biloa/z1xc291HnjeKWAs",//T1-E6
-                "https://mo.biloa.website/biloa/t3FOtH3Bd6ViRFO",//T1-E7
-                "https://mo.biloa.website/biloa/jCkpXSTdxCZ1dz2",//T1-E8 
+                "7151028341302",//T1-E1
+                "7151064975926",//T1-E2
+                "7151081687606",//T1-E3
+                "7153374988854",//T1-E4
+                "7151142898230",//T1-E5
+                "7151152138806",//T1-E6
+                "7151163279926",//T1-E7
+                "7151180122678",//T1-E8 
                 ]  
 }
 //La lista terminal
 const S012 = {
     "temporadas":"1",
     "temporada1":[
-                "https://mo.biloa.website/biloa/BT9PFKe8U4Llf9r",//T1-E1
-                "https://mo.biloa.website/biloa/EyIvz5tpV6kFQEV",//T1-E2
-                "https://mo.biloa.website/biloa/b0yuJXfTrRWYemS",//T1-E3
-                "https://mo.biloa.website/biloa/GsUOft829vTCTtP",//T1-E4
-                "https://mo.biloa.website/biloa/DOEB3vbOHNsakfi",//T1-E5
-                "https://mo.biloa.website/biloa/3LCUJSgkaA1SxSE",//T1-E6
-                "https://mo.biloa.website/biloa/qFx27uBVK5Ih3O8",//T1-E7
-                "https://mo.biloa.website/biloa/4JmXPLD9cZ86u5M",//T1-E8 
+                "7150306003510",//T1-E1
+                "7150458505782",//T1-E2
+                "7150601308726",//T1-E3
+                "7150706035254",//T1-E4
+                "7150824917558",//T1-E5
+                "7150889536054",//T1-E6
+                "7150951991862",//T1-E7
+                "7150954089014",//T1-E8 
                 ]  
 }
 //Halo
 const S011 = {
     "temporadas":"2",
     "temporada1":[
-                    "https://mo.biloa.website/biloa/jUCi4uPrvPFwVxN",//T1-E1
-                    "https://mo.biloa.website/biloa/JDwuMPhICockTFh",//T1-E2
-                    "https://mo.biloa.website/biloa/B2UIsviwUMhL6kz",//T1-E3
-                    "https://mo.biloa.website/biloa/HjMRhFHgP4plAeB",//T1-E4
-                    "https://mo.biloa.website/biloa/iQaWFsAZNUxcfBa",//T1-E5
-                    "https://mo.biloa.website/biloa/C5Q6deOrvzxeijg",//T1-E6
-                    "https://mo.biloa.website/biloa/fIRVLKwqc84XHM6",//T1-E7
-                    "https://mo.biloa.website/biloa/p746Rq5xH4T5dn7",//T1-E8
-                    "https://mo.biloa.website/biloa/adOhcdd1MzclvVW",//T1-E9
+                    "7142816418358",//T1-E1
+                    "7142728600118",//T1-E2
+                    "7143261866550",//T1-E3
+                    "7143098812982",//T1-E4
+                    "7143185189430",//T1-E5
+                    "7143199345206",//T1-E6
+                    "7143228967478",//T1-E7
+                    "7144792066614",//T1-E8
+                    "7145844443702",//T1-E9
                  ],
      "temporada2":[
-                    "https://mo.biloa.website/biloa/G9OxnJgNfJE9xZb",//T2-E1
-                    "https://mo.biloa.website/biloa/8dUBtfHPNJXcKXp",//T2-E2
-                    "https://mo.biloa.website/biloa/K6E8emFRo0qNOhG",//T2-E3
-                    "https://mo.biloa.website/biloa/KIDlzVnKuk9b7ZQ",//T2-E4
-                    "https://mo.biloa.website/biloa/9GmJSu7MsHAy71c",//T2-E5
-                    "https://mo.biloa.website/biloa/5TuMyqidQ8byPSb",//T2-E6
-                    "https://mo.biloa.website/biloa/gvaC7PznIlQ0UpM",//T2-E7
-                    "https://mo.biloa.website/biloa/TNUL9E0WhcoJGAs",//T2-E8
+                    "7147297901110",//T2-E1
+                    "7147406363190",//T2-E2
+                    "7147462462006",//T2-E3
+                    "7148039965238",//T2-E4
+                    "7147756325430",//T2-E5
+                    "7147862559286",//T2-E6
+                    "7148052220470",//T2-E7
+                    "7147943561782",//T2-E8
                   ] 
                      
     
@@ -164,13 +166,13 @@ const S011 = {
 const S010 = {
     "temporadas":"1",
     "temporada1":[
-                    "https://mo.biloa.website/biloa/Div0IXin7IOeuZM",//T1-E1
-                    "https://mo.biloa.website/biloa/2m6x6voYWZRoRNX",//T1-E2
-                    "https://mo.biloa.website/biloa/6CBsaQydYkyuQSH",//T1-E3
-                    "https://mo.biloa.website/biloa/ge3YbEzNiQQsWEq",//T1-E4
-                    "https://mo.biloa.website/biloa/RvLcUKkkBE3NdiI",//T1-E5
-                    "https://mo.biloa.website/biloa/KSmogtljvqexw2e",//T1-E6
-                    "https://mo.biloa.website/biloa/TDEe2X78E7PX79E",//T1-E7
+                    "7129228708406",//T1-E1
+                    "7129271110198",//T1-E2
+                    "7129453562422",//T1-E3
+                    "7131400047158",//T1-E4
+                    "7131504708150",//T1-E5
+                    "7131888290358",//T1-E6
+                    "7131888749110",//T1-E7
                 ]
        
 }
@@ -178,13 +180,13 @@ const S010 = {
 const S009 = {
     "temporadas":"1",
     "temporada1":[
-                "https://mo.biloa.website/biloa/GlNwOn8j8Isn02G",//T1-E1
-                "https://mo.biloa.website/biloa/aLZkyhRvtbVQAYu",//T1-E2
-                "https://mo.biloa.website/biloa/51ulzrS1J34prah",//T1-E3
-                "https://mo.biloa.website/biloa/7UvdTauv9T2hRrl",//T1-E4
-                "https://mo.biloa.website/biloa/jtIVkCLzWvUA571",//T1-E5
-                "https://mo.biloa.website/biloa/MkjNbMjAqnujLtL",//T1-E6
-                "https://mo.biloa.website/biloa/GyaAbClhQTvvwiQ",//T1-E7
+                "7128248945206",//T1-E1
+                "7126120860214",//T1-E2
+                "7126289812022",//T1-E3
+                "7126363933238",//T1-E4
+                "7128569678390",//T1-E5
+                "7126365178422",//T1-E6
+                "7128328243766",//T1-E7
                 ]
 }
 
@@ -192,38 +194,38 @@ const S009 = {
 const S008 = {
     "temporadas":"1",
     "temporada1":[
-                "https://mo.biloa.website/biloa/3bQeFRFG5hgSRBo",//T1-E1
-                "https://mo.biloa.website/biloa/RM2MdPdov5CMdiE",//T1-E2
-                "https://mo.biloa.website/biloa/LzcMgOdC6IiyYHN",//T1-E3
-                "https://mo.biloa.website/biloa/62gFJBZa7O9gRNe",//T1-E4
-                "https://mo.biloa.website/biloa/CPMiTxmG2bmVY6i",//T1-E5
-                "https://mo.biloa.website/biloa/GQEI9YNtTmLYLKh",//T1-E6
-                "https://mo.biloa.website/biloa/AcNbS9xRB0FrSLl",//T1-E7
-                "https://mo.biloa.website/biloa/AyYW5KZOHGVqsJP"//T1-E8
+                "7123135957558",//T1-E1
+                "7123249334838",//T1-E2
+                "7123249662518",//T1-E3
+                "7123289049654",//T1-E4
+                "7125940046390",//T1-E5
+                "7123352881718",//T1-E6
+                "7123397773878",//T1-E7
+                "7123398298166"//T1-E8
                 ]   
 }
 //La rueda del tiempo
 const S007 = {
     "temporadas":"2",
     "temporada1":[
-                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497400886",//T1-E1
-                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7196630387254",//T1-E2
-                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7196631894582",//T1-E3
-                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497335350",//T1-E4
-                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497794102",//T1-E5
-                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497073206",//T1-E6
-                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195496942134",//T1-E7
-                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497728566",//T1-E8
+                    "7195497400886",//T1-E1
+                    "7196630387254",//T1-E2
+                    "7196631894582",//T1-E3
+                    "7195497335350",//T1-E4
+                    "7195497794102",//T1-E5
+                    "7195497073206",//T1-E6
+                    "7195496942134",//T1-E7
+                    "7195497728566",//T1-E8
                  ],
      "temporada2":[
-                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497007670",//T2-E1
-                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497138742",//T2-E2
-                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497466422",//T2-E3
-                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497859638",//T2-E4
-                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497597494",//T2-E5
-                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497269814",//T2-E6
-                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497663030",//T2-E7
-                    "https://loadigital.github.io/movies.biloa/ok.stream.html?id=7195497531958",//T2-E8
+                    "7195497007670",//T2-E1
+                    "7195497138742",//T2-E2
+                    "7195497466422",//T2-E3
+                    "7195497859638",//T2-E4
+                    "7195497597494",//T2-E5
+                    "7195497269814",//T2-E6
+                    "7195497663030",//T2-E7
+                    "7195497531958",//T2-E8
                   ] 
                      
     
