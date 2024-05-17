@@ -1,3 +1,17 @@
+//Maxton Hall Un mundo entre nosotros
+const S022 = {
+    "temporadas":"1",
+    "temporada1":[
+                "7272592509494&temp=1&cap=1",//T1-E1
+                "7272597555766&temp=1&cap=2",//T1-E2
+                "7272616692278&temp=1&cap=3",//T1-E3
+                "7272633207350&temp=1&cap=4",//T1-E4
+                "7272645855798&temp=1&cap=5",//T1-E5
+                "7272667941430&temp=1&cap=6",//T1-E6
+                
+    ] 
+    
+}
 //Bodkin
 const S021 = {
     "temporadas":"1",
