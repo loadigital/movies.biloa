@@ -1,3 +1,17 @@
+//The Walking Dead: Daryl Dixon
+const S023 = {
+    "temporadas":"1",
+    "temporada1":[
+                "7286756411958&temp=1&cap=1",//T1-E1
+                "7287024192054&temp=1&cap=2",//T1-E2
+                "7287115221558&temp=1&cap=3",//T1-E3
+                "7287146285622&temp=1&cap=4",//T1-E4
+                "7287146351158&temp=1&cap=5",//T1-E5
+                "7287146416694&temp=1&cap=6",//T1-E6
+                
+    ] 
+    
+}
 //Maxton Hall Un mundo entre nosotros
 const S022 = {
     "temporadas":"1",
