@@ -1,3 +1,19 @@
+//The 8 Show
+const S024 = {
+    "temporadas":"1",
+    "temporada1":[
+                "8671688919774&temp=1&cap=1",//T1-E1
+                "8671688854238&temp=1&cap=2",//T1-E2
+                "8671688592094&temp=1&cap=3",//T1-E3
+                "8671688657630&temp=1&cap=4",//T1-E4
+                "8671688723166&temp=1&cap=5",//T1-E5
+                "8671688788702&temp=1&cap=6",//T1-E6
+                "8671742200542&temp=1&cap=7",//T1-E7
+                "8671742266078&temp=1&cap=8",//T1-E8
+                
+    ] 
+    
+}
 //The Walking Dead: Daryl Dixon
 const S023 = {
     "temporadas":"1",
