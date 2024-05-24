@@ -1,3 +1,19 @@
+//Sugar
+const S025 = {
+    "temporadas":"1",
+    "temporada1":[
+                "8676903357150&temp=1&cap=1",//T1-E1
+                "8676903422686&temp=1&cap=2",//T1-E2
+                "8676903488222&temp=1&cap=3",//T1-E3
+                "8676903029470&temp=1&cap=4",//T1-E4
+                "8676903095006&temp=1&cap=5",//T1-E5
+                "8676903160542&temp=1&cap=6",//T1-E6
+                "8676903226078&temp=1&cap=7",//T1-E7
+                "8676903291614&temp=1&cap=8",//T1-E8
+                
+    ] 
+    
+}
 //The 8 Show
 const S024 = {
     "temporadas":"1",
