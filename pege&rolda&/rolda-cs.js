@@ -1,3 +1,18 @@
+//Un caballero en moscu
+const S026 = {
+    "temporadas":"1",
+    "temporada1":[
+                "6885099506367&temp=1&cap=1",//T1-E1
+                "6885099571903&temp=1&cap=2",//T1-E2
+                "6885099375295&temp=1&cap=3",//T1-E3
+                "6885099637439&temp=1&cap=4",//T1-E4
+                "6885099768511&temp=1&cap=5",//T1-E5
+                "6885099702975&temp=1&cap=6",//T1-E6
+                "6885099834047&temp=1&cap=7",//T1-E7
+                "6885105273535&temp=1&cap=8",//T1-E8      
+    ] 
+    
+}
 //Sugar
 const S025 = {
     "temporadas":"1",
