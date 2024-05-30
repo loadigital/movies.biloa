@@ -1,3 +1,19 @@
+//Casate con mi esposo
+const S027 = {
+    "temporadas":"1",
+    "temporada1":[
+                "6891657038527&temp=1&cap=1",//T1-E1
+                "6891659135679&temp=1&cap=2",//T1-E2
+                "6891661232831&temp=1&cap=3",//T1-E3
+                "6891942578879&temp=1&cap=4",//T1-E4
+                "6892146985663&temp=1&cap=5",//T1-E5
+                "6892405590719&temp=1&cap=6",//T1-E6
+                "6892665965247&temp=1&cap=7",//T1-E7
+                "6892858378943&temp=1&cap=8",//T1-E8
+                
+    ] 
+    
+}
 //Un caballero en moscu
 const S026 = {
     "temporadas":"1",
