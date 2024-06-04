@@ -96,7 +96,7 @@
 <div id="loader-wrapper">
     <div id="preloader"></div>
 </div>
-
+<div class="cpa"></div>
 <iframe id="iframe" src="#" allowfullscreen style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; "> Your browser doesn't support iframes </iframe> 
     
 <script>
@@ -110,3 +110,18 @@ document.getElementById("iframe").src = "//ok.ru/videoembed/" + id;
 
 </body>
 </html>
+
+<style>
+	.cpa{
+		position: fixed;
+		width: 100%;
+		height: 10%;
+		background: rgb(12, 17, 31, 0.0);
+		z-index: 1000;
+		border: solid #dc7612 0px;
+		top:0px;
+		left:0px; 
+		bottom:0px; 
+		right:0px;
+	}
+</style>
