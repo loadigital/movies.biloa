@@ -1,3 +1,17 @@
+//Limitless
+const S028 = {
+    "temporadas":"1",
+    "temporada1":[
+                "7332832610870&temp=1&cap=1",//T1-E1
+                "7332833659446&temp=1&cap=2",//T1-E2
+                "7332834380342&temp=1&cap=3",//T1-E3
+                "7332835494454&temp=1&cap=4",//T1-E4
+                "7332836149814&temp=1&cap=5",//T1-E5
+                "7332836936246&temp=1&cap=6",//T1-E6
+                              
+    ] 
+    
+}
 //Casate con mi esposo
 const S027 = {
     "temporadas":"1",
