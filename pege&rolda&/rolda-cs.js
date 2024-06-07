@@ -1,3 +1,16 @@
+//Materia oscura
+const S029 = {
+    "temporadas":"1",
+    "temporada1":[
+                "8715371023070&temp=1&cap=1",//T1-E1
+                "8715371481822&temp=1&cap=2",//T1-E2
+                "8715371612894&temp=1&cap=3",//T1-E3
+                "8715371416286&temp=1&cap=4",//T1-E4
+                "8715371547358&temp=1&cap=5",//T1-E5
+                              
+    ] 
+    
+}
 //Limitless
 const S028 = {
     "temporadas":"1",
