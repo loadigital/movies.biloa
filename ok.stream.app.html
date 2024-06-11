@@ -6,6 +6,7 @@
     <title>Embed-video 360p</title>
     <script src="https://loadigital.github.io/movies.biloa/js/jquery.js"></script>
     
+
     <script type="text/javascript">$(window).load(function(){$("#loader-wrapper").delay(1500).fadeOut("slow");});</script>
     <style>
     #loader-wrapper {
@@ -94,7 +95,19 @@
 <div id="loader-wrapper">
     <div id="preloader"></div>
 </div>
-<div class="cpa"></div>
+<div class="cpa" id="x-a">
+	<div class="intem-1">
+		<div class="intem-1-1">
+			<p>Para ver este contenido es necesario ver un Anuncio</p>
+		</div>
+		<div class="intem-1-1">
+			<a target="_blank" href="https://wombjingle.com/jxt1ee1r?key=9be5574a804d77b27ac22a528af8bc96" id="x-aa"><button class="bot-1">Ver Anuncio</button></a>
+		</div>
+		
+	</div>
+
+</div>
+<div class="cpa-1"></div>
 <iframe id="iframe" src="#" allowfullscreen style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; "> Your browser doesn't support iframes </iframe> 
     
 <script>
@@ -102,23 +115,43 @@
 let url = new URLSearchParams(document.location.search);
 let id = url.get("id"); 
 console.log(id)
-document.getElementById("iframe").src = "https://ok.ru/videoembed/" + id + "?autoplay=1";
+document.getElementById("iframe").src = "https://ok.ru/videoembed/" + id;
+
+
+//Actualizacion
+
+document.getElementById("x-aa").addEventListener("click", ()=>{
+	document.getElementById("x-aa").style.display="none";
+	document.getElementById("x-a").style.display="none"; 
+})
+
 </script>
 
 </body>
 </html>
 
 <style>
-	.cpa{
-		position: fixed;
-		width: 100%;
-		height: 30%;
-		background: rgb(12, 17, 31, 0.0);
-		z-index: 1000;
-		border: solid #dc7612 0px;
-		top:0px;
-		left:0px; 
-		bottom:0px; 
-		right:0px;
+	.cpa-1{position: fixed;width: 100%;height: 10%;background: rgb(12, 17, 31, 0.0);z-index: 1000;border: solid #dc7612 0px;
+		top:0px;left:0px; bottom:0px; right:0px;
+		}
+	.cpa{display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;align-items: center;position: fixed;width: 100%;
+		height: 100%;background: rgb(12, 17, 31, 0.9);z-index: 1000;border: solid #dc7612 0px;top:0px;left:0px; bottom:0px;right:0px;
+		}
+	.intem-1, .intem-1-1{padding: 10px; width: 100%;display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;}
+	.intem-1-1 p{font-size: 18px; color: #fff;font-family: Arial;text-align: center;}
+	.intem-1-1 a{width: 100%;display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;text-decoration: none;}
+	.bot-1{width: 25%;background:rgb(126, 229, 247);padding: 7px;border-radius: 3px 3px;font-family: Arial;border: none;}
+	[class*="bot-"]:hover {
+    background: #575252;
+    color: rgb(255, 255, 255);
+    transition: all 1s;
+    cursor: pointer;
+	}
+	@media only screen and (max-width: 768px) {
+
+    [class*="bot-"] {
+      width: 60%;
+	  font-size: 16px;
+    }
 	}
 </style>
