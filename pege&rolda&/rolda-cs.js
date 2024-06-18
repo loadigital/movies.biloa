@@ -1,3 +1,20 @@
+//Alguien esta mirando
+const S031 = {
+    "temporadas":"1",
+    "temporada1":[
+        "7843188443672&temp=1&cap=1",//T1-E1
+        "7843194341912&temp=1&cap=2",//T1-E2
+        "7843301034520&temp=1&cap=3",//T1-E3
+        "7843301820952&temp=1&cap=4",//T1-E4
+        "7843302279704&temp=1&cap=5",//T1-E5
+        "7843302803992&temp=1&cap=6",//T1-E6
+        "7844476815896&temp=1&cap=7",//T1-E7
+        "7844478388760&temp=1&cap=8",//T1-E8
+        "7844478847512&temp=1&cap=9",//T1-E9  
+        "7844479240728&temp=1&cap=10",//T1-E10                  
+    ] 
+    
+}
 //special ops
 const S030 = {
     "temporadas":"1",
