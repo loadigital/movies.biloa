@@ -1,5 +1,5 @@
 //Del revés (Inside Out)
-const d150540 = {"links":["https://voe.sx/e/2duqgf72vfn7"]}
+const d150540 = {"links":["https://1drv.ms/v/c/1b4c79b927e93b9a/IQPrXZyGlMeqSYwDe3A7u5b_AfLYtwhkOBiEnj4lB972dOo"]}
 
 //Alguien esta mirando
 const S031 = {
