@@ -1,3 +1,17 @@
+//Jerarquia
+const S032 = {
+    "temporadas":"1",
+    "temporada1":[
+        "7845638703640&temp=1&cap=1",//T1-E1
+        "7845639096856&temp=1&cap=2",//T1-E2
+        "7845639621144&temp=1&cap=3",//T1-E3
+        "7845655284248&temp=1&cap=4",//T1-E4
+        "7845692967448&temp=1&cap=5",//T1-E5
+        "7845693295128&temp=1&cap=6",//T1-E6
+        "7845705026072&temp=1&cap=7",//T1-E7                 
+    ] 
+    
+}
 //Del revés (Inside Out)
 const d150540 = {"links":["https://1drv.ms/v/c/1b4c79b927e93b9a/IQPrXZyGlMeqSYwDe3A7u5b_AfLYtwhkOBiEnj4lB972dOo"]}
 
