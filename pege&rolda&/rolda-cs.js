@@ -1,3 +1,6 @@
+//Del revés (Inside Out)
+const d150540 = {"links":["https://voe.sx/e/2duqgf72vfn7"]}
+
 //Alguien esta mirando
 const S031 = {
     "temporadas":"1",
