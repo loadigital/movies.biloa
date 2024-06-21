@@ -1,3 +1,23 @@
+//La casa del dragon
+const S034 = {
+    "temporadas":"2",
+    "temporada1":[
+                    "7655867812440&temp=1&cap=1",//T1-E1
+                    "7655868009048&temp=1&cap=2",//T1-E2
+                    "7655880133208&temp=1&cap=3",//T1-E3
+                    "7854444907032&temp=1&cap=4",//T1-E4
+                    "7657291450968&temp=1&cap=5",//T1-E5
+                    "7657293220440&temp=1&cap=6",//T1-E6
+                    "7657294137944&temp=1&cap=7",//T1-E7
+                    "7657294924376&temp=1&cap=8",//T1-E8
+                    "7655935248984&temp=1&cap=9",//T1-E9
+                    "7657296038488&temp=1&cap=10",//T1-E10
+                 ],
+     "temporada2":[
+                    "7853861112344&temp=2&cap=1",//T2-E1
+                    
+                  ] 
+}
 //Knuckles
 const S033 = {
     "temporadas":"1",
