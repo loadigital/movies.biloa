@@ -15,7 +15,7 @@ const S034 = {
                  ],
      "temporada2":[
                     "7853861112344&temp=2&cap=1",//T2-E1
-                    
+                    "7866267142680&temp=2&cap=2",//T2-E2
                   ] 
 }
 //Knuckles
