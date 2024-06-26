@@ -16,8 +16,9 @@
     border-radius: 5px 5px;
     margin-bottom: 10px;
 }
-.card-body h1{
+.card-body .title-card{
     margin-bottom: 10px;
+     font-size: 18px;
 }
 .card-body a{
     width: 100%;
