@@ -1,3 +1,33 @@
+//Pesadillas y ensoñaciones de joko anwar
+const S036 = {
+    "temporadas":"1",
+    "temporada1":[
+                    "7868534950424&temp=1&cap=1",//T1-E1
+                    "7868536130072&temp=1&cap=2",//T1-E2
+                    "7868536916504&temp=1&cap=3",//T1-E3
+                    "7868538161688&temp=1&cap=4",//T1-E4
+                    "7868590393880&temp=1&cap=5",//T1-E5
+                    "7869310110232&temp=1&cap=6",//T1-E6
+                    "7869310503448&temp=1&cap=7",//T1-E7
+                 ]
+     
+}
+//La hora marcada
+const S035 = {
+    "temporadas":"1",
+    "temporada1":[
+                    "7866375932440&temp=1&cap=1",//T1-E1
+                    "7866376456728&temp=1&cap=2",//T1-E2
+                    "7866376915480&temp=1&cap=3",//T1-E3
+                    "7866377374232&temp=1&cap=4",//T1-E4
+                    "7866386745880&temp=1&cap=5",//T1-E5
+                    "7866442648088&temp=1&cap=6",//T1-E6
+                    "7866443368984&temp=1&cap=7",//T1-E7
+                    "7866510019096&temp=1&cap=8",//T1-E8
+                    "7867721976344&temp=1&cap=9",//T1-E9
+                 ]
+     
+}
 //La casa del dragon
 const S034 = {
     "temporadas":"2",
