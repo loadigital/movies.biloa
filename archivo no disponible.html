@@ -41,8 +41,6 @@
 			flex-direction: row;
 			flex-wrap: wrap;
 			justify-content: center;
-			align-items: center;
-			
 			text-align: center;
 			color: #ffff;
 		}
@@ -66,6 +64,26 @@
 			color: #ffffff;
 			cursor: pointer;
 		}
+		@media screen and (max-width:800px ) {
+			.disponible h3, .disponible p{
+				font-size: 14px;
+				margin: 4px;
+			}
+			.disponible{
+				width: 90%;
+				padding: 5px;
+			}
+			.bi-emoji-smile, .bi-emoji-frown{
+			width: 100%;
+			font-size: 30px;
+			color: #eeff00;
+		}
+		.disponible button{
+			width: 250px;
+			height: 30px;
+			
+		}
+		}
 		
 	</style>
 </head>
@@ -73,8 +91,9 @@
 
 	<div class="co-disponible">
 		<div class="disponible">
-			<i class="bi-emoji-smile"></i>
-			<h1>PROXIMAMENTE...</h1>
+			<i class="bi-emoji-frown"></i>
+			<p>Hola, si estás viendo esto significa que el link del video esta caído. Por favor te pedimos reportar este error mediante nuestro grupo de Telegram presionando el botón de abajo. Gracias por tu comprensión y ayuda…</p>
+			<a target="_blank" href="https://t.me/vid360p"><button><i class="bi-telegram"></i> Grupo Telegram</button></a>
 			<!--<p>Te pedimos mil disculpas, el contenido de SERIES no se encuentra disponible en estos momentos, pero estamos trabajando para que muy pronto esté listo para ti, por el momento puedes disfrutar de la películas que ya se encuentran disponibles…</p>
 		<a href="#"><button><i class="bi-collection-play-fill"></i> Ver Películas</button></a>-->
 		</div>
