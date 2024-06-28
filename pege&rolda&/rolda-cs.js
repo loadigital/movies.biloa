@@ -45,7 +45,7 @@ const S034 = {
                  ],
      "temporada2":[
                     "https://strwish.com/e/wcsh5dgcftp0&temp=2&cap=1",//T2-E1
-                    "7866267142680&temp=2&cap=2",//T2-E2
+                    "https://strwish.com/e/mqc4ukk2s9cc&temp=2&cap=2",//T2-E2
                   ] 
 }
 //Knuckles
