@@ -44,7 +44,7 @@ const S034 = {
                     "7657296038488&temp=1&cap=10",//T1-E10
                  ],
      "temporada2":[
-                    "7853861112344&temp=2&cap=1",//T2-E1
+                    "https://strwish.com/e/wcsh5dgcftp0&temp=2&cap=1",//T2-E1
                     "7866267142680&temp=2&cap=2",//T2-E2
                   ] 
 }
