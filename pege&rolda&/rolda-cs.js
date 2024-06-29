@@ -52,12 +52,12 @@ const S034 = {
 const S033 = {
     "temporadas":"1",
     "temporada1":[
-        "7849279883800&temp=1&cap=1",//T1-E1
+        "https://strwish.com/e/z1zppf8he3sh&temp=1&cap=1",//T1-E1
         "7849280211480&temp=1&cap=2",//T1-E2
-        "7849280539160&temp=1&cap=3",//T1-E3
-        "7849280801304&temp=1&cap=4",//T1-E4
+        "https://strwish.com/e/0sysoxpkrb94&temp=1&cap=3",//T1-E3
+        "https://strwish.com/e/ftzrf8dtsqaq&temp=1&cap=4",//T1-E4
         "7849281391128&temp=1&cap=5",//T1-E5
-        "7849281849880&temp=1&cap=6",//T1-E6                
+        "https://strwish.com/e/n2lqs6p0bnju&temp=1&cap=6",//T1-E6                 
     ] 
     
 }
