@@ -1,3 +1,26 @@
+//Las inclemencias del amor
+const S037 = {
+    "temporadas":"1",
+    "temporada1":[
+                    "6558688545342&temp=1&cap=1&direct=1",//T1-E1
+                    "6558750607934&temp=1&cap=2&direct=1",//T1-E2
+                    "6558800153150&temp=1&cap=3&direct=1",//T1-E3
+                    "6558864378430&temp=1&cap=4&direct=1",//T1-E4
+                    "6558948330046&temp=1&cap=5&direct=1",//T1-E5
+                    "6559024220734&temp=1&cap=6&direct=1",//T1-E6
+                    "6559086742078&temp=1&cap=7&direct=1",//T1-E7
+                    "6559148542526&temp=1&cap=8&direct=1",//T1-E8
+                    "6559198153278&temp=1&cap=9&direct=1",//T1-E9
+                    "6559253072446&temp=1&cap=10&direct=1",//T1-E10
+                    "6559299799614&temp=1&cap=11&direct=1",//T1-E11
+                    "6559342791230&temp=1&cap=12&direct=1",//T1-E12
+                    "6559409703486&temp=1&cap=13&direct=1",//T1-E13
+                    "6559453284926&temp=1&cap=14&direct=1",//T1-E14
+                    "6559494769214&temp=1&cap=15&direct=1",//T1-E15
+                    "6559542676030&temp=1&cap=16&direct=1",//T1-E16
+                 ]
+     
+}
 //Pesadillas y ensoñaciones de joko anwar
 const S036 = {
     "temporadas":"1",
