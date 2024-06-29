@@ -1,4 +1,4 @@
-/Clanes
+//Clanes
 const S038 = {
     "temporadas":"1",
     "temporada1":[
