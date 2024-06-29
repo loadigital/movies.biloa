@@ -1,3 +1,17 @@
+/Clanes
+const S038 = {
+    "temporadas":"1",
+    "temporada1":[
+                    "7077153671742&temp=1&cap=1&direct=1",//T1-E1
+                    "7077158455870&temp=1&cap=2&direct=1",//T1-E2
+                    "7077163895358&temp=1&cap=3&direct=1",//T1-E3
+                    "7077169138238&temp=1&cap=4&direct=1",//T1-E4
+                    "7077175429694&temp=1&cap=5&direct=1",//T1-E5
+                    "7077180738110&temp=1&cap=6&direct=1",//T1-E6
+                    "7077187684926&temp=1&cap=7&direct=1",//T1-E7
+                 ]
+     
+}
 //Las inclemencias del amor
 const S037 = {
     "temporadas":"1",
