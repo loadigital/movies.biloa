@@ -1,3 +1,18 @@
+//Gracias, ¿el siguiente?
+const S039 = {
+    "temporadas":"1",
+    "temporada1":[
+                    "https://strwish.com/e/aidnyqrhtygm&temp=1&cap=1&direct=0",//T1-E1
+                    "7083505683006&temp=1&cap=2&direct=1",//T1-E2
+                    "7083508566590&temp=1&cap=3&direct=1",//T1-E3
+                    "7083511581246&temp=1&cap=4&direct=1",//T1-E4
+                    "https://strwish.com/e/17cotonf82l2&temp=1&cap=5&direct=0",//T1-E5
+                    "7083516561982&temp=1&cap=6&direct=1",//T1-E6
+                    "7083518855742&temp=1&cap=7&direct=1",//T1-E7
+                    "7083522460222&temp=1&cap=8&direct=1",//T1-E8
+                 ]
+     
+}
 //Clanes
 const S038 = {
     "temporadas":"1",
