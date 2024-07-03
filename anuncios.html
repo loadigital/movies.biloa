@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Anuncios</title>
-    
+    <link rel="stylesheet" href="https://loadigital.github.io/api/css/libreria-1-0-1.css">
 </head>
 <body>
+  <div class="col-12 flexrow-c" style="position: fixed;z-index: 999;"><button class="bot-2" id="times" ></button></div>
   <div class="anuncios">
     <script async="async" data-cfasync="false" src="//wombjingle.com/bb4d4778614a14a277feed9d2fbf3e5a/invoke.js"></script>
     <div id="container-bb4d4778614a14a277feed9d2fbf3e5a"></div>
@@ -87,6 +88,24 @@
 
   
 <script type='text/javascript' src='//wombjingle.com/20/bc/68/20bc682e27aaf56cf3fdada8207f0a2b.js'></script> 
+<script>
+  var control = 30;
+
+function times() {
+
+	document.getElementById("times").innerHTML = "Por favor espera " +  control + " Segundos";
+
+	if(control == 0) {
+
+		document.getElementById("times").style.display="none"
+	}else{
+		control--;
+		setTimeout("times()",1000);
+	}
+}
+
+times()
+</script>
 </body>
 </html>
 
