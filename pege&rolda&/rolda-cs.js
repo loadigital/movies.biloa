@@ -1,3 +1,14 @@
+//El continental
+const S040 = {
+    "temporadas":"1",
+    "temporada1":[
+                    "https://strwish.com/e/7q5bed4k950h&temp=1&cap=1&direct=0",//T1-E1
+                    "https://strwish.com/e/795900q48s79&temp=1&cap=2&direct=0",//T1-E2
+                    "https://strwish.com/e/xav1ahp70u6m&temp=1&cap=3&direct=0",//T1-E3
+                    
+                 ]
+     
+}
 //Gracias, ¿el siguiente?
 const S039 = {
     "temporadas":"1",
