@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
+    <div class="col-12 flexrow-c" style="position: fixed;z-index: 999;"><button class="bot-2" id="times" ></button></div>
     <div class="content-main col-12 flexrow-c">
         <div class="content-log col-12 flexrow-c">
             <img src="img/hgw.JPG" alt="">
@@ -23,5 +24,23 @@
     </div>
     
     <script src="js/script.js"></script>
+    <script>
+        var control = 30;
+      
+      function times() {
+      
+          document.getElementById("times").innerHTML = "Por favor espera " +  control + " Segundos";
+      
+          if(control == 0) {
+      
+              document.getElementById("times").style.display="none"
+          }else{
+              control--;
+              setTimeout("times()",1000);
+          }
+      }
+      
+      times()
+      </script>
 </body> 
 </html>
