@@ -111,7 +111,7 @@ const S034 = {
                     "7655867812440&temp=1&cap=1",//T1-E1
                     "7655868009048&temp=1&cap=2",//T1-E2
                     "7655880133208&temp=1&cap=3",//T1-E3
-                    "7856759048728&temp=1&cap=4",//T1-E4
+                    "https://strwish.com/e/pc6gu3a1fc37&temp=1&cap=4",//T1-E4
                     "7657291450968&temp=1&cap=5",//T1-E5
                     "7657293220440&temp=1&cap=6",//T1-E6
                     "7657294137944&temp=1&cap=7",//T1-E7
@@ -122,7 +122,7 @@ const S034 = {
      "temporada2":[
                     "https://strwish.com/e/wcsh5dgcftp0&temp=2&cap=1",//T2-E1
                     "https://strwish.com/e/mqc4ukk2s9cc&temp=2&cap=2",//T2-E2
-                     "8801411664606&temp=2&cap=3",//T2-E3
+                     "https://strwish.com/e/yrs2sn7fwajg&temp=2&cap=3",//T2-E3
                   ] 
 }
 //Knuckles
