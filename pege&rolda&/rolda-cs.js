@@ -1,3 +1,16 @@
+//Echo
+const S041 = {
+    "temporadas":"1",
+    "temporada1":[
+                    "https://strwish.com/e/n4lgpa2wvb8d&temp=1&cap=1&direct=0",//T1-E1
+                    "https://strwish.com/e/5byjioi7o9uk&temp=1&cap=2&direct=0",//T1-E2
+                    "https://strwish.com/e/5n4jo0odtir4&temp=1&cap=3&direct=0",//T1-E3
+                    "https://strwish.com/e/ipg0eli67zft&temp=1&cap=4&direct=0",//T1-E4
+                    "https://strwish.com/e/i9hew5ckoo7o&temp=1&cap=5&direct=0",//T1-E5
+                    
+                 ]
+     
+}
 //El continental
 const S040 = {
     "temporadas":"1",
