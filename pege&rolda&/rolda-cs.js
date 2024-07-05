@@ -290,11 +290,11 @@ const S024 = {
 const S023 = {
     "temporadas":"1",
     "temporada1":[
-                "7363461450294&temp=1&cap=1",//T1-E1
-                "7363461515830&temp=1&cap=2",//T1-E2
+                "https://strwish.com/e/pargrmrrdj6a&temp=1&cap=1",//T1-E1
+                "https://strwish.com/e/eop7ap9cl7ap&temp=1&cap=2",//T1-E2
                 "7287115221558&temp=1&cap=3",//T1-E3
                 "8673669876446&temp=1&cap=4",//T1-E4
-                "7287146351158&temp=1&cap=5",//T1-E5
+                "https://strwish.com/e/aujp9a10tojh&temp=1&cap=5",//T1-E5
                 "8673672432350&temp=1&cap=6",//T1-E6
                 
     ] 
