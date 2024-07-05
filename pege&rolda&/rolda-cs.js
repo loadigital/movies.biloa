@@ -1,3 +1,17 @@
+//El velo
+const S042 = {
+    "temporadas":"1",
+    "temporada1":[
+                    "8799443880670&temp=1&cap=1&direct=0",//T1-E1
+                    "8799483005662&temp=1&cap=2&direct=0",//T1-E2
+                    "8800962611934&temp=1&cap=3&direct=0",//T1-E3
+                    "8801093028574&temp=1&cap=4&direct=0",//T1-E4
+                    "8801137986270&temp=1&cap=5&direct=0",//T1-E5
+                    "8801310083806&temp=1&cap=6&direct=0",//T1-E6
+                    
+                 ]
+     
+}
 //Echo
 const S041 = {
     "temporadas":"1",
