@@ -2,12 +2,12 @@
 const S042 = {
     "temporadas":"1",
     "temporada1":[
-                    "8799443880670&temp=1&cap=1&direct=0",//T1-E1
-                    "8799483005662&temp=1&cap=2&direct=0",//T1-E2
-                    "8800962611934&temp=1&cap=3&direct=0",//T1-E3
-                    "8801093028574&temp=1&cap=4&direct=0",//T1-E4
-                    "8801137986270&temp=1&cap=5&direct=0",//T1-E5
-                    "8801310083806&temp=1&cap=6&direct=0",//T1-E6
+                    "https://strwish.com/e/kq7hlge2d0ok&temp=1&cap=1&direct=0",//T1-E1
+                    "https://strwish.com/e/ntvwvg21zg8i&temp=1&cap=2&direct=0",//T1-E2
+                    "https://strwish.com/e/j7v4n7b27y5e&temp=1&cap=3&direct=0",//T1-E3
+                    "https://strwish.com/e/5stl7jmq10qv&temp=1&cap=4&direct=0",//T1-E4
+                    "https://strwish.com/e/2glfb7b5sffx&temp=1&cap=5&direct=0",//T1-E5
+                    "https://strwish.com/e/9fxjxji7g166&temp=1&cap=6&direct=0",//T1-E6
                     
                  ]
      
