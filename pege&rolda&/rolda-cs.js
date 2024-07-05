@@ -2,12 +2,12 @@
 const S042 = {
     "temporadas":"1",
     "temporada1":[
-                    "https://strwish.com/e/kq7hlge2d0ok&temp=1&cap=1&direct=0",//T1-E1
-                    "https://strwish.com/e/ntvwvg21zg8i&temp=1&cap=2&direct=0",//T1-E2
-                    "https://strwish.com/e/j7v4n7b27y5e&temp=1&cap=3&direct=0",//T1-E3
-                    "https://strwish.com/e/5stl7jmq10qv&temp=1&cap=4&direct=0",//T1-E4
-                    "https://strwish.com/e/2glfb7b5sffx&temp=1&cap=5&direct=0",//T1-E5
-                    "https://strwish.com/e/9fxjxji7g166&temp=1&cap=6&direct=0",//T1-E6
+                    "kq7hlge2d0ok&temp=1&cap=1&direct=0",//T1-E1
+                    "ntvwvg21zg8i&temp=1&cap=2&direct=0",//T1-E2
+                    "j7v4n7b27y5e&temp=1&cap=3&direct=0",//T1-E3
+                    "5stl7jmq10qv&temp=1&cap=4&direct=0",//T1-E4
+                    "2glfb7b5sffx&temp=1&cap=5&direct=0",//T1-E5
+                    "9fxjxji7g166&temp=1&cap=6&direct=0",//T1-E6
                     
                  ]
      
@@ -16,11 +16,11 @@ const S042 = {
 const S041 = {
     "temporadas":"1",
     "temporada1":[
-                    "https://strwish.com/e/n4lgpa2wvb8d&temp=1&cap=1&direct=0",//T1-E1
-                    "https://strwish.com/e/5byjioi7o9uk&temp=1&cap=2&direct=0",//T1-E2
-                    "https://strwish.com/e/5n4jo0odtir4&temp=1&cap=3&direct=0",//T1-E3
-                    "https://strwish.com/e/ipg0eli67zft&temp=1&cap=4&direct=0",//T1-E4
-                    "https://strwish.com/e/i9hew5ckoo7o&temp=1&cap=5&direct=0",//T1-E5
+                    "n4lgpa2wvb8d&temp=1&cap=1&direct=0",//T1-E1
+                    "5byjioi7o9uk&temp=1&cap=2&direct=0",//T1-E2
+                    "5n4jo0odtir4&temp=1&cap=3&direct=0",//T1-E3
+                    "ipg0eli67zft&temp=1&cap=4&direct=0",//T1-E4
+                    "i9hew5ckoo7o&temp=1&cap=5&direct=0",//T1-E5
                     
                  ]
      
@@ -29,9 +29,9 @@ const S041 = {
 const S040 = {
     "temporadas":"1",
     "temporada1":[
-                    "https://strwish.com/e/7q5bed4k950h&temp=1&cap=1&direct=0",//T1-E1
-                    "https://strwish.com/e/795900q48s79&temp=1&cap=2&direct=0",//T1-E2
-                    "https://strwish.com/e/xav1ahp70u6m&temp=1&cap=3&direct=0",//T1-E3
+                    "7q5bed4k950h&temp=1&cap=1&direct=0",//T1-E1
+                    "795900q48s79&temp=1&cap=2&direct=0",//T1-E2
+                    "xav1ahp70u6m&temp=1&cap=3&direct=0",//T1-E3
                     
                  ]
      
@@ -40,11 +40,11 @@ const S040 = {
 const S039 = {
     "temporadas":"1",
     "temporada1":[
-                    "https://strwish.com/e/aidnyqrhtygm&temp=1&cap=1&direct=0",//T1-E1
+                    "aidnyqrhtygm&temp=1&cap=1&direct=0",//T1-E1
                     "7083505683006&temp=1&cap=2&direct=1",//T1-E2
                     "7083508566590&temp=1&cap=3&direct=1",//T1-E3
                     "7083511581246&temp=1&cap=4&direct=1",//T1-E4
-                    "https://strwish.com/e/17cotonf82l2&temp=1&cap=5&direct=0",//T1-E5
+                    "17cotonf82l2&temp=1&cap=5&direct=0",//T1-E5
                     "7083516561982&temp=1&cap=6&direct=1",//T1-E6
                     "7083518855742&temp=1&cap=7&direct=1",//T1-E7
                     "7083522460222&temp=1&cap=8&direct=1",//T1-E8
@@ -88,6 +88,7 @@ const S037 = {
                  ]
      
 }
+
 //Pesadillas y ensoñaciones de joko anwar
 const S036 = {
     "temporadas":"1",
@@ -125,7 +126,7 @@ const S034 = {
                     "7655867812440&temp=1&cap=1",//T1-E1
                     "7655868009048&temp=1&cap=2",//T1-E2
                     "7655880133208&temp=1&cap=3",//T1-E3
-                    "https://strwish.com/e/pc6gu3a1fc37&temp=1&cap=4",//T1-E4
+                    "pc6gu3a1fc37&temp=1&cap=4",//T1-E4
                     "7657291450968&temp=1&cap=5",//T1-E5
                     "7657293220440&temp=1&cap=6",//T1-E6
                     "7657294137944&temp=1&cap=7",//T1-E7
@@ -134,21 +135,23 @@ const S034 = {
                     "7657296038488&temp=1&cap=10",//T1-E10
                  ],
      "temporada2":[
-                    "https://strwish.com/e/wcsh5dgcftp0&temp=2&cap=1",//T2-E1
-                    "https://strwish.com/e/mqc4ukk2s9cc&temp=2&cap=2",//T2-E2
-                     "https://strwish.com/e/yrs2sn7fwajg&temp=2&cap=3",//T2-E3
+                    "wcsh5dgcftp0&temp=2&cap=1",//T2-E1
+                    "mqc4ukk2s9cc&temp=2&cap=2",//T2-E2
+                    "yrs2sn7fwajg&temp=2&cap=3",//T2-E3
+                    
                   ] 
 }
+
 //Knuckles
 const S033 = {
     "temporadas":"1",
     "temporada1":[
-        "https://strwish.com/e/z1zppf8he3sh&temp=1&cap=1",//T1-E1
-        "https://strwish.com/e/ksvygy3bsiok&temp=1&cap=2",//T1-E2
-        "https://strwish.com/e/0sysoxpkrb94&temp=1&cap=3",//T1-E3
-        "https://strwish.com/e/ftzrf8dtsqaq&temp=1&cap=4",//T1-E4
-        "https://strwish.com/e/3w4fje84khdh&temp=1&cap=5",//T1-E5
-        "https://strwish.com/e/n2lqs6p0bnju&temp=1&cap=6",//T1-E6                 
+        "z1zppf8he3sh&temp=1&cap=1",//T1-E1
+        "ksvygy3bsiok&temp=1&cap=2",//T1-E2
+        "0sysoxpkrb94&temp=1&cap=3",//T1-E3
+        "ftzrf8dtsqaq&temp=1&cap=4",//T1-E4
+        "3w4fje84khdh&temp=1&cap=5",//T1-E5
+        "n2lqs6p0bnju&temp=1&cap=6",//T1-E6                
     ] 
     
 }
@@ -166,8 +169,6 @@ const S032 = {
     ] 
     
 }
-//Del revés (Inside Out)
-const d150540 = {"links":["https://1drv.ms/v/c/1b4c79b927e93b9a/IQPrXZyGlMeqSYwDe3A7u5b_AfLYtwhkOBiEnj4lB972dOo"]}
 
 //Alguien esta mirando
 const S031 = {
@@ -212,7 +213,8 @@ const S029 = {
                 "8715371416286&temp=1&cap=4",//T1-E4
                 "8715371547358&temp=1&cap=5",//T1-E5
                 "7849282505240&temp=1&cap=6",//T1-E6
-                "7849283029528&temp=1&cap=7",//T1-E7                       
+                "7849283029528&temp=1&cap=7",//T1-E7
+                              
     ] 
     
 }
@@ -249,7 +251,8 @@ const S027 = {
                 "6898120723135&temp=1&cap=13",//T1-E13
                 "6898122033855&temp=1&cap=14",//T1-E14
                 "6898123803327&temp=1&cap=15",//T1-E15
-                "6898125310655&temp=1&cap=16",//T1-E16       
+                "6898125310655&temp=1&cap=16",//T1-E16
+                
     ] 
     
 }
@@ -264,7 +267,8 @@ const S026 = {
                 "6885099768511&temp=1&cap=5",//T1-E5
                 "6885099702975&temp=1&cap=6",//T1-E6
                 "6885099834047&temp=1&cap=7",//T1-E7
-                "6885105273535&temp=1&cap=8",//T1-E8      
+                "6885105273535&temp=1&cap=8",//T1-E8
+                
     ] 
     
 }
@@ -304,11 +308,11 @@ const S024 = {
 const S023 = {
     "temporadas":"1",
     "temporada1":[
-                "https://strwish.com/e/pargrmrrdj6a&temp=1&cap=1",//T1-E1
-                "https://strwish.com/e/eop7ap9cl7ap&temp=1&cap=2",//T1-E2
+                "pargrmrrdj6a&temp=1&cap=1",//T1-E1
+                "eop7ap9cl7ap&temp=1&cap=2",//T1-E2
                 "7287115221558&temp=1&cap=3",//T1-E3
                 "8673669876446&temp=1&cap=4",//T1-E4
-                "https://strwish.com/e/aujp9a10tojh&temp=1&cap=5",//T1-E5
+                "aujp9a10tojh&temp=1&cap=5",//T1-E5
                 "8673672432350&temp=1&cap=6",//T1-E6
                 
     ] 
@@ -469,14 +473,14 @@ const S013 = {
 const S012 = {
     "temporadas":"1",
     "temporada1":[
-               "7150306003510&temp=1&cap=1",//T1-E1
+                "7150306003510&temp=1&cap=1",//T1-E1
                 "7150458505782&temp=1&cap=2",//T1-E2
                 "8674217036510&temp=1&cap=3",//T1-E3
                 "7150706035254&temp=1&cap=4",//T1-E4
                 "8674217757406&temp=1&cap=5",//T1-E5
                 "7347383700022&temp=1&cap=6",//T1-E6
                 "7150951991862&temp=1&cap=7",//T1-E7
-                "7150954089014&temp=1&cap=8",//T1-E8   
+                "7150954089014&temp=1&cap=8",//T1-E8 
                 ]  
 }
 //Halo
