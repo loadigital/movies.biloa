@@ -1,3 +1,18 @@
+//Las brujas de Mayfair de Anne Rice
+const S043 = {
+    "temporadas":"1",
+    "temporada1":[
+                    "fgy5zd1mix1u&temp=1&cap=1&direct=4",//T1-E1
+                    "54b0vnzdef2h&temp=1&cap=2&direct=4",//T1-E2
+                    "6w6zzbwpyuw1&temp=1&cap=3&direct=4",//T1-E3
+                    "jfdw4t2gkq79&temp=1&cap=4&direct=4",//T1-E4
+                    "3qs1f7zdgtcs&temp=1&cap=5&direct=4",//T1-E5
+                    "lnfd2dy5clh5&temp=1&cap=6&direct=4",//T1-E6
+                    "4l2jqsylb9wa&temp=1&cap=7&direct=4",//T1-E7
+                    "f1qlufyas8y1&temp=1&cap=8&direct=4",//T1-E8
+                 ]
+     
+}
 //El velo
 const S042 = {
     "temporadas":"1",
