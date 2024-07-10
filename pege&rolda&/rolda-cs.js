@@ -227,15 +227,14 @@ const S031 = {
 const S030 = {
     "temporadas":"1",
     "temporada1":[
-        "7344982854198&temp=1&cap=1",//T1-E1
-        "7363429599798&temp=1&cap=2",//T1-E2
-        "7363120466486&temp=1&cap=3",//T1-E3
-        "7363301607990&temp=1&cap=4",//T1-E4
-        "7344982985270&temp=1&cap=5",//T1-E5
-        "7344999500342&temp=1&cap=6",//T1-E6
-        "7345000548918&temp=1&cap=7",//T1-E7
-        "7363434187318&temp=1&cap=8",//T1-E8
-                              
+       "qlo89s41rujk&temp=1&cap=1&direct=4",//T1-E1
+        "7exq0nkobpy2&temp=1&cap=2&direct=4",//T1-E2
+        "5jm3xjp6krj8&temp=1&cap=3&direct=4",//T1-E3
+        "iz40ef4vunqu&temp=1&cap=4&direct=4",//T1-E4
+        "mg89keo7r7yq&temp=1&cap=5&direct=4",//T1-E5
+        "0287mruksw2s&temp=1&cap=6&direct=4",//T1-E6
+        "3ispfck4oo20&temp=1&cap=7&direct=4",//T1-E7
+        "fgwq77c4h515&temp=1&cap=8&direct=4",//T1-E8                              
     ] 
     
 }
