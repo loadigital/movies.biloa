@@ -1,3 +1,24 @@
+//Tracker
+const S044 = {
+    "temporadas":"1",
+    "temporada1":[
+                    "mwuze8u8ndro&temp=1&cap=1&direct=4",//T1-E1
+                    "0pv2k7xsyqpr&temp=1&cap=2&direct=4",//T1-E2
+                    "nurg8tolvjyb&temp=1&cap=3&direct=4",//T1-E3
+                    "zv3ckvhhncwg&temp=1&cap=4&direct=4",//T1-E4
+                    "6izpxcef9b7h&temp=1&cap=5&direct=4",//T1-E5
+                    "bvan8gadzeuw&temp=1&cap=6&direct=4",//T1-E6
+                    "llo2dhdtxvxe&temp=1&cap=7&direct=4",//T1-E7
+                    "l18fzktwjy59&temp=1&cap=8&direct=4",//T1-E8
+                    "5afvk2ulbcq8&temp=1&cap=9&direct=4",//T1-E9
+                    "j4s2vlpwte14&temp=1&cap=10&direct=4",//T1-E10
+                    "17jhdsr7xfoy&temp=1&cap=11&direct=4",//T1-E11
+                    "7ufqkoehks8o&temp=1&cap=12&direct=4",//T1-E12
+                    "dsmomucs8v49&temp=1&cap=13&direct=4",//T1-E13
+                    
+                 ]
+     
+}
 //Las brujas de Mayfair de Anne Rice
 const S043 = {
     "temporadas":"1",
