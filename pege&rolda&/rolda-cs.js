@@ -1,3 +1,28 @@
+//Euphoria
+const S045 = {
+    "temporadas":"2",
+    "temporada1":[
+                    "04fibuv5u533&temp=1&cap=1&direct=4",//T1-E1
+                    "igib3zb5yan0&temp=1&cap=2&direct=4",//T1-E2
+                    "afsyndy7pjlj&temp=1&cap=3&direct=4",//T1-E3
+                    "1w4tlzs8ayuq&temp=1&cap=4&direct=4",//T1-E4
+                    "7pna5ag7di6u&temp=1&cap=5&direct=4",//T1-E5
+                    "hzhnzy9fgr3k&temp=1&cap=6&direct=4",//T1-E6
+                    "sp3zqxtvrv0h&temp=1&cap=7&direct=4",//T1-E7
+                    "vhzy46581jmy&temp=1&cap=8&direct=4",//T1-E8
+        
+                 ],
+     "temporada2":[
+                    "6p0c3tz3e70r&temp=2&cap=1&direct=4",//T2-E1
+                    "m37qlkf1rdkp&temp=2&cap=2&direct=4",//T2-E2
+                    "32wut23772rl&temp=2&cap=3&direct=4",//T2-E3
+                    "fi7iq7zygj8x&temp=2&cap=4&direct=4",//T2-E4
+                    "3fchwnhd3t6u&temp=2&cap=5&direct=4",//T2-E5
+                    "sipsk4qxybj6&temp=2&cap=6&direct=4",//T1-E6
+                    "q4yvus81pk2x&temp=2&cap=7&direct=4",//T1-E7
+                    "7ykxxnqiuqdm&temp=2&cap=8&direct=4",//T1-E8
+                  ] 
+}
 //Tracker
 const S044 = {
     "temporadas":"1",
