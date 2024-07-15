@@ -175,6 +175,7 @@ const S034 = {
                     "mqc4ukk2s9cc&temp=2&cap=2&direct=2",//T2-E2
                     "yrs2sn7fwajg&temp=2&cap=3&direct=2",//T2-E3
                     "p109346s9mk7&temp=2&cap=4&direct=4",//T2-E4
+                    "w0sk0rbp0mog&temp=2&cap=5&direct=4",//T2-E5
                   ] 
 }
 
