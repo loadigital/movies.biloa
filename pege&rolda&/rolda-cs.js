@@ -627,7 +627,7 @@ const S007 = {
                  ],
      "temporada2":[
                     "7195497007670&temp=2&cap=1",//T2-E1
-                    "7195497138742&temp=2&cap=2",//T2-E2
+                    "3u28s09wvwwj&temp=2&cap=2&direct=4",//T2-E2
                     "7195497466422&temp=2&cap=3",//T2-E3
                     "7195497859638&temp=2&cap=4",//T2-E4
                     "7195497597494&temp=2&cap=5",//T2-E5
