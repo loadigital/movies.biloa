@@ -1,3 +1,34 @@
+//Pedro el escamoso
+const S046 = {
+    "temporadas":"1",
+    "temporada1":[
+                    "k0t3pns5m2wp&temp=1&cap=1&direct=4",//T1-E1
+                    "w8lb870n6psp&temp=1&cap=2&direct=4",//T1-E2
+                    "d2dziex8zqnj&temp=1&cap=3&direct=4",//T1-E3
+                    "33ewg7z9ttym&temp=1&cap=4&direct=4",//T1-E4
+                    "wy0l9529aluf&temp=1&cap=5&direct=4",//T1-E5
+                    "1gv9x3deqm0d&temp=1&cap=6&direct=4",//T1-E6
+                    "5laemi0rvq6d&temp=1&cap=7&direct=4",//T1-E7
+                    "mcxe1tywwlyy&temp=1&cap=8&direct=4",//T1-E8
+                    "kn4obpkpruiv&temp=1&cap=9&direct=4",//T1-E9
+                    "6gp424vvr7sq&temp=1&cap=10&direct=4",//T1-E10
+                    "4fhhle236y38&temp=1&cap=11&direct=4",//T1-E11
+                    "2cwgb4du60rb&temp=1&cap=12&direct=4",//T1-E12
+                    "mv533cadxrz6&temp=1&cap=13&direct=4",//T1-E13
+                    "y8xjtxff8qg0&temp=1&cap=14&direct=4",//T1-E14
+                    "mqyy5v8h60ye&temp=1&cap=15&direct=4",//T1-E15
+                    "z1yv8kmipj8g&temp=1&cap=16&direct=4",//T1-E16
+                    "lgcefp3ui8rf&temp=1&cap=17&direct=4",//T1-E17
+                    "aeil3idzwubz&temp=1&cap=18&direct=4",//T1-E18
+                    "cy7c5x1dzp2n&temp=1&cap=19&direct=4",//T1-E19
+                    "xh7nvcenmfl1&temp=1&cap=20&direct=4",//T1-E20
+                    "nra9k4i8flty&temp=1&cap=21&direct=4",//T1-E21
+                    "h26s9tqvi4ua&temp=1&cap=22&direct=4",//T1-E22
+                    "tlifomveu535&temp=1&cap=23&direct=4",//T1-E23
+                    
+                 ]
+                 
+}
 //Euphoria
 const S045 = {
     "temporadas":"2",
