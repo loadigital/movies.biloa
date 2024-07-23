@@ -670,3 +670,42 @@ const S007 = {
                      
     
 }
+//Britannia
+const S002 = {
+    "temporadas":"2",
+    "temporada1":[
+                    "1kvq7HU9Ml5CSzAa6HQsN0tXz9-0JXpGK&temp=1&cap=1&direct=3",//T1-E1
+                    "1-OPl_mPSG1GhY1G6mv6eZng3KOWiedF1&temp=1&cap=2&direct=3",//T1-E2
+                    "1B_mzeNRSWR_dRnZPv72esaprD7-Jls2W&temp=1&cap=3&direct=3",//T1-E3
+                    "1AfPoIuwSDOZdrG18Ml1CAyv-Faktt8Wm&temp=1&cap=4&direct=3",//T1-E4
+                    "1ecXg8rCtpbwFkJnyl4MB-UD3pXrqsder&temp=1&cap=5&direct=3",//T1-E5
+                    "1BWLS7bX4siAfgopXX8YzfEBQWIwbdJzr&temp=1&cap=6&direct=3",//T1-E6
+                    "1yIovfwH0LOwefW0uwiOKihn_l_vTq4lk&temp=1&cap=7&direct=3",//T1-E7
+                    "1vGBWStQHRnl2WzldtepXJ7oaB4euazXn&temp=1&cap=8&direct=3",//T1-E8
+                    "1Q02Gs-mQssxwWDYFFO6XMQIYhEjYViQP&temp=1&cap=9&direct=3",//T1-E9
+        
+                 ],
+     "temporada2":[
+                    "1ppF1K9IbK5YHuiXPmhxr3W4CS9R6JrtM&temp=2&cap=1&direct=3",//T2-E1
+                    "1Tly7VWksgInTBHqoP5bbQ7mIj5KulnAa&temp=2&cap=2&direct=3",//T2-E2
+                    "1_i1A09F5vg-zbOwHNNZNMsLLzKpDyJz9&temp=2&cap=3&direct=3",//T2-E3
+                    "1lcV1CsoizEHrsHXus3Ki38Jbv7mznr-N&temp=2&cap=4&direct=3",//T2-E4
+                    "1xHmqkOQKNjhcCll3tcUtdlHw1JOSaIYb&temp=2&cap=5&direct=3",//T2-E5
+                    "1tJ4_KBRYjmchUV0jzV5kmzaFdgNI7FYq&temp=2&cap=6&direct=3",//T2-E6
+                    "1qy6MeWlvrOpBo-qThQ163da-OxmriOqU&temp=2&cap=7&direct=3",//T2-E7
+                    "1FBI7b_rT3hYvT4-nWQOhfkDrE68pagwt&temp=2&cap=8&direct=3",//T2-E8
+                    "1khvadrIAPZpf_tTf3I_kQv0QwGzCyhKC&temp=2&cap=9&direct=3",//T2-E9
+                    "1U1ak3dwI7XM1GhCghEDIVdjqqvum6Iuc&temp=2&cap=10&direct=3",//T2-E10
+                  ],
+    "temporada3":[
+                    "1R4iK8I-e548JAwmlkNOfS2LFnXpu34uu&temp=3&cap=1&direct=3",//T3-E1
+                    "1zW1-s6SZELC1LTF0GJN3obBh9NuOP8yd&temp=3&cap=2&direct=3",//T3-E2
+                    "1PT3oUSY5vIyjp3JibUITNDPsBnT2KHPN&temp=3&cap=3&direct=3",//T3-E3
+                    "15wMMd0JCkWy6xSmIJGNf8GgNXYM5x8Ka&temp=3&cap=4&direct=3",//T3-E4
+                    "15UAFc5KWHyrLatkc8UY5d9TbmSce1Cq8&temp=3&cap=5&direct=3",//T3-E5
+                    "1NOKq38HONCipt_yxtSoQnkIHa128i2Ir&temp=3&cap=6&direct=3",//T3-E6
+                    "1_jSgbXg8reQIX2RWrt73kHWGexHJDOMW&temp=3&cap=7&direct=3",//T3-E7
+                    "1bO7dGxO1gqcJgW0MHJSAMpO5bD08gF-e&temp=3&cap=8&direct=3",//T3-E8
+                  ]
+    
+}
