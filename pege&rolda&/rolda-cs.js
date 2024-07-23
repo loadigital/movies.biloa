@@ -672,7 +672,7 @@ const S007 = {
 }
 //Britannia
 const S002 = {
-    "temporadas":"2",
+    "temporadas":"3",
     "temporada1":[
                     "1kvq7HU9Ml5CSzAa6HQsN0tXz9-0JXpGK&temp=1&cap=1&direct=3",//T1-E1
                     "1-OPl_mPSG1GhY1G6mv6eZng3KOWiedF1&temp=1&cap=2&direct=3",//T1-E2
