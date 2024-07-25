@@ -32,6 +32,7 @@ const productos = data => {
             </div>
         </div> 
         `
+        document.getElementById("video-").src = content.video;
        
 
     })}
