@@ -32,7 +32,8 @@ const productos = data => {
             </div>
         </div> 
         `
-        document.getElementById("video-").src = content.video;
-       
+       document.getElementById("title-card-v").innerHTML = content.title;
+       document.getElementById("info-v").href = "https://wa.me/573175284010?text=Hola%20deseo%20mas%20información%20del%20siguiente%20producto *" + content.title + "*";
+       document.getElementById("video-").src = content.video;
 
     })}
