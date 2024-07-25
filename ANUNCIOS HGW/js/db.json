@@ -3,19 +3,22 @@
         "id":"id001",
         "title":"Jabon de Tourmaline Soap",
         "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhW2wuAVG73gzIn6cVj3GLTN2u3oZoBPtyTsvaPbW8jjJD4D3nenOPpskV6KaMR6hAV0NAKteu0YRo9sN5hp9xI4y3jjxkYQQMzlFipSpM4gKHjpgEIrQKK-7BPxMUsGJhzqPzy1PPrrywprnyuras51uLL-2oYPGM6hsKzXVPJOvmWOz2gwF8kMOVrAo/s320/jabon%20de%20turmelina.jpg",
-        "descripcion":"El Nano Turmalina contenida en HGW Tourmaline Soap es un cristal energético rico en minerales. La Turmalina, debido a su abundante contenido en elementos minerales nutritivos, aporta la sensación de limpieza, humectación y revitalización de la piel, mejorando su elasticidad y activación. Este producto está fabricado con ingredientes naturales y es adecuado para todo tipo de piel."
+        "descripcion":"El Nano Turmalina contenida en HGW Tourmaline Soap es un cristal energético rico en minerales. La Turmalina, debido a su abundante contenido en elementos minerales nutritivos, aporta la sensación de limpieza, humectación y revitalización de la piel, mejorando su elasticidad y activación. Este producto está fabricado con ingredientes naturales y es adecuado para todo tipo de piel.",
+        "video":"video/jabones.mp4"
     },
     {
         "id":"id002",
         "title":"Toallas Sanitarias Día 'SMILIFE'",
         "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAimPyw3cvE9Plq_sWjO3YcVxzqMQ0SgWlF9Cd8TRIp7M01E7gy-NKy0StOdvoFWsPPRLuiVV_1nrFB8nKnBfaUm8FlpmVnmpmPknrSiapeKk6MwquFMfSNYHeo7NIzIHCzU4luR1AuRry63u_X7CnXiMYhYLp11iIyivDL3Upj9MxTzFQQfoM7kRPvws/s320/toallas%20higienicas.jpg",
-        "descripcion":"Toalla sanitaria con textura de algodón suave para la piel y con banda de turmalina generadora de aniones para la higiene y protección en el cuidado de la salud femenina."
+        "descripcion":"Toalla sanitaria con textura de algodón suave para la piel y con banda de turmalina generadora de aniones para la higiene y protección en el cuidado de la salud femenina.",
+        "video":"video/toallas-sanitarias.mp4"
     },
     {
         "id":"id003",
         "title":"Crema Dental Natural sin Flúor",
         "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyZD75q9foTsRnDdlp4NSK2GYjs91yZyzAm1hgU4tBdWl9LPW5wFL-ZNlMyitsHs1jRrlyWead70qhLsKlY7dTiPD3TC1UuApYJ5MhhH2-1ZZw53jekpYIGGaTg-6M0a7mCZK-YSyoeCYJTYZKkvFuX9lRggc6GtFkMWu2d4d1uD6kl7vc6e_EQiaCGHM/s320/06bd9d8ed0ae424486ac4c9bbc937a82.jpg",
-        "descripcion":"El producto de uso en el cuidado dental todo en uno. Refresca tu aliento y Limpia tus dientes con ingredientes naturales."
+        "descripcion":"El producto de uso en el cuidado dental todo en uno. Refresca tu aliento y Limpia tus dientes con ingredientes naturales.",
+        "video":"video/crema-dental.mp4"
     }
 
 ]
