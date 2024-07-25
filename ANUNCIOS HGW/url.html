@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HGW</title>
+    <link rel="stylesheet" href="https://loadigital.github.io/api/css/libreria-1-0-1.css">
+    <link rel="stylesheet" href="https://loadigital.github.io/movies.biloa/icon/bootstrap-icons.css">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    
+    <div class="content-main col-12 flexrow-c">
+        <div class="col-10 flexrow-c" style="background: rgb(108, 245, 255, 0.1); box-shadow: 5px 5px 15px rgb(163, 163, 163);">
+        <div class="content-log col-12 flexrow-c">
+            <img src="img/hgw.JPG" alt="">
+            <p class="col-12 flexrow-c">Comprometidos con el cuidado de tu salud</p>
+        </div>
+        <div class="content-video col-12 flexrow-c" >
+            
+            <div class="col-12 flexrow-c card-body">
+                <h2 class="title-card" id="title-card-v"></h2>
+                <a id="info-v" target="_blank" href="" class="col-12 flexrow-c"><button class="bot-2 bi-whatsapp"> Mas Información</button></a>
+            </div>
+            
+            <video id="video-"  poster="" src="" controls  type="video/mp4"></video>
+        </div>
+        <div class="content-anuncio col-12 flexrow-c" id="insert-content" style="margin-bottom: 40px;"></div>
+    </div>
+    </div>
+    
+    <div class="content-log col-12 flexrow-c">
+        <img class="latam" src="img/latam.JPG" alt="">
+        <p  class="col-12 flexrow-c">© 2024 from - B!LOA. All rights reserved.</p>
+    </div>
+    
+    
+<script>
+let vrl = new URL(document.location).searchParams;
+let id = vrl.get('i');
+
+
+document.addEventListener('DOMContentLoaded', () => {
+    fetchData();
+});
+
+const fetchData = async () => {
+    try{
+        const res = await fetch('js/db.json');
+        const data = await res.json();
+        productos(data);
+    }catch (error) {
+        console.log(error);
+    }
+}
+
+const productos = data => {
+    
+      data.forEach(content => {
+        if (id === content.id ) {
+            const insert = document.getElementById("insert-content");
+        
+        insert.innerHTML += `
+        <div class="card">
+            <div class="card-img col-12 flexrow-c">
+                 <a href=""></a><img class="img-card" src="${content.img}" alt="">
+            </div>
+            <div class="card-body">
+                <h2 class="title-card">${content.title}</h2>
+                <p class="flexrow-c">Envío gratis a todo el país "Colombia"...</p>
+                <a  target="_blank" href="https://wa.me/573175284010?text=Hola%20deseo%20mas%20información%20del%20siguiente%20producto  *${content.title}*" class="col-12 flexrow-c"><button class="bot-2 bi-whatsapp"> Mas Información</button></a>
+                <p class="desc col-8 flexrow-c">${content.descripcion}</p>
+            </div>
+        </div> 
+        `
+       document.getElementById("title-card-v").innerHTML = content.title;
+       document.getElementById("info-v").href = "https://wa.me/573175284010?text=Hola%20deseo%20mas%20información%20del%20siguiente%20producto *" + content.title + "*";
+       document.getElementById("video-").src = content.video; 
+       document.getElementById("video-").poster = content.img; 
+        
+    }
+
+    })}
+
+     
+</script>
+</body> 
+</html>
