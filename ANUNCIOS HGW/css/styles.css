@@ -1,6 +1,5 @@
-::-webkit-scrollbar {
-    display: none;
-}
+
+
 .content-log img{
     max-width: 120px;
 }
@@ -20,7 +19,7 @@
 }
 .card-body .title-card{
     margin-bottom: 10px;
-     font-size: 18px;
+    font-size: 18px;
 }
 .card-body a{
     width: 100%;
@@ -35,6 +34,12 @@
 .card-body .desc{
     text-align: justify;
 }
+.content-video video{
+    width: 90%;
+    height: 200px;
+    border-radius: 7px 7px;
+    box-shadow: 5px 5px 15px rgb(163, 163, 163);
+}
 @media screen and (min-width:900px ) {
     .card-img, .card-body{
         width: 50%;
@@ -44,6 +49,12 @@
     }
     .content-anuncio{
         box-shadow: 5px 5px 15px rgb(163, 163, 163);
+    }
+    .content-video video{
+        width: 100%;
+        max-width: 720px;
+        height: 450px;
+       
     }
 
 }
