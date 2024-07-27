@@ -22,7 +22,6 @@
     font-size: 18px;
 }
 .card-body a{
-    width: 100%;
     text-decoration: none;
 }
 .card-body button{
@@ -34,6 +33,14 @@
 .card-body .desc{
     text-align: justify;
 }
+
+.card-body .desc strong{
+    width: 100%;
+    text-align: center;
+}
+.card-img{
+   align-items: start;
+}
 .content-video video{
     width: 90%;
     height: 200px;
@@ -42,7 +49,7 @@
 }
 @media screen and (min-width:900px ) {
     .card-img, .card-body{
-        width: 50%;
+        width: 100%;
     }
     .card-body .desc, .card-body button{
         width: 100%;
