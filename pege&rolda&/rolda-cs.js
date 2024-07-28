@@ -9,7 +9,7 @@ const S047 = {
                     "7ks0mvbs720f&temp=1&cap=5&direct=4",//T1-E5
                     "lp16wkb5l48d&temp=1&cap=6&direct=4",//T1-E6
                     "t5kz98iun3yu&temp=1&cap=7&direct=4",//T1-E7
-                    "https://loadigital.github.io/movies.biloa/video/stream.html?id=eyJpZCI6Imh0dHBzOi8vcXBsanl6Mzlhd2NvZW5mZC5wcmFkb2kuY29tL2hsczIvMDEvMDA0OTQvb25uZGxlbGQydWFrX24vaW5kZXgtdjEtYTEubTN1OD90PTVNM3JWQWxxcjVuWEUwcXQxZHNzN2pJN3pfQU5rWGJPWXBEOS1QdG1rTEkmcz0xNzIyMDIxNDE2JmU9MTI5NjAwJmY9MjQ3MTYyMiZzcnY9anRrZDVrZjRrZXR0Jmk9MC4wJnNwPTUwMCZwMT1qdGtkNWtmNGtldHQmcDI9anRrZDVrZjRrZXR0JmFzbj0yNzAwMzUifQ==&temp=1&cap=8&direct=5&ext=1YbXXT_qW8X-TWjV4bI8JtQimWBtdN9Pi",//T1-E8
+                    "kt94infpyu6j&temp=1&cap=8&direct=5&ext=1YbXXT_qW8X-TWjV4bI8JtQimWBtdN9Pi",//T1-E8
                     
                  ]
                  
