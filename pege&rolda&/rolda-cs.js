@@ -9,7 +9,7 @@ const S047 = {
                     "7ks0mvbs720f&temp=1&cap=5&direct=4",//T1-E5
                     "lp16wkb5l48d&temp=1&cap=6&direct=4",//T1-E6
                     "t5kz98iun3yu&temp=1&cap=7&direct=4",//T1-E7
-                    "1YbXXT_qW8X-TWjV4bI8JtQimWBtdN9Pi&temp=1&cap=8&direct=3&ext=0",//T1-E8
+                   "kt94infpyu6j&temp=1&cap=8&direct=4&ext=1YbXXT_qW8X-TWjV4bI8JtQimWBtdN9Pi",//T1-E8
                     
                  ]
                  
