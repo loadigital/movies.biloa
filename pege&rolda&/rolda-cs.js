@@ -325,7 +325,7 @@ const S029 = {
                 "8715371547358&temp=1&cap=5",//T1-E5
                 "7849282505240&temp=1&cap=6",//T1-E6
                 "7849283029528&temp=1&cap=7",//T1-E7
-                "7801126521432&temp=1&cap=8",//T1-E8
+                "1a-ZzhOgex8OSVMlgy0e661-2gLgqOjds&temp=1&cap=8&direct=3",//T1-E8
                 "7801425693272&temp=1&cap=9",//T1-E9              
     ] 
     
