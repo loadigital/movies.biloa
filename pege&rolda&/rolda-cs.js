@@ -1,3 +1,21 @@
+//el juego de la piramide
+const S048 = {
+    "temporadas":"1",
+    "temporada1":[
+                    "7809062537816&temp=1&cap=1&direct=",//T1-E1
+                    "7810551056984&temp=1&cap=2&direct=",//T1-E2
+                    "7809062603352&temp=1&cap=3&direct=",//T1-E3
+                    "7810190215768&temp=1&cap=4&direct=",//T1-E4
+                    "7810190346840&temp=1&cap=5&direct=",//T1-E5
+                    "7810190281304&temp=1&cap=6&direct=",//T1-E6
+                    "7810550860376&temp=1&cap=7&direct=",//T1-E7
+                    "7810550925912&temp=1&cap=8&direct=",//T1-E8
+                    "7810550991448&temp=1&cap=9&direct=",//T1-E9
+                    "7810551122520&temp=1&cap=10&direct=",//T1-E10
+                    
+                 ]
+                 
+}
 //Eliminar
 const S047 = {
     "temporadas":"1",
