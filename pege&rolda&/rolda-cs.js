@@ -337,14 +337,14 @@ const S029 = {
     "temporadas":"1",
     "temporada1":[
                 "8715371023070&temp=1&cap=1",//T1-E1
-                "8715371481822&temp=1&cap=2",//T1-E2
+                "7815414811224&temp=1&cap=2",//T1-E2
                 "8715371612894&temp=1&cap=3",//T1-E3
                 "8715371416286&temp=1&cap=4",//T1-E4
                 "8715371547358&temp=1&cap=5",//T1-E5
                 "7849282505240&temp=1&cap=6",//T1-E6
                 "7849283029528&temp=1&cap=7",//T1-E7
                 "1a-ZzhOgex8OSVMlgy0e661-2gLgqOjds&temp=1&cap=8&direct=3",//T1-E8
-                "7801425693272&temp=1&cap=9",//T1-E9              
+                "7801425693272&temp=1&cap=9",//T1-E9             
     ] 
     
 }
