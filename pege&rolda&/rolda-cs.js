@@ -607,9 +607,9 @@ const S012 = {
                 "8674217036510&temp=1&cap=3",//T1-E3
                 "7150706035254&temp=1&cap=4",//T1-E4
                 "8674217757406&temp=1&cap=5",//T1-E5
-                "7347383700022&temp=1&cap=6",//T1-E6
+                "1uzvIZDFbxyWFsXk_9yopDNuK9cBBFA-9&temp=1&cap=6&direct=3",//T1-E6
                 "7150951991862&temp=1&cap=7",//T1-E7
-                "7150954089014&temp=1&cap=8",//T1-E8 
+                "7150954089014&temp=1&cap=8",//T1-E8  
                 ]  
 }
 //Halo
