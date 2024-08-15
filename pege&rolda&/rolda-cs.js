@@ -695,14 +695,14 @@ const S007 = {
                     "7195497728566&temp=1&cap=8",//T1-E8
                  ],
      "temporada2":[
-                    "7195497007670&temp=2&cap=1",//T2-E1
-                    "3u28s09wvwwj&temp=2&cap=2&direct=4",//T2-E2
-                    "7195497466422&temp=2&cap=3",//T2-E3
-                    "7195497859638&temp=2&cap=4",//T2-E4
-                    "7195497597494&temp=2&cap=5",//T2-E5
-                    "7195497269814&temp=2&cap=6",//T2-E6
-                    "w27itdfeqyib&temp=2&cap=7&direct=4",//T2-E7
-                    "7348244056630&temp=2&cap=8",//T2-E8
+                    "1YXeyyRYi_ahohdon_YTMmp63BNdnB6rh&temp=2&cap=1&direct=3",//T2-E1
+                    "1ohnlDSYFLh-UOzDIFFGibXZGCWjxvGad&temp=2&cap=2&direct=3",//T2-E2
+                    "1iZlUt86GOzBj_ATKnYY1XMSoT6V2LOx8&temp=2&cap=3&direct=3",//T2-E3
+                    "1Vie0CtMXrtE99WYcDUVgRRcWEMp0Bk9D&temp=2&cap=4&direct=3",//T2-E4
+                    "185c8gmsHVB-V04VQShwHSnUMztWIE05u&temp=2&cap=5&direct=3",//T2-E5
+                    "1wSPVdpVzeYB9T3oMb96evlQ4Ye7shPTT&temp=2&cap=6&direct=3",//T2-E6
+                    "1LtmOGBPNdl91FHPo-GhX8_q4nqTDLBVh&temp=2&cap=7&direct=3",//T2-E7
+                    "1K2gkQmyeND7zsXOSYgrBZWIIg-V6CfNf&temp=2&cap=8&direct=3",//T2-E8
                   ] 
                      
     
