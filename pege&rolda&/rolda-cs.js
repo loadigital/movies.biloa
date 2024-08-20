@@ -1,3 +1,19 @@
+//Merlina
+const S001 = {
+    "temporadas":"1",
+    "temporada1":[
+                    "1o-ocBcRaugFaxKacw8mmE-U621YZgxqf&temp=1&cap=1&direct=3",//T1-E1
+                    "1LIcn35ijm98m0toWrKHEXdTNbDqBn2Ov&temp=1&cap=2&direct=3",//T1-E2
+                    "17Ag9jjK_jKVlRwQWhHN1CiPk3gWHEmw5&temp=1&cap=3&direct=3",//T1-E3
+                    "1vseQWWxI45IOgYz9lGCtuMxPTjwS6oy3&temp=1&cap=4&direct=3",//T1-E4
+                    "1ePDxv8o9pL3v76tlvNMqpwW-fCC2QICj&temp=1&cap=5&direct=3",//T1-E5
+                    "127DIMvzIhoQNvBMP-RZFlT9LbzqVCRK9&temp=1&cap=6&direct=3",//T1-E6
+                    "1oS-tCxSv9bFVw45SNtcrS7PMCcGrY1IE&temp=1&cap=7&direct=3",//T1-E7
+                    "1ahsq43K3ZbzoUjOBZJdOkNSLMkQxOlwp&temp=1&cap=8&direct=3",//T1-E8
+                    
+                 ]
+                 
+}
 //el juego de la piramide
 const S048 = {
     "temporadas":"1",
