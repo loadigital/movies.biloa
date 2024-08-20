@@ -1,3 +1,34 @@
+//Invasion
+const S006 = {
+    "temporadas":"2",
+    "temporada1":[
+                    "1JZ_KGPpEGdwwOFHCipP3V6TtOrVXab-e&temp=1&cap=1&direct=3",//T1-E1
+                    "1UY8F-_tSWrh2MPLcDtirsi7A85KFW1IN&temp=1&cap=2&direct=3",//T1-E2
+                    "1uV28sfkdmJitD94Nh6HG7aSNRZqcIfjp&temp=1&cap=3&direct=3",//T1-E3
+                    "1Q5HlRHV5ZT_fg1M5BpC8JMrV9Qh8Ven_&temp=1&cap=4&direct=3",//T1-E4
+                    "1x65kDM_u15hERZJFK8KKEeG5Lz1lz0Rn&temp=1&cap=5&direct=3",//T1-E5
+                    "1GnMy5yVCk8BgM47wisdJEOABP8ub-Z1m&temp=1&cap=6&direct=3",//T1-E6
+                    "1otPC6Vyd0dYEiJfE1mrjDYHN5siBB_aS&temp=1&cap=7&direct=3",//T1-E7
+                    "1m3JhznIjtTkff4Z4sE6Ha6n4ikl0YjdL&temp=1&cap=8&direct=3",//T1-E8
+                    "1C2tmcmb71FoDIwX4K5aXW2in2rcHxzzE&temp=1&cap=9&direct=3",//T1-E9
+                    "1LE8pQloAXIt2FeQax0wKT_j5Zd-gXONB&temp=1&cap=10&direct=3",//T1-E10
+                    
+                 ],
+    "temporada2":[
+                    "1YZA11g2vaXnnP8SjLw9AXLMptMq5-6r2&temp=2&cap=1&direct=3",//T2-E1
+                    "1_KjVK5ByEOLxA9H86E3tC6dM6SlEsa6v&temp=2&cap=2&direct=3",//T2-E2
+                    "1gRNRl2mssNALbVf-0wM4wWxEgMpJgQgK&temp=2&cap=3&direct=3",//T2-E3
+                    "1MQBG3G96_BaKtcuybpMf08pvW_VYfI8q&temp=2&cap=4&direct=3",//T2-E4
+                    "12hVLO49eCKkokOlkZUFmJxa_2mkiNlf4&temp=2&cap=5&direct=3",//T2-E5
+                    "1coSFMntrW2FfZu8mV0hITSTdb_FfoI-J&temp=2&cap=6&direct=3",//T2-E6
+                    "1hok70ErqdEC0iZ0lvierRd2EYf9-uque&temp=2&cap=7&direct=3",//T2-E7
+                    "1EudqeZSD766OreLG_EvRqSGvfXF8QF3Y&temp=2&cap=8&direct=3",//T2-E8
+                    "11CBgN74Pk4VvObb2M80iJ4J17p4M3Yst&temp=2&cap=9&direct=3",//T2-E9
+                    "1aogFx57FrqvtEt-Akm8AKNBeCQCcpqdw&temp=2&cap=10&direct=3",//T2-E10
+                 ]
+
+                 
+}
 //Merlina
 const S001 = {
     "temporadas":"1",
