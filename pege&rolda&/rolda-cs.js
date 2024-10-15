@@ -1,3 +1,33 @@
+//La monja guerrera
+const S049 = {
+    "temporadas":"2",
+    "temporada1":[
+                    "1MVmWAe6NzE9ttZ9ndT7p8G8qorvF_UwM&temp=1&cap=1&direct=3",//T1-E1
+                    "116mGhvAEeELJsGLF3F8BWSo0nGVe4oeB&temp=1&cap=2&direct=3",//T1-E2
+                    "1IePE82GO92OHAxkgqBpK9NN7z0c8Gc6T&temp=1&cap=3&direct=3",//T1-E3
+                    "1Wyv-NiOhMZtY5IBFfVCXnPypYbOWh1bf&temp=1&cap=4&direct=3",//T1-E4
+                    "1liuBzCQyMNAQ-GABMlQ242fISfu_PwXk&temp=1&cap=5&direct=3",//T1-E5
+                    "1T0WLc8PwClyxoL3wIBCpST0cFMpjszEk&temp=1&cap=6&direct=3",//T1-E6
+                    "1tSdWSFXKPeXthB3rV-rLkpt_76KetqIP&temp=1&cap=7&direct=3",//T1-E7
+                    "1Q8502s8m_scV3EHW0I3vsuuUM4LylqQ8&temp=1&cap=8&direct=3",//T1-E8
+                    "1ALHYUmUlFqpQkzmW7kptqZjZSuJsMfby&temp=1&cap=9&direct=3",//T1-E9
+                    "1LRs69dRb3KlgPPdTCpCDOuPz0dD4sTm_&temp=1&cap=10&direct=3",//T1-E10
+                    
+                 ],
+    "temporada2":[
+                    "11tQDlDU1jVlsFKGYcu-cL1cSIi25ovIV&temp=2&cap=1&direct=3",//T2-E1
+                    "1F3lVJeM7GkL2_YYJCHcBk3yFq9s-WHxB&temp=2&cap=2&direct=3",//T2-E2
+                    "1i71e78AfxBfwHs2ff83RiCQoz6efmn7R&temp=2&cap=3&direct=3",//T2-E3
+                    "1Bq6NjlMrpfo9J0Dx597bgR-RayAqFKu5&temp=2&cap=4&direct=3",//T2-E4
+                    "1Y8lsJMRpXq8XSb7CyQKX7bvyOUSIsIyB&temp=2&cap=5&direct=3",//T2-E5
+                    "14R-xFIOy28kzVbf6xxYqMx3aV85q120C&temp=2&cap=6&direct=3",//T2-E6
+                    "1AqkbTmt817Q_zwOtyzPiCJ4P0vo1ofJS&temp=2&cap=7&direct=3",//T2-E7
+                    "1JR8Efs182eLn4cuNu3vITftr0a9LbtTn&temp=2&cap=8&direct=3",//T2-E8
+                    
+                 ]
+
+                 
+}
 //Invasion
 const S006 = {
     "temporadas":"2",
