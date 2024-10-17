@@ -1,3 +1,17 @@
+//Citadel: Diana
+const S050 = {
+    "temporadas":"1",
+    "temporada1":[
+                    "1BW_VrMSbJjseLQESr-K3dfzW6qXT_slY&temp=1&cap=1&direct=3",//T1-E1
+                    "1lnXo8nxIwm-ixy2caeNqD1knwL9VKrb5&temp=1&cap=2&direct=3",//T1-E2
+                    "1qIbkTBfeaopzWltm9yRNZHE1ipDzhrFw&temp=1&cap=3&direct=3",//T1-E3
+                    "1WrfBKdHwuvLUMD08Qa2wUM8nfbo0ngp0&temp=1&cap=4&direct=3",//T1-E4
+                    "13Ip6T_XkfmXZxqY2A_7PUC3Bi_MUzP1s&temp=1&cap=5&direct=3",//T1-E5
+                    "1cs8WhgnF0IrtHrJMRse5xKZJys0pHCjy&temp=1&cap=6&direct=3",//T1-E6
+                                        
+                 ]
+                     
+}
 //La monja guerrera
 const S049 = {
     "temporadas":"2",
