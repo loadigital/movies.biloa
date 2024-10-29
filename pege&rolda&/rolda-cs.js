@@ -1,3 +1,17 @@
+//Gundam: Réquiem para una venganza
+const S052 = {
+    "temporadas":"1",
+    "temporada1":[
+                    "1zzmhsR5_NkpNRnzeS4d-dWCwwG0lRETd&temp=1&cap=1&direct=3",//T1-E1
+                    "1-56dkCkORjoyOAQn5dw251xmbXf88KaO&temp=1&cap=2&direct=3",//T1-E2
+                    "1hs1rfNji97rW0ypcL_JzEm8uMiRw-gOm&temp=1&cap=3&direct=3",//T1-E3
+                    "1HxJrVIH0WjTUdnYbbAykh3ZXLh_qVaue&temp=1&cap=4&direct=3",//T1-E4
+                    "1ULyxmsUq61NczgTPXKhYvU52QLSmkRat&temp=1&cap=5&direct=3",//T1-E5
+                    "1V3ygp8IhPEENgOOoih8IAr1CZbfHRuFm&temp=1&cap=6&direct=3",//T1-E6
+                                                            
+                 ]
+                     
+}
 //Nadie en el bosque
 const S051 = {
     "temporadas":"1",
