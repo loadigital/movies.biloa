@@ -1,3 +1,19 @@
+//Nadie en el bosque
+const S051 = {
+    "temporadas":"1",
+    "temporada1":[
+                    "1DW8LzAwnHVTFk3In-Tg4Ivi_Yr4TNfME&temp=1&cap=1&direct=3",//T1-E1
+                    "1kDKTDAZEwP5OuP8jaQe4VqT9fur6EfMK&temp=1&cap=2&direct=3",//T1-E2
+                    "1Il0y6t6Swr3okRa_pkruY34LqRBrPnJP&temp=1&cap=3&direct=3",//T1-E3
+                    "1f4KdqAxz_Z2TDQr0a80t3pBuL1Tg5den&temp=1&cap=4&direct=3",//T1-E4
+                    "1rFUVuoJrxuhyQXTbMi7EqouRjep9JDmD&temp=1&cap=5&direct=3",//T1-E5
+                    "14Xkx0xRZF0j8P-57ipZXcWwZTm2BDJS9&temp=1&cap=6&direct=3",//T1-E6
+                    "1GaumGe1ZAZ4TFc597h9aW6Rn9Ke2B7nQ&temp=1&cap=7&direct=3",//T1-E7
+                    "18mZQWpsxIsLxsgZ9aRzi5H2z-3Molc7v&temp=1&cap=8&direct=3",//T1-E8
+                                        
+                 ]
+                     
+}
 //Citadel: Diana
 const S050 = {
     "temporadas":"1",
