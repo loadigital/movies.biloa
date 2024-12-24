@@ -1,3 +1,19 @@
+//Crueles intenciones
+const S054 = {
+    "temporadas":"1",
+    "temporada1":[
+                    "1Z9X1ACKgGBtofJn8m_7Y7wjUbpCR83Wf&temp=1&cap=1&direct=3",//T1-E1
+                    "1GKOknXlrBVh4HprcSrPqG1k2dnPupuL_&temp=1&cap=2&direct=3",//T1-E2
+                    "1cjtDk_mz6xLJBak9Tjwn3cQaot2llBJ_&temp=1&cap=3&direct=3",//T1-E3
+                    "1q10p1bAjlXqQrOIKWsVBjGZKaAlVtBtp&temp=1&cap=4&direct=3",//T1-E4
+                    "15Y-pBCGfVRcAyp5BJxa5RFnpjGxAycf3&temp=1&cap=5&direct=3",//T1-E5
+                    "1M9tt1Su6tW5HScYD2qubSRomF5cCCsw0&temp=1&cap=6&direct=3",//T1-E6
+                    "1vr4Uns43rxMGJOFiI5goonxUH4h-xmZb&temp=1&cap=7&direct=3",//T1-E7
+                    "1MOSrY-dBZPKCwlK32ZQX3apmG3ZFGJ-_&temp=1&cap=8&direct=3",//T1-E8
+                                                            
+                 ]
+                     
+}
 //1992
 const S053 = {
     "temporadas":"1",
