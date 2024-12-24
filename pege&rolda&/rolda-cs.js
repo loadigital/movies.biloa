@@ -1,3 +1,17 @@
+//1992
+const S053 = {
+    "temporadas":"1",
+    "temporada1":[
+                    "1jgh4ZToY-Q6VK-WE6s9VI7IOoO0hsykE&temp=1&cap=1&direct=3",//T1-E1
+                    "1eecUGUGjGj3DEEWBbwv_DkbQNK8Y-XmV&temp=1&cap=2&direct=3",//T1-E2
+                    "1JrKAd12EWf80enaKTkE63qIYKpeMvme_&temp=1&cap=3&direct=3",//T1-E3
+                    "1dRcKzxYNqGYcEZaCL0wycUEjEJekBlhL&temp=1&cap=4&direct=3",//T1-E4
+                    "1OvdWiICH4Q8jvhDeVCAwBqc0_Cr_pOwW&temp=1&cap=5&direct=3",//T1-E5
+                    "1SeCBlu5KnUkZXBpb-b9j4PKSvQeVyOC6&temp=1&cap=6&direct=3",//T1-E6
+                                                            
+                 ]
+                     
+}
 //Gundam: Réquiem para una venganza
 const S052 = {
     "temporadas":"1",
